@@ -37,3 +37,10 @@ When the owner separately obtains an approved AdSense site, actual ad-unit IDs a
 **External limits:** The signed-in Google AdSense onboarding page still showed **Connect your site to AdSense** as required when checked, although the payment information card was complete. The site has not been confirmed approved or earning; Google review, CMP message publication/certification pairing and ad-unit creation are external gates. A source code test cannot establish account activation, genuine user consent, or a legal compliance guarantee. The Google-certified message itself cannot be browser-verified until Google authorises and publishes it. Actual mobile Safari/VoiceOver remain to be checked on physical devices. No advertising activation is claimed or simulated.
 
 **Release verification:** after merging, confirm the specific GitHub Pages commit succeeded, compare the hosted `build-manifest.json`, verify every public asset and the root `ads.txt`, then run the privacy/site browser tests against the public URL. Record these findings in the merged PR discussion. Revert the second-release commit if site or consent controls regress; the publisher-root repository has a separate rollback.
+
+## CB-005 design and interaction regression
+
+- User request: classical Apple-like monochrome colours, iOS-style Liquid Glass for controls and menus only, with minimal latency and no artificial gloss on product content.
+- Source references: Apple Liquid Glass HIG and Materials, naughtyduk/liquidGL v3.0.0 MIT source, blob SHA `b76e6872bf1c93ecacff646d09a77f5ce5f24ddb`.
+- Planned checks: new `tests/liquid-ui.test.cjs` covers token palette, photo-layer exclusion, accessibility/data-saver guards, local lazy library URL and destruction after tray hide. Existing source and product tests continue in CI.
+- Public acceptance must re-run the exact deployment verifier and hosted interface checks. No physical iOS/Safari FPS claim is made from source or simulated browser tests. The GPU renderer is disabled entirely on iPhone and Safari by deliberate policy, with the CSS-only material as the production fallback.
