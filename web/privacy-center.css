@@ -1,0 +1,16 @@
+/* CB-003: native, compact privacy controls using the shared colour system. */
+.privacy-center-trigger,.privacy-center button,.privacy-center a{min-height:44px;box-sizing:border-box;font:inherit}
+.privacy-center-trigger,.privacy-center button{padding:.625rem .875rem;border:1px solid var(--line);border-radius:12px;background:var(--paper);color:var(--ink);cursor:pointer}
+dialog.privacy-center{box-sizing:border-box;width:min(30rem,calc(100% - 2rem));max-height:calc(100dvh - 2rem);padding:1.25rem;border:1px solid var(--line);border-radius:20px;background:var(--paper);color:var(--ink);overflow:auto;overscroll-behavior:contain;font:inherit;line-height:1.5;text-align:left}
+.privacy-center::backdrop{background:rgba(0,0,0,.45)}
+.privacy-center h2{margin:0 0 .75rem;font-size:1.5rem;letter-spacing:-.02em}
+.privacy-center h3{margin:1.25rem 0 .5rem;font-size:1.0625rem}
+.privacy-center p{margin:.75rem 0;overflow-wrap:anywhere}
+.privacy-center button{max-width:100%;white-space:normal;margin:.25rem 0}
+.privacy-center a{display:flex;align-items:center;color:var(--ink);text-decoration:underline;text-underline-offset:.2em}
+.privacy-center [hidden]{display:none!important}
+.privacy-center :focus-visible,.privacy-center-trigger:focus-visible{outline:3px solid var(--moss);outline-offset:3px}
+.privacy-center [data-privacy-confirm]{border-top:1px solid var(--line);margin-top:.75rem}
+.privacy-center [data-privacy-close]{display:block;margin-top:.75rem}
+@media(prefers-reduced-motion:reduce){.privacy-center,.privacy-center::backdrop{animation:none;transition:none;scroll-behavior:auto}}
+@media(forced-colors:active){.privacy-center,.privacy-center button,.privacy-center-trigger{border:1px solid ButtonText}}

@@ -146,7 +146,7 @@ class DiscoveryTests(unittest.TestCase):
         for template in ('<div id="results"></div>', '<div id="results">' + builder.START + 'old' + builder.END + '</div>'):
             self.assertIn('new', builder.inject_cards(template, 'new'))
             self.assertNotIn('old', builder.inject_cards(template, 'new'))
-        for name in ('ads-config.js', 'ads.js', 'ads.css', 'ads-boot.js'):
+        for name in ('ads-config.js', 'ads.js', 'ads.css', 'ads-boot.js', 'google-cmp-provider.js', 'google-cmp-boot.js'):
             (self.output / name).write_text('/* supplied asset */')
         self.build()
         for file in self.output.rglob('*.html'):

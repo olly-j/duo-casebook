@@ -26,3 +26,10 @@ Status: Append-only evidence register
 - Feedback: Apply the parts of the AI development spine that improve quality, product approach and documentation.
 - Linked work: CB-001
 - Disposition: Accepted. Core and web profiles apply; iOS and portfolio controls do not.
+
+## Feedback CB-F003, 15 October 2026
+- Source: owner in active conversation
+- Observation: readers will need privacy and cookie accept/reject controls if publisher advertising is enabled; production-readiness needs complete GitHub/SEO/publisher boundaries and tasteful UX.
+- Linked work: CB-003.
+- Decision: owner explicitly authorised a distinct second public deployment after the previously released CB-002.
+- Evidence status: implementation and external publisher review tracked separately. Do not mark Google site or CMP approved based on source code alone.

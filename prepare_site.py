@@ -5,7 +5,7 @@ from scripts.build_discovery import build_discovery
 ROOT = Path(__file__).resolve().parent
 PUBLIC = ['index.html','styles.css','app.js','data.js','catalogue.json','icon.svg',
           'manifest.webmanifest','reading.css','reading.js','ads-config.js','ads.js',
-          'ads.css','ads-boot.js']
+          'ads.css','ads-boot.js','privacy-center.js','privacy-center.css','google-cmp-provider.js','google-cmp-boot.js']
 out = ROOT / 'docs'
 out.mkdir(exist_ok=True)
 for name in PUBLIC:

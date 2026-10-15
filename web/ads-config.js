@@ -8,5 +8,6 @@ window.CASEBOOK_ADS_CONFIG = Object.freeze({
   consentReady: false,
   approvedHosts: Object.freeze([]),
   consentConfigId: null,
-  requiredPurposes: Object.freeze([1, 3, 4, 7, 9, 10])
+  requiredPurposes: Object.freeze([1, 2, 3, 4, 7, 9, 10]),
+  googleCMP: Object.freeze({reviewed:false,certifiedConfigurationReviewed:false,legalBasesReviewed:false,googleOnly:true,additionalConsentRequired:false,publisherId:null,configId:null,approvedOrigin:null,approvedPath:'/duo-casebook/',allowedCmpIds:Object.freeze([]),vendorListVersion:null,tcfPolicyVersion:null,bootstrapScriptURL:null})
 });

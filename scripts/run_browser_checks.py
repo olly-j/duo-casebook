@@ -19,7 +19,7 @@ def main()->int:
     axe=first([os.getenv('AXE_PATH'),*glob.glob(str(home/'.npm/_npx/*/node_modules/axe-core/axe.min.js'))])
     if axe:env['AXE_PATH']=axe
     scripts=['tests/browser-functional.cjs']
-    if args.all:scripts+=['tests/browser-smoke.cjs','tests/photo-audit.cjs','tests/launch-browser.cjs']
+    if args.all:scripts+=['tests/browser-smoke.cjs','tests/photo-audit.cjs','tests/launch-browser.cjs','tests/consent-browser.cjs']
     for script in scripts:
         print('+ node',script,flush=True);result=subprocess.run(['node',script],cwd=ROOT,env=env)
         if result.returncode:return result.returncode
