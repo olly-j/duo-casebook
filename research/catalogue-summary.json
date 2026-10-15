@@ -1,8 +1,10 @@
 {
-  "records": 93,
-  "brands": 45,
+  "records": 92,
+  "brands": 44,
   "registry": 67,
-  "images": 60,
-  "weightPublished": 15,
-  "pricePublished": 85
+  "images": 92,
+  "galleryImages": 139,
+  "imageComplete": true,
+  "weightPublished": 16,
+  "pricePublished": 86
 }

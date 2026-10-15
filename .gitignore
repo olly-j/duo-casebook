@@ -4,7 +4,8 @@ node_modules/
 .DS_Store
 __pycache__/
 tests/screenshots/
-tests/browser-smoke.cjs
-tests/browser-smoke.json
 web/test-fixture.js
 pages-config.json
+research/image-candidates.json
+research/image-candidate-ranking.json
+tests/photos-before.json

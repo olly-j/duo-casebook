@@ -1,0 +1,12 @@
+# This file records the template source and answers used by Copier.
+# Review lifecycle updates through a dedicated branch and pull request.
+_commit: 9e46fbc
+_src_path: gh:olly-j/ai-development-spine
+canonical_backlog: docs/product-backlog.md
+default_branch: main
+github_owner: olly-j
+project_name: CASEBOOK
+project_profile: web-backend
+project_slug: casebook
+project_summary: A source-led, mobile-first iPhone Duo case comparison library.
+repository_name: duo-casebook

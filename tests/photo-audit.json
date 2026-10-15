@@ -1,0 +1,653 @@
+{
+  "checkedAt": "2026-10-15",
+  "total": 92,
+  "loaded": 92,
+  "missing": [],
+  "broken": [],
+  "images": [
+    {
+      "id": "apple-case",
+      "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR94?fmt=jpeg&hei=800&wid=800",
+      "loaded": true,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "apple-folio",
+      "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR64?fmt=jpeg&hei=800&wid=800",
+      "loaded": true,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "esr-atelier",
+      "url": "https://uk.esrtech.com/cdn/shop/files/iPhone-Duo-Atelier-Silicone-Leather-Magnetic-Case-with-Flex-Stand-Black-ESR-243590662.jpg?v=1790653010&width=800",
+      "loaded": true,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "uag-mouve-xte",
+      "url": "https://images.ctfassets.net/9hslf09drsil/2h6BpVcMuyR2BtPNJeZ7kR/8d4b974d37767d1071b5f556f3912a6a/UAG_HS_APPLE_IPHONE-FOLD-2026-JACK_MOUVE-XTE_ASH_STD_01.png?fm=webp&q=80&w=800",
+      "loaded": true,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "thinborne-600d",
+      "url": "https://cdn.shopify.com/s/files/1/0707/8684/2905/files/iphone_duo_case_8f5b9c8f-2663-47a9-8d31-8419dd233a9a.jpg?v=1790485996",
+      "loaded": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "pitaka-edge-back",
+      "url": "https://cdn.shopify.com/s/files/1/1036/4113/files/18Ultra-black-grey-edge-03.png?v=1788943614",
+      "loaded": true,
+      "width": 964,
+      "height": 965
+    },
+    {
+      "id": "pitaka-edge-front",
+      "url": "https://cdn.shopify.com/s/files/1/1036/4113/files/iPhone-Duo-Sunset-edge-Front-glass-only-01.png?v=1789444318",
+      "loaded": true,
+      "width": 958,
+      "height": 958
+    },
+    {
+      "id": "pitaka-edge-suite",
+      "url": "https://cdn.shopify.com/s/files/1/1036/4113/files/iPhone18Case-2_6ab8d7ec-1c86-4975-95cb-fa56f2581667.png?v=1789962977",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "mous-limitless-hinge",
+      "url": "https://uk.mous.co/cdn/shop/files/i18_CRANE_Gallery_09_Aramid.jpg?v=1788953169&width=800",
+      "loaded": true,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "mous-limitless-free",
+      "url": "https://uk.mous.co/cdn/shop/files/i18_CRANE_No_Hinge_Gallery_07_Aramid.jpg?v=1788953177&width=800",
+      "loaded": true,
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "mous-ultra-thin",
+      "url": "https://scdn.speedsize.com/19464703-36eb-4c15-80b7-604735fdf8c8/uk.mous.co/cdn/shop/files/i18_Fold_Ultra_Thin_06_Gallery.jpg?v=1788953152&width=650",
+      "loaded": true,
+      "width": 600,
+      "height": 750
+    },
+    {
+      "id": "dbrand-grip",
+      "url": "https://cdn.shopify.com/s/files/1/0733/5867/2170/files/f0afc406-aab6-48ab-bf05-da28d1407066_62f7bedf-abbf-4b81-aae5-45925bc7cf45.jpg?v=1788905551",
+      "loaded": true,
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": "benks-armorgrid-air-grand-combo-for-iphone-duo",
+      "url": "https://www.benks.com/cdn/shop/files/Grand_Combo_ArmorGrid_Air_Beyond_Blue_Case_built_with_Kevlar_for_iPhone_Duo_4.png?v=1789120147&width=1000",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "benks-crystal-grand-combo-for-iphone-duo",
+      "url": "https://www.benks.com/cdn/shop/files/Grand_Combo_Crystal_Phone_Case_for_iPhone_Duo_5.png?v=1789526286&width=1000",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "latercase-iphone-duo-maglock-case",
+      "url": "https://cdn.accentuate.io/45665674166358/1788959153691/iPhone-Ultra---Classic---Back.png?v=1788959153692",
+      "loaded": true,
+      "width": 4096,
+      "height": 4096
+    },
+    {
+      "id": "ringke-fusion-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Main.jpg?v=1791378072",
+      "loaded": true,
+      "width": 1290,
+      "height": 1500
+    },
+    {
+      "id": "ringke-fusion-hinge-film-2p-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION_HINGE_CLFG.jpg?v=1791385974",
+      "loaded": true,
+      "width": 1290,
+      "height": 1500
+    },
+    {
+      "id": "ringke-fusion-magnetic-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Main_32da619a-ec44-4c17-a8bb-599c8d49a255.jpg?v=1791378117",
+      "loaded": true,
+      "width": 1290,
+      "height": 1500
+    },
+    {
+      "id": "ringke-fusion-magnetic-hinge-film-2p-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION_HINGE_CLFG_202539e5-6af0-438b-b096-acb25061e808.jpg?v=1791386001",
+      "loaded": true,
+      "width": 1290,
+      "height": 1500
+    },
+    {
+      "id": "supcase-ub-grip-magsafe-for-iphone-duo",
+      "url": "https://supcase.com/cdn/shop/files/SUPCASE_APPLE_iPhoneFold_UBGrip_Rugged_phone_case_Black_1.webp?v=1789929375",
+      "loaded": true,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "id": "poetic-spartan-magsafe-for-iphone-duo",
+      "url": "https://www.poeticcases.com/cdn/shop/files/iPhone-Fold-Ultra-Spartan-A-Clear.jpg?v=1788931370&width=416",
+      "loaded": true,
+      "width": 416,
+      "height": 434
+    },
+    {
+      "id": "nillkin-super-frosted-shield-fold-magsafe-for-iphone-duo",
+      "url": "https://www.nillkin.com/cdn/shop/files/MagSafe-Compatible-Super-Frosted-Shield-Fold-Case-for-iPhone-Duo-black_1.jpg?v=1789098531&width=800",
+      "loaded": true,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "nillkin-iceblade-camprop-magsafe-for-iphone-duo",
+      "url": "https://www.nillkin.com/cdn/shop/files/MagSafe-Compatible-Iceblade-CamProp-Case-with-Transparent-Camera-Cover-for-iPhone-Duo-black_1.jpg?v=1790129127&width=1600",
+      "loaded": true,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "id": "jetech-clear-case-with-hinge-protection-for-iphone-duo",
+      "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71ArhK3SyaL._SS1500_5913-CS_1.jpg",
+      "loaded": true,
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "id": "jetech-vegan-leather-case-with-hinge-protection-for-iphone-duo",
+      "url": "https://www.ijetech.com/wp-content/uploads/2026/09/81DvIKq4LbL._SS1500_5911-CS_1-800x800.jpg",
+      "loaded": true,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "jetech-matte-case-with-hinge-protection-for-iphone-duo",
+      "url": "https://www.ijetech.com/wp-content/uploads/2026/09/617pBLSaY1L._SS1500_5913A-CS_1.jpg",
+      "loaded": true,
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "id": "fntcase-full-hinge-protection-clear-for-iphone-duo",
+      "url": "https://fntcase.com/cdn/shop/files/1_f64fc621-3c70-4fac-8dfc-c7d5758ac3d0.jpg?v=1791619965",
+      "loaded": true,
+      "width": 1680,
+      "height": 1996
+    },
+    {
+      "id": "fntcase-kickstand-hinge-protection-for-iphone-duo",
+      "url": "https://fntcase.com/cdn/shop/files/1-_1_7bc141f2-c808-497d-81b6-3959e4f3ba4d.jpg?v=1789371604",
+      "loaded": true,
+      "width": 1624,
+      "height": 1543
+    },
+    {
+      "id": "fntcase-frosted-oil-spray-touch-magnetic-for-iphone-duo",
+      "url": "https://fntcase.com/cdn/shop/files/1_26749628-afcc-4cf1-81b6-1114584eff1c.jpg?v=1789369746",
+      "loaded": true,
+      "width": 1680,
+      "height": 1996
+    },
+    {
+      "id": "fntcase-360-spin-magnetic-stand-for-iphone-duo",
+      "url": "https://fntcase.com/cdn/shop/files/1_947faa53-7791-45b5-86d3-7c4611f09f62.jpg?v=1788773955",
+      "loaded": true,
+      "width": 1680,
+      "height": 1717
+    },
+    {
+      "id": "fntcase-clear-magnetic-for-iphone-duo",
+      "url": "https://fntcase.com/cdn/shop/files/1.1_797d1cf8-3103-48b2-a3e9-e5967d3b4804.jpg?v=1789192083",
+      "loaded": true,
+      "width": 1680,
+      "height": 1996
+    },
+    {
+      "id": "fntcase-translucent-magnetic-rugged-ring-kickstand-with-hinge-protection-for-iphone-duo",
+      "url": "https://fntcase.com/cdn/shop/files/iPhone18-ultra-fold-2026-phone-case-with-ring-kickstand-01.jpg?v=1787996585",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "tech21-evoclear-magsafe-for-iphone-duo",
+      "url": "https://www.tech21.com/cdn/shop/files/T21-11730_AP1043_EvoClearMS_Clear_01_SF_D_WEB_7cdfa6db-0919-4072-916e-d4428dabed76.jpg?v=1789238349&width=180",
+      "loaded": true,
+      "width": 180,
+      "height": 180
+    },
+    {
+      "id": "speck-presidio-perfect-clear-fold-magsafe-for-iphone-duo",
+      "url": "https://speckproducts.com/cdn/shop/files/speck-presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case-iphone-duo-clear-silver-151119-5085-phone-case-1258618883_400x.jpg?v=1789246567",
+      "loaded": true,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "speck-presidio-lux-fold-magsafe-for-iphone-duo",
+      "url": "https://speckproducts.com/cdn/shop/files/speck-presidio-lux-fold-magsafe-apple-iphone-duo-case-iphone-duo-obsidian-tint-black-151120-9984-phone-case-1258618886_400x.jpg?v=1789246268",
+      "loaded": true,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "zagg-sedona-for-magsafe-with-stand-for-iphone-duo",
+      "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b5fdc1a4-7771-4d1c-8dd2-d356a0b921c9.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
+      "loaded": true,
+      "width": 780,
+      "height": 1282
+    },
+    {
+      "id": "case-mate-floral-gems-magsafe-for-iphone-duo",
+      "url": "https://case-mate.com/cdn/shop/files/CM061216-0190_1000x1000.jpg?v=1788275698",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "case-mate-tough-plus-clear-magsafe-with-stand-for-iphone-duo",
+      "url": "https://case-mate.com/cdn/shop/files/Cmi_ToughClear_stand_Duo_PDP1_CM061218_1000x1000.jpg?v=1788275724",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "kate-spade-flowerbed-blue-magsafe-for-iphone-duo",
+      "url": "https://case-mate.com/cdn/shop/files/KS061842-01-0482_1000x1000.jpg?v=1787938334",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "pelican-protector-magsafe-with-stand-for-iphone-duo",
+      "url": "https://case-mate.com/cdn/shop/files/ppi_ProtectorBlack_Stand_Duo_PDP1_PP061196_1000x1000.jpg?v=1788283826",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "pelican-ranger-clear-magsafe-for-iphone-duo",
+      "url": "https://case-mate.com/cdn/shop/files/ppi_RangerClear_Duo_PDP1_PP061194_1000x1000.jpg?v=1788283835",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "incipio-survivor-clear-for-magsafe-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/0577/0159/7284/files/iPhone18DuoRender3.png?v=1789495243",
+      "loaded": true,
+      "width": 2400,
+      "height": 2400
+    },
+    {
+      "id": "elago-magsafe-silicone-case-for-iphone-duo",
+      "url": "https://www.elago.com/cdn/shop/files/SFOLD-MSSC-ST_Amazon_240fa196-506e-4f2e-8ea9-85be28952469.jpg?v=1788851067",
+      "loaded": true,
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "id": "elago-magsafe-hybrid-clear-case-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/0498/9589/9290/files/SFOLD-MSCL-TR_Amazon_2_1f1e0c35-00b0-4bc3-913b-3834def6628b.jpg?v=1788851462",
+      "loaded": true,
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "id": "cygnett-aeroshield-clear-for-iphone-duo",
+      "url": "https://www.cygnett.com/cdn/shop/files/CY6124CPAEG-1_429a9dfd-604c-4c3c-831f-1b37cc271091_1024x1024.png?v=1788927363",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "cygnett-aeromag-clear-for-iphone-duo",
+      "url": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-1_085a27f3-c535-404c-aeff-68476f783d80_2376x.png?v=1788927307",
+      "loaded": true,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "mujjo-troubadour-iphone-duo-case",
+      "url": "https://cdn.shopify.com/s/files/1/0171/0160/files/iPhone_Duo_Empty-interior_02.jpg?v=1790675910&width=1040",
+      "loaded": true,
+      "width": 1040,
+      "height": 1300
+    },
+    {
+      "id": "snakehive-metro-leather-wallet-for-iphone-duo",
+      "url": "https://snakehive.co.uk/cdn/shop/files/11_086eee43-393b-4f6d-a84e-20bdb4330d82.webp?v=1790172855&width=1200",
+      "loaded": true,
+      "width": 1200,
+      "height": 960
+    },
+    {
+      "id": "blackbrook-classic-leather-folio-for-iphone-duo",
+      "url": "https://blackbrookcase.com/cdn/shop/files/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee-7023140.webp?v=1789085170&width=320",
+      "loaded": true,
+      "width": 320,
+      "height": 320
+    },
+    {
+      "id": "vaja-folio-leather-case-with-magsafe-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-folio-leather-case-floater-latte-open-vaja.jpg?v=1791384063",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "vaja-wallet-leather-case-with-magsafe-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-wallet-leather-case-floater-black-vaja.jpg?v=1791391453",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "vaja-leather-folio-wrap-with-aramid-shell-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/TopdetachableFolioiPhoneDuoBlackVaja.jpg?v=1791805090",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "vaja-leather-wallet-wrap-with-aramid-shell-for-iphone-duo",
+      "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/TopdetachableWalletiPhoneDuoBlackVaja.jpg?v=1791805091",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "fitbag-beat-made-to-measure-sleeve-for-iphone-duo",
+      "url": "https://www.fitbag.com/media/image/product/11/lg/beat-black-custom-tailored-phone-sleeve.jpg",
+      "loaded": true,
+      "width": 1120,
+      "height": 1120
+    },
+    {
+      "id": "fitbag-classic-made-to-measure-sleeve-for-iphone-duo",
+      "url": "https://www.fitbag.com/media/image/product/62/lg/classic-black-alcantara-custom-tailored-phone-sleeve.jpg",
+      "loaded": true,
+      "width": 1120,
+      "height": 1120
+    },
+    {
+      "id": "fitbag-jive-made-to-measure-sleeve-for-iphone-duo",
+      "url": "https://www.fitbag.com/media/image/product/6/lg/jive-gray-custom-tailored-phone-sleeve.jpg",
+      "loaded": true,
+      "width": 1120,
+      "height": 1120
+    },
+    {
+      "id": "fitbag-rave-made-to-measure-sleeve-for-iphone-duo",
+      "url": "https://www.fitbag.com/media/image/product/2/lg/rave-black-custom-tailored-phone-sleeve.jpg",
+      "loaded": true,
+      "width": 1120,
+      "height": 1120
+    },
+    {
+      "id": "noreve-2154tc-leather-case-for-iphone-duo",
+      "url": "https://static01.galaxus.com/productimages/3/4/9/1/0/9/5/9/7/4/1/1/8/1/4/6/3/0/8/01a08ce3-fc23-7c02-be98-5cd67b046b8e_720.jpeg",
+      "loaded": true,
+      "width": 556,
+      "height": 720
+    },
+    {
+      "id": "noreve-2154tb-leather-wallet-case-for-iphone-duo",
+      "url": "https://static01.galaxus.com/productimages/8/4/8/6/0/4/2/1/6/7/0/0/5/5/4/6/5/7/3/01a10c09-f97f-7aa2-8b19-5aa83f62fee6_720.jpeg",
+      "loaded": true,
+      "width": 560,
+      "height": 720
+    },
+    {
+      "id": "moft-dynamic-folio-for-iphone-duo",
+      "url": "https://www.moft.com/cdn/shop/files/MS030_Dynamic_Folio_Duo_Misty_Cove_63325766.png?v=1791637041&width=1090",
+      "loaded": true,
+      "width": 1001,
+      "height": 1001
+    },
+    {
+      "id": "ridge-phone-case-for-iphone-duo-carbon",
+      "url": "https://ridge.com/cdn/shop/files/iphone-ultra-case-carbon-02_581dff0d-084a-42fa-8989-bd4a45115770.jpg?v=1788420483&width=800",
+      "loaded": true,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "spigen-tough-armor-pro-mag-fit",
+      "url": "https://www.spigen.com/cdn/shop/files/title_web_iphone_ultra_tough_armor_pro_magfit_black_01.jpg?v=1789146288&width=1946",
+      "loaded": true,
+      "width": 1430,
+      "height": 1430
+    },
+    {
+      "id": "spigen-slim-armor-pro-mag-fit",
+      "url": "https://www.spigen.com/cdn/shop/files/title_web_iphone_fold_slim_armor_pro_magfit_01.jpg?v=1788298443&width=1946",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "spigen-slim-armor-pro-s-mag-fit",
+      "url": "https://www.spigen.com/cdn/shop/files/title_web_iphone_fold_slim_armor_pro_s_magfit_01.jpg?v=1788298331&width=1946",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "spigen-ultra-hybrid-pro-mag-fit",
+      "url": "https://www.spigen.com/cdn/shop/files/detail_web_iPhone_Fold_Ultra_Hybrid_Pro_Mag_Fit_cc_04.jpg?v=1789078538&width=1946",
+      "loaded": true,
+      "width": 1430,
+      "height": 1430
+    },
+    {
+      "id": "spigen-ultra-hybrid-pro-s-mag-fit",
+      "url": "https://www.spigen.com/cdn/shop/files/detail_iphone_fold_ultra_hybrid_pro_s_magfit_012.jpg?v=1788215619&width=1946",
+      "loaded": true,
+      "width": 1430,
+      "height": 1430
+    },
+    {
+      "id": "spigen-ultra-hybrid-pro",
+      "url": "https://www.spigen.com/cdn/shop/files/detail_web_iPhone_Fold_Ultra_Hybrid_Pro_cc_01_84b71cca-3f5a-4453-9059-ce60dbef58b2.jpg?v=1789078661&width=1946",
+      "loaded": true,
+      "width": 1430,
+      "height": 1430
+    },
+    {
+      "id": "spigen-air-fit-pro-mag-fit",
+      "url": "https://www.spigen.com/cdn/shop/files/title_iphone_fold_air_fit_pro_magfit_02.jpg?v=1788199890&width=1946",
+      "loaded": true,
+      "width": 1430,
+      "height": 1430
+    },
+    {
+      "id": "spigen-nano-pop-mag-fit",
+      "url": "https://www.spigen.com/cdn/shop/files/detail_web_iphone_duo_nano_pop_magfit_blueberry_navy_01.jpg?v=1789079043&width=1946",
+      "loaded": true,
+      "width": 1830,
+      "height": 1830
+    },
+    {
+      "id": "spigen-ibook-concept",
+      "url": "https://www.macworld.com/wp-content/uploads/2026/09/3232659-0-63766400-1789124432-spigen-ibook-duo.jpg?quality=50&strip=all&w=1024",
+      "loaded": true,
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "id": "otterbox-lumen-series",
+      "url": "https://www.otterbox.com/cdn/shop/files/lumen-iphf26-black-mist-3.png?v=1787761478&width=3840",
+      "loaded": true,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "id": "otterbox-defender-series-pro-xt",
+      "url": "https://www.otterbox.com/cdn/shop/files/defender-pro-xt-iphf26-black-3.png?v=1787761478&width=3840",
+      "loaded": true,
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "id": "torras-ostand-q3-vegskin",
+      "url": "https://glass.torraslife.com/cdn/shop/files/8_af4d9b93-e89b-4a7c-94f7-bdad299c873f.png?v=1791541947&width=1200",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "torras-ostand-q3-spin",
+      "url": "https://de.torraslife.com/cdn/shop/files/4_d41ca1f1-e314-440e-a7f9-7f0b20bd5412.png?v=1791258061&width=3840",
+      "loaded": true,
+      "width": 3200,
+      "height": 3200
+    },
+    {
+      "id": "qdos-duo-coming-soon",
+      "url": "https://www.qdossound.com/cdn/shop/files/QDOS_iPhone_Duo_HYBRIDSNAP_Clear_ProductImage_HR_4.png?v=1789386210&width=3840",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "panzerglass-care-discovery",
+      "url": "https://panzerglass.com/cdn/shop/files/CR83510_0.jpg?v=1789022474",
+      "loaded": true,
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": "panzerglass-care-sl1m",
+      "url": "https://panzerglass.com/cdn/shop/files/CR12569_0.jpg?v=1789022493",
+      "loaded": true,
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": "laut-kev-protect",
+      "url": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_KE_BK01.jpg?v=1791264260&width=2000",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "laut-flexi-protect",
+      "url": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_FPT_BK01.jpg?v=1789458729&width=2000",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "laut-crystal-fluro",
+      "url": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_CF_C01.jpg?v=1789458183&width=2000",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "laut-fizz-crystal",
+      "url": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_FC_C01.jpg?v=1789457822&width=2000",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "torro-wallet",
+      "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultr-stand-leather-black-red-white-background-1.jpg?v=1788434745",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "torro-detachable-wallet",
+      "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-detachable-leather-black-white-background-1.jpg?v=1788345131",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "torro-slim-folio-stand",
+      "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-folio-with-stand-leather-black-red-white-background-1.jpg?v=1788873266",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "torro-slim-folio",
+      "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-ultra-slim-leather-folio-leather-black-red-white-background-1.jpg?v=1788786483",
+      "loaded": true,
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": "burga-elite",
+      "url": "https://cdn.burga.photos/_variants/767/Storefront/Phone%20Case/HG_01EL_IP18PROFOLD_EL-dark-gold-magsafe/1__device-color=star%20white.webp",
+      "loaded": true,
+      "width": 767,
+      "height": 767
+    },
+    {
+      "id": "nomad-traditional-leather-folio",
+      "url": "https://cdn.shopify.com/s/files/1/0384/6721/files/856504017682_A_LOGO_PHONE.jpg?crop=center&height=100&v=1788727205&width=100",
+      "loaded": true,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "id": "nomad-mag-leather-back",
+      "url": "https://cdn.shopify.com/s/files/1/0384/6721/files/856504017651_A_LOGO_PHONE.jpg?crop=center&height=100&v=1788721978&width=100",
+      "loaded": true,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "id": "burton-goods-heritage",
+      "url": "https://burtongoods.com/cdn/shop/files/iphone-case-heritage-leather-case-for-iphone-18-duo-burton-goods-1257682891.jpg?v=1788997239&width=1946",
+      "loaded": true,
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "burton-goods-pocket-book",
+      "url": "https://burtongoods.com/cdn/shop/files/iphone-case-the-pocket-book-leather-case-for-iphone-18-duo-burton-goods-1257682898.png?v=1788997118&width=1946",
+      "loaded": true,
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "rokform-rugged",
+      "url": "https://www.rokform.com/cdn/shop/files/1-Rugged-iPhoneDuo.jpg?v=1789056670&width=1200",
+      "loaded": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "nudient-slice",
+      "url": "https://www.nudient.com/cdn/shop/files/00-049-0145-0000_1_379adff0-acec-419b-9ce1-bce24c947423.jpg?v=1790769371&width=1500",
+      "loaded": true,
+      "width": 1200,
+      "height": 1500
+    }
+  ]
+}

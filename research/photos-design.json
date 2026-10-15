@@ -1,0 +1,275 @@
+{
+  "patches": [
+    {
+      "id": "snakehive-metro-leather-wallet-for-iphone-duo",
+      "image": "https://snakehive.co.uk/cdn/shop/files/11_086eee43-393b-4f6d-a84e-20bdb4330d82.webp?v=1790172855&width=1200",
+      "images": [
+        {
+          "url": "https://snakehive.co.uk/cdn/shop/files/11_086eee43-393b-4f6d-a84e-20bdb4330d82.webp?v=1790172855&width=1200",
+          "caption": "Snakehive Metro Leather Wallet for iPhone Duo - manufacturer gallery.",
+          "sourceUrl": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case"
+        },
+        {
+          "url": "https://snakehive.co.uk/cdn/shop/files/iPhone_Duo_Metro_Wallet_-_Wallet_Functionality-6f488b.webp?v=1790172883&width=1200",
+          "caption": "Snakehive Metro Leather Wallet for iPhone Duo - wallet functionality.",
+          "sourceUrl": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case"
+        },
+        {
+          "url": "https://snakehive.co.uk/cdn/shop/files/iPhone_Duo_Metro_Wallet_-_Made_in_Vegetable_Tanned_Leather-4d46a6.webp?v=1790172915&width=1200",
+          "caption": "Snakehive Metro Leather Wallet for iPhone Duo - leather detail.",
+          "sourceUrl": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case"
+        }
+      ],
+      "imageSource": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case",
+      "imageCaption": "Snakehive Metro Leather Wallet for iPhone Duo - manufacturer gallery.",
+      "verificationNote": "2026-10-15: recovered by opening the actual manufacturer product gallery after initial fetch timeout. All three image links opened successfully; gallery alt text explicitly identifies Apple iPhone Duo. No other-model image substituted. Publisher association verified; no independent pixel inspection available."
+    },
+    {
+      "id": "vaja-folio-leather-case-with-magsafe-for-iphone-duo",
+      "image": "https://www.vajacases.com/cdn/shop/files/iphone-duo-folio-leather-case-floater-latte-open-vaja.jpg?v=1791384063&width=100",
+      "images": [
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/iphone-duo-folio-leather-case-floater-latte-open-vaja.jpg?v=1791384063&width=100",
+          "caption": "Vaja Duo Folio - Floater Latte, open.",
+          "sourceUrl": "https://www.vajacases.com/products/folio-iphone-duo-leather-case"
+        },
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/iphone-duo-folio-leather-case-floater-latte-front-vaja.jpg?v=1791384063&width=100",
+          "caption": "Vaja Duo Folio - Floater Latte, front.",
+          "sourceUrl": "https://www.vajacases.com/products/folio-iphone-duo-leather-case"
+        },
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/iphone-duo-folio-leather-case-floater-latte-vaja.jpg?v=1791384063&width=100",
+          "caption": "Vaja Duo Folio - Floater Latte, additional gallery view.",
+          "sourceUrl": "https://www.vajacases.com/products/folio-iphone-duo-leather-case"
+        }
+      ],
+      "imageSource": "https://www.vajacases.com/products/folio-iphone-duo-leather-case",
+      "imageCaption": "Vaja Duo Folio - Floater Latte, open.",
+      "verificationNote": "2026-10-15: all three exact links opened from the current Duo Folio product gallery. Manufacturer filenames explicitly name Duo and Folio. These are the source-provided 100px thumbnails; attempts to open untransformed original URLs were inaccessible, so no unverified larger URLs substituted. Publisher association verified; no independent pixel inspection available."
+    },
+    {
+      "id": "vaja-wallet-leather-case-with-magsafe-for-iphone-duo",
+      "image": "https://www.vajacases.com/cdn/shop/files/iphone-duo-wallet-leather-case-floater-black-vaja.jpg?v=1791391453&width=100",
+      "images": [
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/iphone-duo-wallet-leather-case-floater-black-vaja.jpg?v=1791391453&width=100",
+          "caption": "Vaja Duo Wallet - Floater Black.",
+          "sourceUrl": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case"
+        },
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/iphone-duo-wallet-leather-case-floater-black-front-vaja.jpg?v=1791389351&width=100",
+          "caption": "Vaja Duo Wallet - Floater Black, front.",
+          "sourceUrl": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case"
+        }
+      ],
+      "imageSource": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case",
+      "imageCaption": "Vaja Duo Wallet - Floater Black.",
+      "verificationNote": "2026-10-15: exact links successfully opened from current Duo Wallet gallery, distinct from the Folio gallery. Manufacturer filenames explicitly identify Duo Wallet. Source-provided 100px thumbnails; full-resolution original could not be verified. Publisher association verified; no independent pixel inspection available."
+    },
+    {
+      "id": "vaja-leather-folio-wrap-with-aramid-shell-for-iphone-duo",
+      "image": "https://www.vajacases.com/cdn/shop/files/TopdetachableFolioiPhoneDuoBlackVaja.jpg?v=1791805090&width=100",
+      "images": [
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/TopdetachableFolioiPhoneDuoBlackVaja.jpg?v=1791805090&width=100",
+          "caption": "Vaja Duo Folio Wrap with Aramid Shell - black, top view.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856"
+        },
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/OpendetachableFolioiPhoneduoBlackVaja.jpg?v=1791805091&width=100",
+          "caption": "Vaja Duo Folio Wrap with Aramid Shell - black, open.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856"
+        },
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/BackdetachableFolioiPhoneDuoBlackVaja.jpg?v=1791805090&width=100",
+          "caption": "Vaja Duo Folio Wrap with Aramid Shell - black, back.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856"
+        }
+      ],
+      "imageSource": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856",
+      "imageCaption": "Vaja Duo Folio Wrap with Aramid Shell - black, top view.",
+      "verificationNote": "2026-10-15: all three exact links successfully opened from this configuration’s actual current manufacturer product gallery. Separate Folio and Wallet assets retained. Source-provided 100px thumbnails; untransformed original URL inaccessible. Publisher association verified; no independent pixel inspection available."
+    },
+    {
+      "id": "vaja-leather-wallet-wrap-with-aramid-shell-for-iphone-duo",
+      "image": "https://www.vajacases.com/cdn/shop/files/TopdetachableWalletiPhoneDuoBlackVaja.jpg?v=1791805091&width=100",
+      "images": [
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/TopdetachableWalletiPhoneDuoBlackVaja.jpg?v=1791805091&width=100",
+          "caption": "Vaja Duo Wallet Wrap with Aramid Shell - black, top view.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384"
+        },
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/OpendetachableWalletiPhoneduoBlackVaja.jpg?v=1791805091&width=100",
+          "caption": "Vaja Duo Wallet Wrap with Aramid Shell - black, open.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384"
+        },
+        {
+          "url": "https://www.vajacases.com/cdn/shop/files/BackdetachableWalletiPhoneDuoBlackVaja.jpg?v=1791805090&width=100",
+          "caption": "Vaja Duo Wallet Wrap with Aramid Shell - black, back.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384"
+        }
+      ],
+      "imageSource": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384",
+      "imageCaption": "Vaja Duo Wallet Wrap with Aramid Shell - black, top view.",
+      "verificationNote": "2026-10-15: all three exact links successfully opened from this configuration’s actual current manufacturer product gallery. Separate Folio and Wallet assets retained. Source-provided 100px thumbnails; untransformed original URL inaccessible. Publisher association verified; no independent pixel inspection available."
+    },
+    {
+      "id": "fitbag-beat-made-to-measure-sleeve-for-iphone-duo",
+      "image": "https://www.fitbag.com/media/image/product/11/lg/beat-black-custom-tailored-phone-sleeve.jpg",
+      "images": [
+        {
+          "url": "https://www.fitbag.com/media/image/product/11/lg/beat-black-custom-tailored-phone-sleeve.jpg",
+          "caption": "fitBAG Beat - representative family photo; made to measure.",
+          "sourceUrl": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone"
+        }
+      ],
+      "imageSource": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "imageCaption": "fitBAG Beat - representative family photo; made to measure.",
+      "verificationNote": "2026-10-15: direct family image link successfully opened from the manufacturer’s current iPhone Duo made-to-measure landing page. The page explicitly offers this named sleeve family for the closed Duo. This is a representative family photo, not a claim that the photographed sleeve was made to Duo dimensions."
+    },
+    {
+      "id": "fitbag-classic-made-to-measure-sleeve-for-iphone-duo",
+      "image": "https://www.fitbag.com/media/image/product/62/lg/classic-black-alcantara-custom-tailored-phone-sleeve.jpg",
+      "images": [
+        {
+          "url": "https://www.fitbag.com/media/image/product/62/lg/classic-black-alcantara-custom-tailored-phone-sleeve.jpg",
+          "caption": "fitBAG Classic - representative family photo; made to measure.",
+          "sourceUrl": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone"
+        }
+      ],
+      "imageSource": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "imageCaption": "fitBAG Classic - representative family photo; made to measure.",
+      "verificationNote": "2026-10-15: direct family image link successfully opened from the manufacturer’s current iPhone Duo made-to-measure landing page. The page explicitly offers this named sleeve family for the closed Duo. This is a representative family photo, not a claim that the photographed sleeve was made to Duo dimensions."
+    },
+    {
+      "id": "fitbag-jive-made-to-measure-sleeve-for-iphone-duo",
+      "image": "https://www.fitbag.com/media/image/product/6/lg/jive-gray-custom-tailored-phone-sleeve.jpg",
+      "images": [
+        {
+          "url": "https://www.fitbag.com/media/image/product/6/lg/jive-gray-custom-tailored-phone-sleeve.jpg",
+          "caption": "fitBAG Jive - representative family photo; made to measure.",
+          "sourceUrl": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone"
+        }
+      ],
+      "imageSource": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "imageCaption": "fitBAG Jive - representative family photo; made to measure.",
+      "verificationNote": "2026-10-15: direct family image link successfully opened from the manufacturer’s current iPhone Duo made-to-measure landing page. The page explicitly offers this named sleeve family for the closed Duo. This is a representative family photo, not a claim that the photographed sleeve was made to Duo dimensions."
+    },
+    {
+      "id": "fitbag-rave-made-to-measure-sleeve-for-iphone-duo",
+      "image": "https://www.fitbag.com/media/image/product/2/lg/rave-black-custom-tailored-phone-sleeve.jpg",
+      "images": [
+        {
+          "url": "https://www.fitbag.com/media/image/product/2/lg/rave-black-custom-tailored-phone-sleeve.jpg",
+          "caption": "fitBAG Rave - representative family photo; made to measure.",
+          "sourceUrl": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone"
+        }
+      ],
+      "imageSource": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "imageCaption": "fitBAG Rave - representative family photo; made to measure.",
+      "verificationNote": "2026-10-15: direct family image link successfully opened from the manufacturer’s current iPhone Duo made-to-measure landing page. The page explicitly offers this named sleeve family for the closed Duo. This is a representative family photo, not a claim that the photographed sleeve was made to Duo dimensions."
+    },
+    {
+      "id": "noreve-2154tc-leather-case-for-iphone-duo",
+      "image": "https://static01.galaxus.com/productimages/3/4/9/1/0/9/5/9/7/4/1/1/8/1/4/6/3/0/8/01a08ce3-fc23-7c02-be98-5cd67b046b8e_720.jpeg",
+      "images": [
+        {
+          "url": "https://static01.galaxus.com/productimages/3/4/9/1/0/9/5/9/7/4/1/1/8/1/4/6/3/0/8/01a08ce3-fc23-7c02-be98-5cd67b046b8e_720.jpeg",
+          "caption": "Noreve 2154TC for iPhone Duo - product photo; retailer photo via Galaxus.",
+          "sourceUrl": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963"
+        },
+        {
+          "url": "https://static01.galaxus.com/productimages/3/4/6/3/7/9/1/4/5/3/5/8/4/8/2/6/0/7/3/01a08ce1-cbc4-7b9c-985f-c8160f99c0e9_720.jpeg",
+          "caption": "Noreve 2154TC for iPhone Duo - alternate view; retailer photo via Galaxus.",
+          "sourceUrl": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963"
+        }
+      ],
+      "imageSource": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963",
+      "imageCaption": "Noreve 2154TC for iPhone Duo - product photo; retailer photo via Galaxus.",
+      "verificationNote": "2026-10-15: both image links successfully opened directly from the exact Galaxus product page recorded in catalogue.json for 2154TC. Page gallery labels identify Apple iPhone Duo. Catalogue supplies manufacturer-number provenance (2154TCF56/f); current parsed page did not expose that number, so it was not independently reverified. No generic Noreve brand imagery used. Publisher association verified; no independent pixel inspection available."
+    },
+    {
+      "id": "noreve-2154tb-leather-wallet-case-for-iphone-duo",
+      "image": "https://static01.galaxus.com/productimages/8/4/8/6/0/4/2/1/6/7/0/0/5/5/4/6/5/7/3/01a10c09-f97f-7aa2-8b19-5aa83f62fee6_720.jpeg",
+      "images": [
+        {
+          "url": "https://static01.galaxus.com/productimages/8/4/8/6/0/4/2/1/6/7/0/0/5/5/4/6/5/7/3/01a10c09-f97f-7aa2-8b19-5aa83f62fee6_720.jpeg",
+          "caption": "Noreve 2154TB for iPhone Duo - product photo; retailer photo via Galaxus.",
+          "sourceUrl": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952"
+        },
+        {
+          "url": "https://static01.galaxus.com/productimages/8/2/3/4/5/8/8/5/0/4/2/8/6/2/4/3/9/8/4/01a10c9a-c44d-761f-9598-696fc084a523_720.jpeg",
+          "caption": "Noreve 2154TB for iPhone Duo - alternate view; retailer photo via Galaxus.",
+          "sourceUrl": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952"
+        }
+      ],
+      "imageSource": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952",
+      "imageCaption": "Noreve 2154TB for iPhone Duo - product photo; retailer photo via Galaxus.",
+      "verificationNote": "2026-10-15: both image links successfully opened directly from the exact Galaxus product page recorded in catalogue.json for 2154TB. Page gallery labels identify Apple iPhone Duo. Catalogue supplies manufacturer-number provenance (2154TB53/f); current parsed page did not expose that number, so it was not independently reverified. No generic Noreve brand imagery used. Publisher association verified; no independent pixel inspection available."
+    },
+    {
+      "id": "spigen-ibook-concept",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3232659-0-63766400-1789124432-spigen-ibook-duo.jpg?quality=50&strip=all&w=1024",
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2026/09/3232659-0-63766400-1789124432-spigen-ibook-duo.jpg?quality=50&strip=all&w=1024",
+          "caption": "Spigen iBook-inspired iPhone Duo concept render - concept only; credit Spigen via Macworld.",
+          "sourceUrl": "https://www.macworld.com/article/3232659/the-perfect-iphone-duo-case-doesnt-exis.html"
+        }
+      ],
+      "imageSource": "https://www.macworld.com/article/3232659/the-perfect-iphone-duo-case-doesnt-exis.html",
+      "imageCaption": "Spigen iBook-inspired iPhone Duo concept render - concept only; credit Spigen via Macworld.",
+      "verificationNote": "2026-10-15: actual article hero image link successfully opened. Macworld labels the image Spigen iBook Duo and credits Spigen; article explicitly identifies the design as a concept. This is a source-published render, not a product photograph or a purchasable case claim."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "torro-wallet",
+      "reason": "Current exact Duo product gallery and working 640px image links recovered, but all publisher captions/assets retain Ultra naming. Independent visual inspection of pictured Duo form/configuration was unavailable; cannot certify required match from filenames and page attachment alone. Candidate links are recorded in agents/photos-design-result.md; do not integrate without visual confirmation.",
+      "checkedUrls": [
+        "https://torro.co.uk/products/iphone-duo-leather-wallet-case"
+      ]
+    },
+    {
+      "id": "torro-detachable-wallet",
+      "reason": "Current exact Duo product gallery and working 640px image links recovered, but all publisher captions/assets retain Ultra naming. Independent visual inspection of pictured Duo form/configuration was unavailable; cannot certify required match from filenames and page attachment alone. Candidate links are recorded in agents/photos-design-result.md; do not integrate without visual confirmation.",
+      "checkedUrls": [
+        "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case"
+      ]
+    },
+    {
+      "id": "torro-slim-folio-stand",
+      "reason": "Current exact Duo product gallery and working 640px image links recovered, but all publisher captions/assets retain Ultra naming. Independent visual inspection of pictured Duo form/configuration was unavailable; cannot certify required match from filenames and page attachment alone. Candidate links are recorded in agents/photos-design-result.md; do not integrate without visual confirmation.",
+      "checkedUrls": [
+        "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand"
+      ]
+    },
+    {
+      "id": "torro-slim-folio",
+      "reason": "Current exact Duo product gallery and working 640px image links recovered, but all publisher captions/assets retain Ultra naming. Independent visual inspection of pictured Duo form/configuration was unavailable; cannot certify required match from filenames and page attachment alone. Candidate links are recorded in agents/photos-design-result.md; do not integrate without visual confirmation.",
+      "checkedUrls": [
+        "https://torro.co.uk/products/iphone-duo-slim-leather-folio"
+      ]
+    },
+    {
+      "id": "burga-elite",
+      "reason": "Current Duo collection has no exposed product gallery links. Exact Duo product pages were inspected, but their accessible product image resolves to Shopify no-image placeholder. Public collection/product JSON endpoints were attempted and inaccessible; no genuine Duo image asset URL recovered. Generic Elite and other-model imagery excluded.",
+      "checkedUrls": [
+        "https://uk.burga.com/collections/iphone-duo-cases",
+        "https://uk.burga.com/collections/iphone-duo-cases/products.json?limit=3",
+        "https://uk.burga.com/collections/iphone-duo-cases/products.json",
+        "https://uk.burga.com/collections/iphone-duo-cases?view=products",
+        "https://uk.burga.com/products/assorted-iphone-duo-case",
+        "https://burga.com/products/assorted-iphone-duo-case",
+        "https://burga.com/products/assorted-iphone-duo-case?case-details-color=Gold&case-type=Elite+Dark+%28MagSafe%29&variant=53560630411600",
+        "https://burga.com/products/assorted-iphone-duo-case.js",
+        "https://burga.com/products/assorted-iphone-duo-case.json",
+        "https://eu.burga.com/products/spf-100-iphone-duo-case?variant=60411473002830",
+        "https://burga.com/products/free-fall-iphone-duo-case",
+        "https://burga.com/cdn/shopifycloud/storefront/assets/no-image-160-46f2d4a0_128x.gif"
+      ]
+    }
+  ]
+}

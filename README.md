@@ -1,29 +1,58 @@
 # CASEBOOK
 
-A source-led, mobile-first iPhone Duo case catalogue.
+A source-led, mobile-first iPhone Duo case library for discovering, filtering, shortlisting and comparing the public market.
 
-**Open the app:** https://olly-j.github.io/duo-casebook/
+**[Open CASEBOOK](https://olly-j.github.io/duo-casebook/)** · **[Source repository](https://github.com/olly-j/duo-casebook)**
 
-The 15 October 2026 research snapshot contains 93 case designs, configurations and preview entries across 45 brands, with a 67-brand discovery registry. Counts are derived from `web/catalogue.json` and will change with subsequent research.
+## Snapshot
 
-## Use
+The 15 October 2026 release contains 92 case designs, functional configurations and source-published concepts across 44 product brands. The discovery registry records 67 researched brands, including unnamed waitlists that are deliberately excluded from the product grid.
 
-Search by brand, material, finish or feature. Refine by construction, protective hinge cover, MagSafe, stand, card storage, strap compatibility, price currency, case weight, wall thickness, published closed dimensions, availability and evidence. Save a shortlist locally, compare up to four records, or use the preference matcher. Filters and comparisons can be shared by URL. JSON and CSV exports are available in Research notes.
+Every product entry has a provenance-linked visual. The catalogue contains 139 gallery records, including exact manufacturer imagery, clearly attributed retailer photography, labelled concept renders and explicitly labelled representative family photography for made-to-measure sleeves. CASEBOOK never generates a substitute product image.
 
-## Evidence and scope
+## What it does
 
-Every product links to its source. Manufacturer claims, retailer listings, announcements and concepts are separated. The index covers publicly discoverable records; unannounced products, unindexed sellers and subsequent changes cannot be guaranteed. Decorative colours are grouped where practical. Functional configurations and front-only components remain clearly labelled.
+- Searches brand, case, material, finish, feature and colour.
+- Filters construction, structural hinge protection, MagSafe, stand, card storage, straps, UK listings, availability, source confidence, brand-review evidence, price currency, case weight, wall thickness and published closed dimensions.
+- Preserves unknown values rather than treating them as zero or false.
+- Saves a local shortlist and compares two to four products with an internally scrolling phone layout.
+- Shares exact filter and comparison views by URL.
+- Uses a preference matcher based on published attributes, without invented review ratings or product endorsements.
+- Exposes original sources, caveats, previous-model review evidence and image provenance through progressive detail sections.
 
-Unknowns are null. Case weight excludes the phone. Magnetic force, package weight, side-wall thickness and total closed-device depth are distinct. A flexible hinge film does not qualify as a structural protective hinge cover. Prices retain their source currency and are not assumed to include UK delivery or import costs. No currency conversion is applied.
+## Evidence rules
 
-Historical hands-on reviews concern explicitly named previous models. They do not establish Duo performance or a company-wide quality score. Review sponsorship uncertainty, conflicting claims and limitations remain visible. The preference matcher ranks published attributes; it does not invent review ratings or product endorsements.
+Product claims remain tied to their manufacturer, retailer or announcement source. Case weight excludes the phone. Package weight, magnetic force, wall thickness and closed-device depth are separate fields. A flexible hinge film does not qualify as a structural hinge cover. Front-only and back-only components remain visibly distinct from complete protection. Prices keep their source currency and do not imply UK delivery, tax, duty or live stock.
 
-This is a dated snapshot. No automatic monitoring, background refresh, analytics, login or affiliate tracking is enabled. Shortlists stay in the browser. Product images are requested directly from their source hosts and remain their owners' work.
+Historical hands-on reviews concern the named previous model tested. They do not establish Duo performance or create a company-wide quality score.
 
-## Maintain
+## Architecture and privacy
 
-Edit dated evidence in `research/`, preserving exact source URLs and uncertainty. Run `python3 build_data.py` to validate and rebuild the catalogue, then `python3 prepare_site.py` to generate the GitHub Pages directory. The public app uses vanilla HTML, CSS and JavaScript with system fonts and no build dependencies.
+CASEBOOK is static HTML, CSS and JavaScript served by GitHub Pages from `docs/`. It has no backend, account, analytics, affiliate tracking or runtime package dependency. Shortlists stay in localStorage. Shared views use URL parameters. Product images load from their recorded source hosts.
 
-Run logic checks with `node --test tests/polish.test.cjs`. Browser tests require Playwright. Set `PLAYWRIGHT_MODULE` and `CHROME_PATH` when using an existing local installation, and optionally `CASEBOOK_TEST_URL` to test a deployed URL. Browser emulation is separate from physical iPhone and Safari testing.
+Authoritative product evidence lives in `research/` and is compiled by `build_data.py`. `web/` is the authored application. `prepare_site.py` creates the public `docs/` tree.
 
-Only `docs/` is served by GitHub Pages. Synthetic test fixtures are excluded from deployment. Research and code are kept separate so updates can be reviewed without rewriting the interface.
+## Development spine
+
+CASEBOOK adopts the `core` and `web-backend` profiles from `olly-j/ai-development-spine`, tracking `main` through reviewed project-specific changes. The resolved adoption revision is recorded in `.spine/manifest.json`; updates never auto-merge.
+
+```bash
+./dev orient
+./dev audit
+./dev verify --lane A   # focused logic or copy
+./dev verify --lane B   # user-facing behaviour and browser interaction
+./dev verify --lane C   # publication, complete viewport and photo matrix
+./dev release-plan      # read-only release and deployment state
+```
+
+Start with `AGENTS.md` and `docs/README.md`. The canonical work record is `docs/product-backlog.md`; release evidence is in `QA.md`.
+
+## Refreshing the catalogue
+
+1. Update dated source records under `research/`, preserving exact URLs and uncertainty.
+2. Run `python3 build_data.py`.
+3. Run `python3 prepare_site.py`.
+4. Run `./dev verify --lane C`.
+5. Review the diff, merge with owner authority, wait for Pages, then run `python3 scripts/verify_deployment.py`.
+
+Rollback is a Git revert of the release commit followed by strict public-deployment verification.

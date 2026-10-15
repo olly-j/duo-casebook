@@ -1,0 +1,23 @@
+name: Process improvement
+description: Propose a measurable simplification or capability improvement
+title: "IMPROVE - "
+labels: [process-improvement]
+body:
+  - type: textarea
+    id: friction
+    attributes:
+      label: Repeated friction or opportunity
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change and measurable benefit
+    validations:
+      required: true
+  - type: textarea
+    id: pilot
+    attributes:
+      label: Bounded pilot, cost, risk, and removal path
+    validations:
+      required: true

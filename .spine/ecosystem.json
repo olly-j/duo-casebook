@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "0.2.0",
+  "owner": "AI Development Spine",
+  "policyAuthority": "docs/tool-lifecycle.md",
+  "reviewedAt": "2026-08-10",
+  "precedence": [
+    "owner instruction for the current task",
+    "project AGENTS.md and repository authorities",
+    "project manifest, required evidence, and human gates",
+    "spine-owned capability routing",
+    "selected external workflow, persona, or reference"
+  ],
+  "defaults": {
+    "activation": "off",
+    "autoInstall": false,
+    "autoUpdate": false,
+    "networkChecks": "explicit-read-only",
+    "mutation": "reviewed-branch-and-pull-request"
+  },
+  "capabilityTypes": [
+    "standard",
+    "workflow-pack",
+    "persona-catalog",
+    "registry-reference",
+    "provider-catalog",
+    "domain-catalog"
+  ],
+  "routes": [
+    {
+      "capability": "context-engineering",
+      "source": "addy-agent-skills",
+      "state": "pilot",
+      "activation": "explicit-task-match"
+    },
+    {
+      "capability": "code-review-and-quality",
+      "source": "addy-agent-skills",
+      "state": "pilot",
+      "activation": "explicit-task-match"
+    },
+    {
+      "capability": "debugging-and-error-recovery",
+      "source": "addy-agent-skills",
+      "state": "pilot",
+      "activation": "explicit-task-match"
+    },
+    {
+      "capability": "doubt-driven-development",
+      "source": "addy-agent-skills",
+      "state": "pilot",
+      "activation": "explicit-task-match"
+    },
+    {
+      "capability": "git-workflow-and-versioning",
+      "source": "addy-agent-skills",
+      "state": "pilot",
+      "activation": "explicit-task-match"
+    }
+  ],
+  "sources": [
+    {
+      "id": "agent-skills-standard",
+      "repository": "agentskills/agentskills",
+      "capabilityType": "standard",
+      "state": "supported-reference",
+      "activationEligible": false,
+      "autoInstall": false,
+      "pin": {
+        "ref": "main",
+        "revision": "69ef37e9424c0a7ea9dd2293b559e43ec8176379"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "69ef37e9424c0a7ea9dd2293b559e43ec8176379"
+      },
+      "release": "No GitHub release observed",
+      "license": "Apache-2.0",
+      "securityPolicy": false,
+      "executionSurface": "Specification and reference implementation only",
+      "selectedCapabilities": ["SKILL.md format and progressive disclosure"],
+      "overlap": "Defines format, not project policy or delivery workflow",
+      "decision": "Reference the open format; do not delegate project authority to it."
+    },
+    {
+      "id": "addy-agent-skills",
+      "repository": "addyosmani/agent-skills",
+      "capabilityType": "workflow-pack",
+      "state": "experimental",
+      "activationEligible": true,
+      "autoInstall": false,
+      "pin": {
+        "ref": "0.6.6",
+        "revision": "bdf76c7c6b7b3b3e01bb15c9fdc42ac5351855c1"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "7676817c12a1317454ae3898a0c5c1eacf5dd3d5"
+      },
+      "release": "0.6.6",
+      "license": "MIT",
+      "securityPolicy": false,
+      "executionSurface": "Markdown skills plus optional platform plugins, commands, personas, hooks, and validation scripts",
+      "selectedCapabilities": [
+        "context-engineering",
+        "code-review-and-quality",
+        "debugging-and-error-recovery",
+        "doubt-driven-development",
+        "git-workflow-and-versioning"
+      ],
+      "overlap": "Its mandatory workflow language can overlap the spine work loop; project precedence and task-relevant loading are required.",
+      "decision": "Pilot the reviewed whole-repository skill content without hooks or automatic/global installation."
+    },
+    {
+      "id": "agency-agents",
+      "repository": "msitarzewski/agency-agents",
+      "capabilityType": "persona-catalog",
+      "state": "observed",
+      "activationEligible": false,
+      "autoInstall": false,
+      "pin": {
+        "ref": "main",
+        "revision": "ebe9c99acb5c96f9468de368d8bead775387d1a7"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "ebe9c99acb5c96f9468de368d8bead775387d1a7"
+      },
+      "release": "No GitHub release observed",
+      "license": "MIT",
+      "securityPolicy": true,
+      "executionSurface": "266 persona Markdown files plus conversion and user/project profile installation scripts",
+      "selectedCapabilities": [
+        "minimal-change-engineer",
+        "code-reviewer",
+        "privacy-engineer",
+        "accessibility-auditor",
+        "evidence-collector",
+        "tool-evaluator"
+      ],
+      "overlap": "Personas overlap existing reviewer roles and some prompts prescribe metrics or behaviour that are not project facts.",
+      "decision": "Use as a pinned comparison and review-persona source only; do not run converters, installers, or auto-update paths."
+    },
+    {
+      "id": "superpowers",
+      "repository": "obra/superpowers",
+      "capabilityType": "workflow-pack",
+      "state": "observed",
+      "activationEligible": false,
+      "autoInstall": false,
+      "pin": {
+        "ref": "v6.2.0",
+        "revision": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "44c9b2d6e889982ac18c27d05a19fefe335194e1"
+      },
+      "release": "v6.2.0",
+      "license": "MIT",
+      "securityPolicy": false,
+      "executionSurface": "Skills, platform plugins, hooks, subagent prompts, Node/shell tooling, and test suites",
+      "selectedCapabilities": ["systematic-debugging", "verification-before-completion"],
+      "overlap": "High overlap with spine planning, testing, worktree, review, and agent-orchestration rules.",
+      "decision": "Keep disabled while comparing evidence quality and resolving workflow, hook, and subagent conflicts."
+    },
+    {
+      "id": "github-awesome-copilot",
+      "repository": "github/awesome-copilot",
+      "capabilityType": "registry-reference",
+      "state": "observed",
+      "activationEligible": false,
+      "autoInstall": false,
+      "pin": {
+        "ref": "main",
+        "revision": "3f0bba475ec40b9680e1d0311b9caffeec5ad4c3"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "3f0bba475ec40b9680e1d0311b9caffeec5ad4c3"
+      },
+      "release": "No GitHub release observed",
+      "license": "MIT",
+      "securityPolicy": false,
+      "executionSurface": "Large community registry of agents, instructions, skills, hooks, workflows, plugins, and validation tooling",
+      "selectedCapabilities": ["immutable external-plugin intake", "six-month re-review model"],
+      "overlap": "Broad provider-oriented catalog; content quality and execution surface vary by item.",
+      "decision": "Adopt registry-governance patterns as evidence; do not mirror or install the catalog."
+    },
+    {
+      "id": "openai-skills",
+      "repository": "openai/skills",
+      "capabilityType": "provider-catalog",
+      "state": "observed",
+      "activationEligible": false,
+      "autoInstall": false,
+      "pin": {
+        "ref": "main",
+        "revision": "49f948faa9258a0c61caceaf225e179651397431"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "49f948faa9258a0c61caceaf225e179651397431"
+      },
+      "release": "No GitHub release observed",
+      "license": "UNVERIFIED",
+      "securityPolicy": false,
+      "executionSurface": "Provider-maintained system, curated, and experimental skills",
+      "selectedCapabilities": [],
+      "overlap": "Some capabilities may already be supplied by the active Codex environment.",
+      "decision": "Use provider-native installed capabilities when available; do not redistribute repository content without licence review."
+    },
+    {
+      "id": "anthropic-skills",
+      "repository": "anthropics/skills",
+      "capabilityType": "provider-catalog",
+      "state": "observed",
+      "activationEligible": false,
+      "autoInstall": false,
+      "pin": {
+        "ref": "main",
+        "revision": "f17010c9bb483898c1d9c9f42dde2b3a98889434"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "f17010c9bb483898c1d9c9f42dde2b3a98889434"
+      },
+      "release": "No GitHub release observed",
+      "license": "UNVERIFIED",
+      "securityPolicy": false,
+      "executionSurface": "Provider-maintained skills with bundled scripts and resources",
+      "selectedCapabilities": [],
+      "overlap": "Provider examples and domain skills may overlap native platform capabilities and other catalogs.",
+      "decision": "Observe format and evaluation practices; do not redistribute or activate without per-skill licence and compatibility review."
+    },
+    {
+      "id": "vercel-agent-skills",
+      "repository": "vercel-labs/agent-skills",
+      "capabilityType": "domain-catalog",
+      "state": "observed",
+      "activationEligible": false,
+      "autoInstall": false,
+      "pin": {
+        "ref": "main",
+        "revision": "7c180d9044c9ae2b442b567aad4e42a28dd5ed62"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "7c180d9044c9ae2b442b567aad4e42a28dd5ed62"
+      },
+      "release": "No GitHub release observed",
+      "license": "UNVERIFIED",
+      "securityPolicy": false,
+      "executionSurface": "Web-framework and frontend performance skills",
+      "selectedCapabilities": [],
+      "overlap": "Domain-specific content is valuable only for matching web projects and may already arrive through provider plugins.",
+      "decision": "Keep as a domain candidate; require project fit and licence review before activation or redistribution."
+    },
+    {
+      "id": "wshobson-agents",
+      "repository": "wshobson/agents",
+      "capabilityType": "persona-catalog",
+      "state": "observed",
+      "activationEligible": false,
+      "autoInstall": false,
+      "pin": {
+        "ref": "main",
+        "revision": "c4b82b0ad771190355eb8e204b1329732a18449a"
+      },
+      "monitor": {
+        "ref": "refs/heads/main",
+        "reviewedRevision": "c4b82b0ad771190355eb8e204b1329732a18449a"
+      },
+      "release": "No GitHub release observed",
+      "license": "MIT",
+      "securityPolicy": false,
+      "executionSurface": "Large agent, plugin, and orchestration catalog",
+      "selectedCapabilities": [],
+      "overlap": "High persona and orchestration overlap with Agency Agents, Superpowers, and native agent capabilities.",
+      "decision": "Retain as a comparison candidate; do not activate until a specific gap survives deduplication."
+    }
+  ]
+}

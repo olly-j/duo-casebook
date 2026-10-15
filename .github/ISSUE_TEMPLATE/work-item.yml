@@ -1,0 +1,32 @@
+name: CASEBOOK work item
+description: Coordinate execution of an existing stable backlog item
+title: "WORK-NNN - "
+labels: [backlog]
+body:
+  - type: input
+    id: backlog
+    attributes:
+      label: Stable backlog ID
+    validations:
+      required: true
+  - type: input
+    id: canonical
+    attributes:
+      label: Canonical backlog link
+      description: Link to docs/product-backlog.md on the default branch.
+    validations:
+      required: true
+  - type: dropdown
+    id: lane
+    attributes:
+      label: Risk lane
+      options:
+        - Lane A - Surgical/reversible
+        - Lane B - Bounded/shared behavior
+        - Lane C - Architecture/platform/cost/high risk
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Current execution context and evidence
