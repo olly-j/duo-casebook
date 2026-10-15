@@ -1,0 +1,26 @@
+{
+  "testedAt": "2026-10-15",
+  "target": "local static app",
+  "checks": [
+    "All source records render",
+    "Text search isolates brand",
+    "Under £50 excludes unknown prices and other currencies",
+    "AUD budget and URL restoration",
+    "Strict case weight cap excludes null",
+    "Front-only component is separately filterable",
+    "Leather or folio includes fabric folio",
+    "Quiz hard requirements and budget are respected",
+    "Shortlist persists across reload",
+    "Comparison limited to four",
+    "Comparison dialog opens",
+    "Comparison contains source links",
+    "Escape closes dialog",
+    "Shared comparison reopens with selected products",
+    "Mobile filter sheet opens",
+    "Filter sections are collapsible",
+    "Empty results handled",
+    "Closed depth excludes unknowns",
+    "No uncaught browser errors"
+  ],
+  "errors": []
+}

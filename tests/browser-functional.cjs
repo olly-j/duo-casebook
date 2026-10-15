@@ -1,0 +1,26 @@
+const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+(async()=>{
+const browser=await chromium.launch({headless:true,chromiumSandbox:true,...(process.env.CHROME_PATH?{executablePath:process.env.CHROME_PATH}:{})});
+const base=process.env.CASEBOOK_TEST_URL||'file://'+path.resolve('web/index.html');
+const page=await browser.newPage({viewport:{width:390,height:844},deviceScaleFactor:1});const errors=[],checks=[];
+page.on('pageerror',e=>errors.push(e.message));
+const ids=()=>page.locator('.card').evaluateAll(xs=>xs.map(x=>x.querySelector('[data-detail]')?.dataset.detail));
+const go=async(q='')=>{await page.goto(base+(q?'?'+q:''),{waitUntil:'domcontentloaded'});};
+const check=(name,ok)=>{assert.ok(ok,name);checks.push(name);};
+await go();const all=await page.evaluate(()=>window.CASEBOOK.products);check('All source records render',(await ids()).length===all.length);
+await page.locator('#search').fill('spigen');check('Text search isolates brand',(await ids()).every(id=>all.find(p=>p.id===id).brand==='Spigen'));
+await go();await page.locator('[data-preset="4"]').click();let shown=await ids();check('Under £50 excludes unknown prices and other currencies',shown.length>0&&shown.every(id=>{const p=all.find(p=>p.id===id);return p.currency==='GBP'&&p.price!==null&&p.price<=50}));
+await go('currency=AUD&budget=60&unknown=0');shown=await ids();check('AUD budget and URL restoration',shown.length===2&&shown.every(id=>all.find(p=>p.id===id).currency==='AUD'));
+await go('weight=25&unknown=0');shown=await ids();check('Strict case weight cap excludes null',shown.length>0&&shown.every(id=>{const p=all.find(p=>p.id===id);return p.weightG!==null&&p.weightG<=25}));
+await go('coverage=front-only');shown=await ids();check('Front-only component is separately filterable',shown.length===1&&shown[0]==='pitaka-edge-front');
+await go();await page.locator('[data-preset="3"]').click();check('Leather or folio includes fabric folio',(await ids()).includes('apple-folio'));
+await go();await page.locator('#match-open').click();await page.locator('#match-form [name="priority"]').selectOption('protection');await page.locator('#match-form [name="currency"]').selectOption('GBP');await page.locator('#match-form [name="budget"]').fill('100');await page.locator('#match-form [name="hinge"]').check();await page.locator('#match-form [name="magsafe"]').check();await page.locator('#match-form [type="submit"]').click();shown=await ids();check('Quiz hard requirements and budget are respected',shown.length>0&&shown.every(id=>{const p=all.find(p=>p.id===id);return p.hinge===true&&p.magsafe===true&&p.currency==='GBP'&&p.price<=100&&['listed','preorder'].includes(p.status)}));
+await go();await page.locator('[data-save="apple-case"]').first().click();await page.reload();await page.locator('[data-nav="saved"]').click();check('Shortlist persists across reload',(await ids()).includes('apple-case'));
+await go();const select=all.slice(0,5).map(p=>p.id);for(const id of select.slice(0,4))await page.locator('[data-compare="'+id+'"]').check();await page.locator('[data-compare="'+select[4]+'"]').click();check('Comparison limited to four',(new URL(page.url()).searchParams.getAll('compare')).length===4);await page.locator('#compare-open').click();check('Comparison dialog opens',await page.locator('#compare-dialog').isVisible());check('Comparison contains source links',(await page.locator('#compare-dialog a[href^="http"]').count())>=4);await page.screenshot({path:'tests/screenshots/compare-390.png'});await page.keyboard.press('Escape');check('Escape closes dialog',!(await page.locator('#compare-dialog').isVisible()));
+const shared=page.url();await page.goto(shared,{waitUntil:'domcontentloaded'});check('Shared comparison reopens with selected products',await page.locator('#compare-dialog').isVisible());await page.keyboard.press('Escape');
+await go();await page.locator('#filter-open').click();check('Mobile filter sheet opens',await page.locator('#filters-dialog').isVisible());check('Filter sections are collapsible',(await page.locator('#mobile-filters details').count())>3);await page.screenshot({path:'tests/screenshots/filters-390.png'});await page.keyboard.press('Escape');
+await page.locator('#search').fill('no-such-case-2026');check('Empty results handled',(await ids()).length===0&&await page.locator('.empty').isVisible());
+await go('depth=20&unknown=0');shown=await ids();check('Closed depth excludes unknowns',shown.length>0&&shown.every(id=>{const p=all.find(p=>p.id===id);return p.closedDepthMm!==null&&p.closedDepthMm<=20}));
+check('No uncaught browser errors',errors.length===0);fs.writeFileSync('tests/browser-functional.json',JSON.stringify({testedAt:'2026-10-15',target:base.startsWith('file:')?'local static app':base,checks,errors},null,2));console.log(JSON.stringify({checks,errors},null,2));await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

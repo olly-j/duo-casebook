@@ -1,0 +1,2133 @@
+{
+  "checkedAt": "2026-10-15",
+  "products": [
+    {
+      "brand": "Benks",
+      "name": "ArmorGrid Air Grand Combo for iPhone Duo",
+      "url": "https://www.benks.com/products/grand-combo-armorgrid-air-beyond-blue-case-built-with-kevlar-for-iphone-duo",
+      "status": "in-stock",
+      "price": 109.99,
+      "currency": "USD",
+      "materials": [
+        "Kevlar aramid fibre",
+        "tempered glass"
+      ],
+      "coverage": "Front frame, back shell and outer-screen protector",
+      "hinge": false,
+      "magsafe": null,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Beyond Blue",
+        "Obsidian Black"
+      ],
+      "summary": "Duo-specific three-part set; the product page expressly excludes hinge protection.",
+      "limitations": [
+        "UK collection shows $119.99, while the opened product page shows $109.99. Price recorded from product page; UK landed cost unverified.",
+        "MagSafe and stand not established."
+      ],
+      "image": "https://www.benks.com/cdn/shop/files/Grand_Combo_ArmorGrid_Air_Beyond_Blue_Case_built_with_Kevlar_for_iPhone_Duo_4.png?v=1789120147&width=1000",
+      "sources": [
+        {
+          "url": "https://www.benks.com/products/grand-combo-armorgrid-air-beyond-blue-case-built-with-kevlar-for-iphone-duo",
+          "title": "ArmorGrid Air Grand Combo for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific three-part set; the product page expressly excludes hinge protection."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Benks",
+      "name": "Crystal Grand Combo for iPhone Duo",
+      "url": "https://www.benks.com/products/grand-combo-crystal-phone-case-for-iphone-duo",
+      "status": "in-stock",
+      "price": 54.99,
+      "currency": "USD",
+      "materials": [
+        "PC"
+      ],
+      "coverage": "Front frame, back shell and outer-screen protector",
+      "hinge": true,
+      "magsafe": null,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Clear exterior protection set. Current US product copy includes a MagSafe hinge-protection claim.",
+      "limitations": [
+        "Regional Italian product page says hinge protection is not included; current US page says it is. Configuration needs confirmation before purchase.",
+        "The phrase 'Magsafe Hinge protection' does not clearly establish rear MagSafe charging compatibility, so magsafe remains null."
+      ],
+      "image": "https://www.benks.com/cdn/shop/files/Grand_Combo_Crystal_Phone_Case_for_iPhone_Duo_5.png?v=1789526286&width=1000",
+      "sources": [
+        {
+          "url": "https://www.benks.com/products/grand-combo-crystal-phone-case-for-iphone-duo",
+          "title": "Crystal Grand Combo",
+          "type": "manufacturer",
+          "facts": [
+            "$54.99; add to cart; PC front frame, back shell and screen protector; current copy lists MagSafe hinge protection."
+          ]
+        },
+        {
+          "url": "https://www.benks.com/en-it/products/grand-combo-crystal-phone-case-for-iphone-duo",
+          "title": "Crystal Grand Combo regional listing",
+          "type": "manufacturer",
+          "facts": [
+            "Regional copy expressly excludes hinge protection, conflicting with the US page."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Latercase",
+      "name": "iPhone Duo MagLock Case",
+      "url": "https://latercase.com/products/iphone-duo-maglock-case",
+      "status": "preorder",
+      "price": 79,
+      "currency": "USD",
+      "materials": [
+        "aramid fibre"
+      ],
+      "coverage": "Front frame and back shell",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": 20,
+      "thicknessMm": 1,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Opened page says reserve now, currently out of stock, expected to ship mid- to late October.",
+      "colours": [
+        "Classic"
+      ],
+      "summary": "Aramid front-and-back case with built-in magnets for MagSafe chargers and accessories.",
+      "limitations": [
+        "Older search extract showed $69 and September shipping; opened page shows $79 and October.",
+        "Not compatible with full edge-to-edge screen protectors.",
+        "Page advertises a 10% saving to $71.10; base price recorded."
+      ],
+      "image": "https://cdn.accentuate.io/45665674166358/1788959153691/iPhone-Ultra---Classic---Back.png?v=1788959153692",
+      "sources": [
+        {
+          "url": "https://latercase.com/products/iphone-duo-maglock-case",
+          "title": "iPhone Duo MagLock Case",
+          "type": "manufacturer",
+          "facts": [
+            "Aramid front-and-back case with built-in magnets for MagSafe chargers and accessories."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Ringke",
+      "name": "Fusion for iPhone Duo",
+      "url": "https://www.ringkestore.com/products/iphone-duo-fusion",
+      "status": "preorder",
+      "price": 22.99,
+      "currency": "USD",
+      "materials": [
+        "PC",
+        "TPU"
+      ],
+      "coverage": null,
+      "hinge": null,
+      "magsafe": false,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Product page accepts pre-orders and says more stock coming soon.",
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Duo-specific clear hybrid case with dual strap holes.",
+      "limitations": [
+        "Text does not establish rigid hinge coverage or exact front/back coverage.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.ringkestore.com/products/iphone-duo-fusion",
+          "title": "Fusion for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific clear hybrid case with dual strap holes."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Ringke",
+      "name": "Fusion + Hinge Film (2P) for iPhone Duo",
+      "url": "https://www.ringkestore.com/products/iphone-duo-fusion-hinge",
+      "status": "preorder",
+      "price": 36.99,
+      "currency": "USD",
+      "materials": [
+        "PC",
+        "TPU",
+        "EPU hinge film"
+      ],
+      "coverage": "Case plus separate hinge-protection film",
+      "hinge": true,
+      "magsafe": false,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "More stock coming soon; pre-order button.",
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Bundle adds two flexible EPU hinge films to the Fusion case; this is film coverage rather than a rigid hinge guard.",
+      "limitations": [
+        "Price is the collection's 'from' price for the hinge bundle. Product page defaults to a higher-priced hinge-and-camera bundle.",
+        "Exact case front/back coverage is not established in extracted text.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.ringkestore.com/products/iphone-duo-fusion-hinge",
+          "title": "Fusion hinge film bundle",
+          "type": "manufacturer",
+          "facts": [
+            "PC/TPU case plus EPU hinge film; pre-order; magnetic version supports MagSafe, standard version expressly does not."
+          ]
+        },
+        {
+          "url": "https://www.ringkestore.com/collections/iphone-duo",
+          "title": "Ringke iPhone Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Hinge bundle advertised from $36.99."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Ringke",
+      "name": "Fusion Magnetic for iPhone Duo",
+      "url": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic",
+      "status": "preorder",
+      "price": 25.99,
+      "currency": "USD",
+      "materials": [
+        "PC",
+        "TPU"
+      ],
+      "coverage": null,
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Product page accepts pre-orders and says more stock coming soon.",
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Duo-specific clear hybrid case with dual strap holes.",
+      "limitations": [
+        "Text does not establish rigid hinge coverage or exact front/back coverage.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic",
+          "title": "Fusion Magnetic for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific clear hybrid case with dual strap holes."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Ringke",
+      "name": "Fusion Magnetic + Hinge Film (2P) for iPhone Duo",
+      "url": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge",
+      "status": "preorder",
+      "price": 38.99,
+      "currency": "USD",
+      "materials": [
+        "PC",
+        "TPU",
+        "EPU hinge film"
+      ],
+      "coverage": "Case plus separate hinge-protection film",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "More stock coming soon; pre-order button.",
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Bundle adds two flexible EPU hinge films to the Fusion case; this is film coverage rather than a rigid hinge guard.",
+      "limitations": [
+        "Price is the collection's 'from' price for the hinge bundle. Product page defaults to a higher-priced hinge-and-camera bundle.",
+        "Exact case front/back coverage is not established in extracted text.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge",
+          "title": "Fusion hinge film bundle",
+          "type": "manufacturer",
+          "facts": [
+            "PC/TPU case plus EPU hinge film; pre-order; magnetic version supports MagSafe, standard version expressly does not."
+          ]
+        },
+        {
+          "url": "https://www.ringkestore.com/collections/iphone-duo",
+          "title": "Ringke iPhone Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Hinge bundle advertised from $38.99."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "SUPCASE",
+      "name": "UB Grip MagSafe for iPhone Duo",
+      "url": "https://supcase.com/collections/iphone-cases/products/iphone-duo-ub-grip-magsafe-phone-case",
+      "status": "in-stock",
+      "price": 99.99,
+      "currency": "USD",
+      "materials": [
+        "1500D aramid fibre"
+      ],
+      "coverage": "Case with hinge and corner coverage",
+      "hinge": true,
+      "magsafe": true,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Aramid case with full hinge coverage, magnetic hinge lock and a rotating ring that acts as a stand and grip.",
+      "limitations": [
+        "Shopify variant weight is 90, but its meaning as case-only weight is unclear; weightG left null.",
+        "Manufacturer drop-test claims have not been independently verified."
+      ],
+      "image": "https://supcase.com/cdn/shop/files/SUPCASE_APPLE_iPhoneFold_UBGrip_Rugged_phone_case_Black_1.webp?v=1789929375",
+      "sources": [
+        {
+          "url": "https://supcase.com/collections/iphone-cases/products/iphone-duo-ub-grip-magsafe-phone-case",
+          "title": "UB Grip MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Aramid case with full hinge coverage, magnetic hinge lock and a rotating ring that acts as a stand and grip."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Poetic",
+      "name": "Spartan MagSafe for iPhone Duo",
+      "url": "https://www.poeticcases.com/products/apple-iphone-18-ultra",
+      "status": "preorder",
+      "price": 28.95,
+      "currency": "USD",
+      "materials": [],
+      "coverage": "Case with supplied outer-screen glass; exact shell coverage unverified",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Description says pre-order now, while the template also displays out of stock.",
+      "colours": [],
+      "summary": "Duo-specific Spartan listing advertises built-in MagSafe magnets, textured edges and a tempered-glass screen protector.",
+      "limitations": [
+        "Conflicting pre-order and out-of-stock labels.",
+        "Hinge coverage, materials and stand not established.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.poeticcases.com/products/apple-iphone-18-ultra",
+          "title": "Spartan MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific Spartan listing advertises built-in MagSafe magnets, textured edges and a tempered-glass screen protector."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Nillkin",
+      "name": "Super Frosted Shield Fold MagSafe for iPhone Duo",
+      "url": "https://www.nillkin.com/en-gb/products/magsafe%C2%AE-compatible-super-frosted-shield-fold-case-for-iphone-duo",
+      "status": "in-stock",
+      "price": 34,
+      "currency": "GBP",
+      "materials": [],
+      "coverage": "Back case and reinforced front frame",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Matte Black",
+        "Translucent Black"
+      ],
+      "summary": "Frosted grip case with raised camera protection, a flexible front frame and an advertised hinge-defence feature.",
+      "limitations": [
+        "Product page shows £34; collection shows £32. Product price recorded.",
+        "Hinge-defence claim does not specify mechanism or extent.",
+        "No verified case-only measurements."
+      ],
+      "image": "https://www.nillkin.com/cdn/shop/files/MagSafe-Compatible-Super-Frosted-Shield-Fold-Case-for-iPhone-Duo-black_1.jpg?v=1789098531&width=800",
+      "sources": [
+        {
+          "url": "https://www.nillkin.com/en-gb/products/magsafe%C2%AE-compatible-super-frosted-shield-fold-case-for-iphone-duo",
+          "title": "Super Frosted Shield Fold MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Frosted grip case with raised camera protection, a flexible front frame and an advertised hinge-defence feature."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Nillkin",
+      "name": "Iceblade CamProp MagSafe for iPhone Duo",
+      "url": "https://www.nillkin.com/en-gb/products/magsafe%C2%AE-compatible-iceblade-camprop-case-with-transparent-camera-cover-for-iphone-duo",
+      "status": "in-stock",
+      "price": 37,
+      "currency": "GBP",
+      "materials": [
+        "DURABIO bio-based material"
+      ],
+      "coverage": "Back case, reinforced front frame and transparent camera cover",
+      "hinge": null,
+      "magsafe": true,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Midnight Black",
+        "Twilight Gray"
+      ],
+      "summary": "Clear case with a transparent lens cover, built-in viewing stand and MagSafe support.",
+      "limitations": [
+        "Product page shows £37; collection shows £35. Product price recorded.",
+        "Hinge guard not established."
+      ],
+      "image": "https://www.nillkin.com/cdn/shop/files/MagSafe-Compatible-Iceblade-CamProp-Case-with-Transparent-Camera-Cover-for-iPhone-Duo-black_1.jpg?v=1790129127&width=1600",
+      "sources": [
+        {
+          "url": "https://www.nillkin.com/en-gb/products/magsafe%C2%AE-compatible-iceblade-camprop-case-with-transparent-camera-cover-for-iphone-duo",
+          "title": "Iceblade CamProp MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Clear case with a transparent lens cover, built-in viewing stand and MagSafe support."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "JETech",
+      "name": "Clear Case with Hinge Protection for iPhone Duo",
+      "url": "https://www.ijetech.com/product/iphone-duo-case-338534.html",
+      "status": "in-stock",
+      "price": 36.99,
+      "currency": "USD",
+      "materials": [
+        "PC",
+        "TPU",
+        "tempered glass"
+      ],
+      "coverage": "Front frame, back cover, hinge guard and supplied outer-screen glass",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Magnetic hinge cover and MagSafe back, with Camera Control button, two glass protectors and an alignment tool.",
+      "limitations": [
+        "Front frame uses adhesive strips; four spare strips supplied.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.ijetech.com/product/iphone-duo-case-338534.html",
+          "title": "Clear Case with Hinge Protection for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Magnetic hinge cover and MagSafe back, with Camera Control button, two glass protectors and an alignment tool."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "JETech",
+      "name": "Vegan Leather Case with Hinge Protection for iPhone Duo",
+      "url": "https://www.ijetech.com/product/iphone-duo-case-338533.html",
+      "status": "in-stock",
+      "price": 36.99,
+      "currency": "USD",
+      "materials": [
+        "PU leather",
+        "PC",
+        "metal camera frame"
+      ],
+      "coverage": "Back-only with hinge guard",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "White"
+      ],
+      "summary": "PU-covered PC back shell with hinge protection and built-in MagSafe magnets.",
+      "limitations": [
+        "Manufacturer explicitly excludes a front cover and screen protector.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.ijetech.com/product/iphone-duo-case-338533.html",
+          "title": "Vegan Leather Case with Hinge Protection for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "PU-covered PC back shell with hinge protection and built-in MagSafe magnets."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "JETech",
+      "name": "Matte Case with Hinge Protection for iPhone Duo",
+      "url": "https://www.ijetech.com/product/iphone-duo-case-338574.html",
+      "status": "out-of-stock",
+      "price": 36.99,
+      "currency": "USD",
+      "materials": [
+        "TPU hinge connection",
+        "tempered glass"
+      ],
+      "coverage": "Front frame, matte back cover, hinge guard and supplied outer-screen glass",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [],
+      "summary": "Matte version with magnetic hinge cover, Camera Control button, MagSafe magnets and two screen protectors.",
+      "limitations": [
+        "Page heading and description use placeholder 'iPhone NEW'; Duo appears in URL, category and shop listing.",
+        "Out of stock on product page.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.ijetech.com/product/iphone-duo-case-338574.html",
+          "title": "Matte Case with Hinge Protection for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Matte version with magnetic hinge cover, Camera Control button, MagSafe magnets and two screen protectors."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "FNTCASE",
+      "name": "Full Hinge Protection Clear for iPhone Duo",
+      "url": "https://fntcase.com/products/iphone-duo-case-full-hinge-protection-magsafe-heavy-duty-rugged-shockproof-anti-scratch-protective-clear-phone-cover",
+      "status": "in-stock",
+      "price": 30,
+      "currency": "USD",
+      "materials": [
+        "PC",
+        "TPU"
+      ],
+      "coverage": "Front screen protector, back and semi-automatic hinge guard",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear",
+        "Glitter Clear"
+      ],
+      "summary": "Smooth-gliding hinge cover and integrated front screen protector.",
+      "limitations": [
+        "Some product copy and URL slugs use iPhone Ultra alongside Duo. UK delivery and landed cost unverified."
+      ],
+      "image": "https://fntcase.com/cdn/shop/files/1_f64fc621-3c70-4fac-8dfc-c7d5758ac3d0.jpg?v=1791619965",
+      "sources": [
+        {
+          "url": "https://fntcase.com/products/iphone-duo-case-full-hinge-protection-magsafe-heavy-duty-rugged-shockproof-anti-scratch-protective-clear-phone-cover",
+          "title": "Full Hinge Protection Clear for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Smooth-gliding hinge cover and integrated front screen protector."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "FNTCASE",
+      "name": "Kickstand Hinge Protection for iPhone Duo",
+      "url": "https://fntcase.com/products/iphone-duo-phone-case-with-kickstand-hinge-protection-shockproof",
+      "status": "in-stock",
+      "price": 46,
+      "currency": "USD",
+      "materials": [],
+      "coverage": "Full-body coverage with hinge protection and supplied glass",
+      "hinge": true,
+      "magsafe": null,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Blue"
+      ],
+      "summary": "Fold-away kickstand, magnetic accessory ring and supplied tempered glass.",
+      "limitations": [
+        "Some product copy and URL slugs use iPhone Ultra alongside Duo. UK delivery and landed cost unverified.",
+        "Magnetic wireless-charger compatibility is stated; explicit MagSafe wording was not recovered for this family."
+      ],
+      "image": "https://fntcase.com/cdn/shop/files/1-_1_7bc141f2-c808-497d-81b6-3959e4f3ba4d.jpg?v=1789371604",
+      "sources": [
+        {
+          "url": "https://fntcase.com/products/iphone-duo-phone-case-with-kickstand-hinge-protection-shockproof",
+          "title": "Kickstand Hinge Protection for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Fold-away kickstand, magnetic accessory ring and supplied tempered glass."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "FNTCASE",
+      "name": "Frosted Oil Spray Touch Magnetic for iPhone Duo",
+      "url": "https://fntcase.com/products/iphone-ultra-phone-case-magnetic-charging-shockproof-magsafe-support-frosted-oil-spray-touch",
+      "status": "in-stock",
+      "price": 30,
+      "currency": "USD",
+      "materials": [
+        "TPU",
+        "PC"
+      ],
+      "coverage": null,
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Blue",
+        "Light Purple",
+        "Rose Red",
+        "Purple",
+        "Pink",
+        "Green",
+        "Light Blue",
+        "Desert Titanium"
+      ],
+      "summary": "Translucent matte magnetic case; title explicitly identifies iPhone Duo.",
+      "limitations": [
+        "Some product copy and URL slugs use iPhone Ultra alongside Duo. UK delivery and landed cost unverified.",
+        "Product copy conflicts on 14-foot and 10-foot drop claims; neither adopted as a verified rating."
+      ],
+      "image": "https://fntcase.com/cdn/shop/files/1_26749628-afcc-4cf1-81b6-1114584eff1c.jpg?v=1789369746",
+      "sources": [
+        {
+          "url": "https://fntcase.com/products/iphone-ultra-phone-case-magnetic-charging-shockproof-magsafe-support-frosted-oil-spray-touch",
+          "title": "Frosted Oil Spray Touch Magnetic for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Translucent matte magnetic case; title explicitly identifies iPhone Duo."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "FNTCASE",
+      "name": "360 Spin Magnetic Stand for iPhone Duo",
+      "url": "https://fntcase.com/products/iphone-ultra-2026-case-360-spin-magnetic-stand-translucent-matte-military-grade-shockproof",
+      "status": "in-stock",
+      "price": 37,
+      "currency": "USD",
+      "materials": [
+        "TPU",
+        "PC",
+        "metal ring"
+      ],
+      "coverage": "Back panel, raised screen edge and supplied outer-screen glass; front frame unverified",
+      "hinge": null,
+      "magsafe": true,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Blue",
+        "Light Purple",
+        "Pink",
+        "Light Blue",
+        "Cherry Red",
+        "Clear",
+        "Purple",
+        "Green"
+      ],
+      "summary": "Rotating ring supports portrait and landscape viewing and acts as a grip.",
+      "limitations": [
+        "Some product copy and URL slugs use iPhone Ultra alongside Duo. UK delivery and landed cost unverified."
+      ],
+      "image": "https://fntcase.com/cdn/shop/files/1_947faa53-7791-45b5-86d3-7c4611f09f62.jpg?v=1788773955",
+      "sources": [
+        {
+          "url": "https://fntcase.com/products/iphone-ultra-2026-case-360-spin-magnetic-stand-translucent-matte-military-grade-shockproof",
+          "title": "360 Spin Magnetic Stand for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Rotating ring supports portrait and landscape viewing and acts as a grip."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "FNTCASE",
+      "name": "Clear Magnetic for iPhone Duo",
+      "url": "https://fntcase.com/products/iphone-ultra-2026-clear-case-magnetic-charging-shockproof-magsafe-support",
+      "status": "in-stock",
+      "price": 20.99,
+      "currency": "USD",
+      "materials": [
+        "TPU",
+        "PC"
+      ],
+      "coverage": null,
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear",
+        "Glitter Clear"
+      ],
+      "summary": "Clear magnetic case with raised screen and camera edges.",
+      "limitations": [
+        "Some product copy and URL slugs use iPhone Ultra alongside Duo. UK delivery and landed cost unverified."
+      ],
+      "image": "https://fntcase.com/cdn/shop/files/1.1_797d1cf8-3103-48b2-a3e9-e5967d3b4804.jpg?v=1789192083",
+      "sources": [
+        {
+          "url": "https://fntcase.com/products/iphone-ultra-2026-clear-case-magnetic-charging-shockproof-magsafe-support",
+          "title": "Clear Magnetic for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Clear magnetic case with raised screen and camera edges."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "FNTCASE",
+      "name": "Translucent Magnetic Rugged Ring Kickstand with Hinge Protection for iPhone Duo",
+      "url": "https://fntcase.com/products/iphone-18-ultra-2026-with-hinge-protection-magnetic-rugged-case-featuring-ring-kickstand-military-grade-protection",
+      "status": "out-of-stock",
+      "price": 59.99,
+      "currency": "USD",
+      "materials": [
+        "metal ring"
+      ],
+      "coverage": "Case with dedicated hinge cover; exact front coverage unverified",
+      "hinge": true,
+      "magsafe": true,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Blue",
+        "Light Pink",
+        "Wine Red",
+        "Light Blue"
+      ],
+      "summary": "Dedicated hinge guard and rotating ring grip/stand with MagSafe support.",
+      "limitations": [
+        "Some product copy and URL slugs use iPhone Ultra alongside Duo. UK delivery and landed cost unverified."
+      ],
+      "image": "https://fntcase.com/cdn/shop/files/iPhone18-ultra-fold-2026-phone-case-with-ring-kickstand-01.jpg?v=1787996585",
+      "sources": [
+        {
+          "url": "https://fntcase.com/products/iphone-18-ultra-2026-with-hinge-protection-magnetic-rugged-case-featuring-ring-kickstand-military-grade-protection",
+          "title": "Translucent Magnetic Rugged Ring Kickstand with Hinge Protection for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Dedicated hinge guard and rotating ring grip/stand with MagSafe support."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Tech21",
+      "name": "EvoClear MagSafe for iPhone Duo",
+      "url": "https://www.tech21.com/products/evoclear-magsafe-apple-iphone-duo-case-clear",
+      "status": "coming-soon",
+      "price": 64.99,
+      "currency": "USD",
+      "materials": [
+        "plastic with Bio-Spice additive"
+      ],
+      "coverage": "One-piece exterior case with auto-closing hinge guard",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Page says unavailable and notify when in stock, with a ship-by notice for 23 October.",
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Clear MagSafe case with one-piece construction, automatic hinge closure and raised camera bezels.",
+      "limitations": [
+        "No active purchase verified; ship-by notice may be stale.",
+        "Exact plastic polymer not specified."
+      ],
+      "image": "https://www.tech21.com/cdn/shop/files/T21-11730_AP1043_EvoClearMS_Clear_01_SF_D_WEB_7cdfa6db-0919-4072-916e-d4428dabed76.jpg?v=1789238349&width=180",
+      "sources": [
+        {
+          "url": "https://www.tech21.com/products/evoclear-magsafe-apple-iphone-duo-case-clear",
+          "title": "EvoClear MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Clear MagSafe case with one-piece construction, automatic hinge closure and raised camera bezels."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Speck",
+      "name": "Presidio Perfect-Clear Fold MagSafe for iPhone Duo",
+      "url": "https://speckproducts.com/collections/all-brands/products/presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case",
+      "status": "announced",
+      "price": 64.99,
+      "currency": "USD",
+      "materials": [],
+      "coverage": "One-piece front/back exterior case with automatic hinge closure",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear/Silver"
+      ],
+      "summary": "Duo-specific foldable case with automatic hinge closure and built-in MagSafe magnets.",
+      "limitations": [
+        "Purchase availability not established from extracted page.",
+        "Manufacturer case-only measurements not found.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://speckproducts.com/collections/all-brands/products/presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case",
+          "title": "Presidio Perfect-Clear Fold MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific foldable case with automatic hinge closure and built-in MagSafe magnets."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Speck",
+      "name": "Presidio Lux Fold MagSafe for iPhone Duo",
+      "url": "https://speckproducts.com/collections/all-brands/products/presidio-lux-fold-magsafe-apple-iphone-duo-case",
+      "status": "announced",
+      "price": null,
+      "currency": null,
+      "materials": [],
+      "coverage": "One-piece front/back exterior case with automatic hinge closure",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Obsidian Tint/Black"
+      ],
+      "summary": "Duo-specific foldable case with automatic hinge closure and built-in MagSafe magnets.",
+      "limitations": [
+        "Purchase availability not established from extracted page.",
+        "Manufacturer case-only measurements not found.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://speckproducts.com/collections/all-brands/products/presidio-lux-fold-magsafe-apple-iphone-duo-case",
+          "title": "Presidio Lux Fold MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific foldable case with automatic hinge closure and built-in MagSafe magnets."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "ZAGG",
+      "name": "Sedona for MagSafe with Stand for iPhone Duo",
+      "url": "https://www.zagg.com/sedona-stand-iphone-duo",
+      "status": "in-stock",
+      "price": 89.99,
+      "currency": "USD",
+      "materials": [
+        "graphene-reinforced protective material"
+      ],
+      "coverage": "Foldable exterior case including hinge protection",
+      "hinge": true,
+      "magsafe": true,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Multi-layer case with reinforced bumpers, hinge coverage and an integrated portrait/landscape kickstand.",
+      "limitations": [
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.zagg.com/sedona-stand-iphone-duo",
+          "title": "Sedona for MagSafe with Stand for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Multi-layer case with reinforced bumpers, hinge coverage and an integrated portrait/landscape kickstand."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Case-Mate",
+      "name": "Floral Gems MagSafe for iPhone Duo",
+      "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "status": "coming-soon",
+      "price": 60,
+      "currency": "USD",
+      "materials": [],
+      "coverage": "One-piece folding case; precise hinge coverage unverified",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Floral Gems"
+      ],
+      "summary": "Duo-specific one-piece case with adhesive lining and built-in MagSafe magnets.",
+      "limitations": [
+        "Product page says join the waitlist; some collection extracts instead show add to cart.",
+        "No verified polymer specification or case-only measurements.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+          "title": "Floral Gems MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific one-piece case with adhesive lining and built-in MagSafe magnets."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Case-Mate",
+      "name": "Sheer Twinkle Silver MagSafe for iPhone Duo",
+      "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "status": "coming-soon",
+      "price": 60,
+      "currency": "USD",
+      "materials": [],
+      "coverage": "One-piece folding case; precise hinge coverage unverified",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Sheer Twinkle Silver"
+      ],
+      "summary": "Duo-specific one-piece case with adhesive lining and built-in MagSafe magnets.",
+      "limitations": [
+        "Product page says join the waitlist; some collection extracts instead show add to cart.",
+        "No verified polymer specification or case-only measurements.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+          "title": "Sheer Twinkle Silver MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific one-piece case with adhesive lining and built-in MagSafe magnets."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Case-Mate",
+      "name": "Tough Plus Clear MagSafe with Stand for iPhone Duo",
+      "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "status": "coming-soon",
+      "price": 60,
+      "currency": "USD",
+      "materials": [],
+      "coverage": "One-piece folding case; precise hinge coverage unverified",
+      "hinge": null,
+      "magsafe": true,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Duo-specific one-piece case with adhesive lining and built-in MagSafe magnets.",
+      "limitations": [
+        "Product page says join the waitlist; some collection extracts instead show add to cart.",
+        "No verified polymer specification or case-only measurements.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+          "title": "Tough Plus Clear MagSafe with Stand for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific one-piece case with adhesive lining and built-in MagSafe magnets."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Kate Spade",
+      "name": "Flowerbed Blue MagSafe for iPhone Duo",
+      "url": "https://case-mate.com/products/kate-spade-new-york-flowerbed-blue-magsafe-iphone-duo?variant=46257255317640",
+      "status": "in-stock",
+      "price": 65,
+      "currency": "USD",
+      "materials": [],
+      "coverage": "One-piece folding case; precise hinge coverage unverified",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Flowerbed Blue"
+      ],
+      "summary": "Blue floral case sold by Case-Mate, with a one-piece folding design and light adhesive lining.",
+      "limitations": [
+        "Older collection search showed $55; current product and all-products page show $65."
+      ],
+      "image": "https://case-mate.com/cdn/shop/files/KS061842-01-0482_1000x1000.jpg?v=1787938334",
+      "sources": [
+        {
+          "url": "https://case-mate.com/products/kate-spade-new-york-flowerbed-blue-magsafe-iphone-duo?variant=46257255317640",
+          "title": "Flowerbed Blue MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Blue floral case sold by Case-Mate, with a one-piece folding design and light adhesive lining."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Pelican",
+      "name": "Protector MagSafe with Stand for iPhone Duo",
+      "url": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096",
+      "status": "in-stock",
+      "price": 80,
+      "currency": "USD",
+      "materials": [
+        "rubber lining",
+        "impact-resistant outer shell"
+      ],
+      "coverage": "Front/back exterior case with full hinge guard",
+      "hinge": true,
+      "magsafe": true,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Duo-specific rugged Protector listing with full hinge coverage, MagSafe magnets and a built-in stand.",
+      "limitations": [
+        "UK landed cost unverified."
+      ],
+      "image": "https://case-mate.com/cdn/shop/files/ppi_ProtectorBlack_Stand_Duo_PDP1_PP061196_1000x1000.jpg?v=1788283826",
+      "sources": [
+        {
+          "url": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096",
+          "title": "Protector MagSafe with Stand for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific rugged Protector listing with full hinge coverage, MagSafe magnets and a built-in stand."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Pelican",
+      "name": "Ranger Clear MagSafe for iPhone Duo",
+      "url": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096",
+      "status": "announced",
+      "price": 55,
+      "currency": "USD",
+      "materials": [],
+      "coverage": null,
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Separate Ranger Clear MagSafe family listed on the Duo product page.",
+      "limitations": [
+        "Shared product page defaults to Protector; Ranger-specific stock, coverage and materials not established.",
+        "Collections conflict between waitlist and add to cart.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096",
+          "title": "Ranger Clear MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Separate Ranger Clear MagSafe family listed on the Duo product page."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Incipio",
+      "name": "Survivor Clear for MagSafe for iPhone Duo",
+      "url": "https://incipio.com/collections/iphone/products/svvri1024-bclr",
+      "status": "announced",
+      "price": 39.99,
+      "currency": "USD",
+      "materials": [],
+      "coverage": null,
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black/Clear",
+        "Clear"
+      ],
+      "summary": "Official Duo collection lists Survivor Clear for MagSafe in two finishes.",
+      "limitations": [
+        "Product detail extraction sparse; stock, hinge coverage and stand unverified.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://incipio.com/collections/iphone-duo",
+          "title": "Incipio iPhone Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "One Duo-compatible product: Survivor Clear for MagSafe, $39.99, Black/Clear and Clear."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Elago",
+      "name": "MagSafe Silicone Case for iPhone Duo",
+      "url": "https://www.elago.com/products/magsafe-silicone-case-7-colors-ultra",
+      "status": "in-stock",
+      "price": 18.99,
+      "currency": "USD",
+      "materials": [
+        "PC",
+        "silicone"
+      ],
+      "coverage": "Separate front frame and rear cover",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": 2.4,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [],
+      "summary": "Duo-specific two-piece case with silicone-finished PC rear, PC front frame and pre-applied adhesive.",
+      "limitations": [
+        "2.4 mm is the rear panel profile; sides are 1.9 mm. It is not overall closed-case thickness.",
+        "Browser page title refers to iPhone 17 Pro Max, but product heading and body explicitly identify Duo.",
+        "Seven colours advertised, individual names not verified.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.elago.com/products/magsafe-silicone-case-7-colors-ultra",
+          "title": "MagSafe Silicone Case for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific two-piece case with silicone-finished PC rear, PC front frame and pre-applied adhesive."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Elago",
+      "name": "MagSafe Hybrid Clear Case for iPhone Duo",
+      "url": "https://www.elago.com/products/magsafe-hybrid-clear-case-ultra",
+      "status": "in-stock",
+      "price": 19.99,
+      "currency": "USD",
+      "materials": [
+        "PC"
+      ],
+      "coverage": "Separate front frame and rear cover",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": 1.9,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Clear PC case with magnetic compatibility, adhesive fitting and a fine interior dot pattern.",
+      "limitations": [
+        "1.9 mm is rear-panel thickness; sides are 1.7 mm. It is not overall closed-case thickness.",
+        "Browser page title refers to iPhone 17 Pro Max; body explicitly identifies Duo.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.elago.com/products/magsafe-hybrid-clear-case-ultra",
+          "title": "MagSafe Hybrid Clear Case for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Clear PC case with magnetic compatibility, adhesive fitting and a fine interior dot pattern."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Cygnett",
+      "name": "AeroShield Clear for iPhone Duo",
+      "url": "https://www.cygnett.com/products/aeroshield-slim-clear-case-for-iphone-foldable",
+      "status": "preorder",
+      "price": 39.95,
+      "currency": "AUD",
+      "materials": [],
+      "coverage": "Separate shells for both exterior panels, hinge exposed",
+      "hinge": false,
+      "magsafe": null,
+      "stand": null,
+      "weightG": 32,
+      "thicknessMm": null,
+      "dimensions": "150 mm H × 70 mm W × 10 mm D (manufacturer-labelled product dimensions)",
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Clear hard-shell case with raised camera bezel and anti-yellowing treatment.",
+      "limitations": [
+        "Dimensions are explicitly labelled product dimensions, separate from packaging, but appear unusual for this foldable; not independently checked.",
+        "AeroShield pre-order button says ships 11/09 without a clear year; no release date inferred.",
+        "Collection refers to non-magnetic AeroSlim while the product page is named AeroShield.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.cygnett.com/products/aeroshield-slim-clear-case-for-iphone-foldable",
+          "title": "AeroShield Clear for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Clear hard-shell case with raised camera bezel and anti-yellowing treatment."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Cygnett",
+      "name": "AeroMag Clear for iPhone Duo",
+      "url": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable",
+      "status": "out-of-stock",
+      "price": 49.95,
+      "currency": "AUD",
+      "materials": [],
+      "coverage": "Separate shells for both exterior panels, hinge exposed",
+      "hinge": false,
+      "magsafe": true,
+      "stand": null,
+      "weightG": 32,
+      "thicknessMm": null,
+      "dimensions": "150 mm H × 70 mm W × 10 mm D (manufacturer-labelled product dimensions)",
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear"
+      ],
+      "summary": "Clear hard-shell case with raised camera bezel and anti-yellowing treatment.",
+      "limitations": [
+        "Dimensions are explicitly labelled product dimensions, separate from packaging, but appear unusual for this foldable; not independently checked.",
+        "AeroShield pre-order button says ships 11/09 without a clear year; no release date inferred.",
+        "Collection refers to non-magnetic AeroSlim while the product page is named AeroShield.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable",
+          "title": "AeroMag Clear for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Clear hard-shell case with raised camera bezel and anti-yellowing treatment."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Mujjo / Troubadour",
+      "name": "iPhone Duo Case",
+      "url": "https://www.troubadourgoods.com/products/iphone-duo-case",
+      "status": "preorder",
+      "price": 59,
+      "currency": "USD",
+      "materials": [
+        "full-grain Danish calfskin",
+        "resin bumpers",
+        "Japanese microfibre lining"
+      ],
+      "coverage": "Two-piece front bezel and back case",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Pre-order copy says shipping mid-October; generic banner also says ships in one day.",
+      "colours": [
+        "Black"
+      ],
+      "summary": "Leather two-piece case from the former Mujjo brand, with raised front bezel and MagSafe magnets.",
+      "limitations": [
+        "Conflicting generic and product-specific dispatch text; pre-order status retained."
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0171/0160/files/iPhone_Duo_Empty-interior_02.jpg?v=1790675910&width=1040",
+      "sources": [
+        {
+          "url": "https://www.troubadourgoods.com/products/iphone-duo-case",
+          "title": "iPhone Duo Case",
+          "type": "manufacturer",
+          "facts": [
+            "Leather two-piece case from the former Mujjo brand, with raised front bezel and MagSafe magnets."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Snakehive",
+      "name": "Metro Leather Wallet for iPhone Duo",
+      "url": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case",
+      "status": "announced",
+      "price": null,
+      "currency": null,
+      "materials": [
+        "vegetable-tanned top-grain cowhide"
+      ],
+      "coverage": "Leather wallet case; precise hinge coverage unverified",
+      "hinge": null,
+      "magsafe": false,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Rich Tan",
+        "Jet Black (Dappled)"
+      ],
+      "summary": "Duo-specific wallet with four card slots, cash storage, magnetic closure and a viewing stand.",
+      "limitations": [
+        "UK product URL verified, but UK price and availability could not be reliably extracted.",
+        "Canadian manufacturer page supplies specifications and expressly excludes Apple MagSafe charger compatibility.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case",
+          "title": "UK Metro Leather Wallet for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific UK product page."
+          ]
+        },
+        {
+          "url": "https://ca.snakehive.com/products/apple-iphone-duo-metro-leather-wallet-phone-case",
+          "title": "Metro Leather Wallet for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Top-grain vegetable-tanned cowhide; four card slots and cash storage; viewing stand; not compatible with Apple MagSafe charger."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "BlackBrook",
+      "name": "Classic Leather Folio for iPhone Duo",
+      "url": "https://blackbrookcase.com/collections/all/products/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee",
+      "status": "in-stock",
+      "price": 119,
+      "currency": "USD",
+      "materials": [
+        "full-grain leather",
+        "leather lining"
+      ],
+      "coverage": "Folio front cover and rear shell",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Manufacturer says dispatch from Florida in one to two days.",
+      "colours": [
+        "Distressed Coffee"
+      ],
+      "summary": "Fixed leather folio with integrated MagSafe compatibility and raised leather camera surround.",
+      "limitations": [
+        "Despite 'wallet' in URL, manufacturer expressly says no card slots.",
+        "Hinge coverage and stand not established.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://blackbrookcase.com/collections/all/products/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee",
+          "title": "Classic Leather Folio for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Fixed leather folio with integrated MagSafe compatibility and raised leather camera surround."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vaja",
+      "name": "Folio Leather Case with MagSafe for iPhone Duo",
+      "url": "https://www.vajacases.com/products/folio-iphone-duo-leather-case",
+      "status": "preorder",
+      "price": 159,
+      "currency": "USD",
+      "materials": [
+        "full-grain Patagonia leather",
+        "leather lining",
+        "anodised aluminium camera ring"
+      ],
+      "coverage": "Folio front cover and back",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": 63,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Current manufacturer home page and Folio FAQ say pre-orders ship by 20 November 2026.",
+      "colours": [
+        "Floater Latte",
+        "Floater Black",
+        "Floater Indigo"
+      ],
+      "summary": "Handcrafted leather folio with magnetic closure and MagSafe; folio has no card slots.",
+      "limitations": [
+        "Older collection and variant extracts say coming soon or sold out; current home-page pre-order statement retained.",
+        "Manufacturer reports added closed thickness, rather than material thickness; thicknessMm left null.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.vajacases.com/products/folio-iphone-duo-leather-case",
+          "title": "Folio Leather Case with MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Handcrafted leather folio with magnetic closure and MagSafe; folio has no card slots."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vaja",
+      "name": "Wallet Leather Case with MagSafe for iPhone Duo",
+      "url": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case",
+      "status": "preorder",
+      "price": 189,
+      "currency": "USD",
+      "materials": [
+        "full-grain Patagonia leather",
+        "leather lining",
+        "anodised aluminium camera ring"
+      ],
+      "coverage": "Folio front cover and back",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": 67,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Current manufacturer home page and Folio FAQ say pre-orders ship by 20 November 2026.",
+      "colours": [
+        "Floater Latte",
+        "Floater Black",
+        "Floater Indigo"
+      ],
+      "summary": "Handcrafted leather folio with magnetic closure and MagSafe; wallet adds three RFID-protected card slots and a bill pocket.",
+      "limitations": [
+        "Older collection and variant extracts say coming soon or sold out; current home-page pre-order statement retained.",
+        "Manufacturer reports added closed thickness, rather than material thickness; thicknessMm left null.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case",
+          "title": "Wallet Leather Case with MagSafe for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Handcrafted leather folio with magnetic closure and MagSafe; wallet adds three RFID-protected card slots and a bill pocket."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vaja",
+      "name": "Leather Folio Wrap with Aramid Shell for iPhone Duo",
+      "url": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856",
+      "status": "preorder",
+      "price": null,
+      "currency": null,
+      "materials": [
+        "600D aramid fibre",
+        "Floater leather",
+        "anodised aluminium camera ring"
+      ],
+      "coverage": "Front frame and back shell plus detachable screen-covering leather folio",
+      "hinge": false,
+      "magsafe": true,
+      "stand": null,
+      "weightG": 69,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Ships by 20 November 2026.",
+      "colours": [
+        "Floater Black",
+        "Floater Indigo"
+      ],
+      "summary": "Two-layer system weighs 69 g together; the 18 g aramid shell stays fitted when the leather wrap is removed.",
+      "limitations": [
+        "MagSafe charging requires removing the leather wrap; it does not charge with the wrap fitted.",
+        "Shell back is 1 mm with 0.5 mm walls; combined thickness not given.",
+        "Verified numeric price not extracted.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856",
+          "title": "Leather Folio Wrap with Aramid Shell for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Two-layer system weighs 69 g together; the 18 g aramid shell stays fitted when the leather wrap is removed."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Vaja",
+      "name": "Leather Wallet Wrap with Aramid Shell for iPhone Duo",
+      "url": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384",
+      "status": "announced",
+      "price": null,
+      "currency": null,
+      "materials": [
+        "aramid fibre",
+        "leather"
+      ],
+      "coverage": "Front frame and back shell plus detachable leather wallet wrap",
+      "hinge": false,
+      "magsafe": null,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [],
+      "summary": "Separate wallet-wrap configuration referenced by Vaja, adding two RFID-protected card slots and folded-bill storage.",
+      "limitations": [
+        "Standalone product fetch failed; configuration verified through manufacturer Folio Wrap page and indexed wallet product result.",
+        "Price, current order status, weight and charging conditions for this configuration remain unverified.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856",
+          "title": "Vaja Folio Wrap with Aramid Shell",
+          "type": "manufacturer",
+          "facts": [
+            "References a separate Leather Wallet Wrap with Aramid Shell configuration with two RFID-protected card slots and a bill pocket."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "fitBAG",
+      "name": "Beat made-to-measure sleeve for iPhone Duo",
+      "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "status": "announced",
+      "price": 24.99,
+      "currency": "EUR",
+      "materials": [
+        "microfibre lining"
+      ],
+      "coverage": "Removable transport sleeve for the closed phone",
+      "hinge": null,
+      "magsafe": null,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Cognac",
+        "Royal Blue"
+      ],
+      "summary": "Made-to-measure sleeve offered for the closed Duo.",
+      "limitations": [
+        "From price before extras. Remove phone to use. Exact outer material and lead time unverified.",
+        "Direct product-image URL not recovered."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+          "title": "Beat made-to-measure sleeve for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Made-to-measure sleeve offered for the closed Duo."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "fitBAG",
+      "name": "Classic made-to-measure sleeve for iPhone Duo",
+      "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "status": "announced",
+      "price": 23.99,
+      "currency": "EUR",
+      "materials": [
+        "microfibre lining"
+      ],
+      "coverage": "Removable transport sleeve for the closed phone",
+      "hinge": null,
+      "magsafe": null,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Grey",
+        "Blue"
+      ],
+      "summary": "Made-to-measure sleeve offered for the closed Duo.",
+      "limitations": [
+        "From price before extras. Remove phone to use. Exact outer material and lead time unverified.",
+        "Direct product-image URL not recovered."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+          "title": "Classic made-to-measure sleeve for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Made-to-measure sleeve offered for the closed Duo."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "fitBAG",
+      "name": "Jive made-to-measure sleeve for iPhone Duo",
+      "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "status": "announced",
+      "price": 19.99,
+      "currency": "EUR",
+      "materials": [
+        "microfibre lining"
+      ],
+      "coverage": "Removable transport sleeve for the closed phone",
+      "hinge": null,
+      "magsafe": null,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Grey",
+        "Blue"
+      ],
+      "summary": "Made-to-measure sleeve offered for the closed Duo.",
+      "limitations": [
+        "From price before extras. Remove phone to use. Exact outer material and lead time unverified.",
+        "Direct product-image URL not recovered."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+          "title": "Jive made-to-measure sleeve for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Made-to-measure sleeve offered for the closed Duo."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "fitBAG",
+      "name": "Rave made-to-measure sleeve for iPhone Duo",
+      "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "status": "announced",
+      "price": 19.99,
+      "currency": "EUR",
+      "materials": [
+        "microfibre lining"
+      ],
+      "coverage": "Removable transport sleeve for the closed phone",
+      "hinge": null,
+      "magsafe": null,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Emerald"
+      ],
+      "summary": "Made-to-measure sleeve offered for the closed Duo.",
+      "limitations": [
+        "From price before extras. Remove phone to use. Exact outer material and lead time unverified.",
+        "Direct product-image URL not recovered."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+          "title": "Rave made-to-measure sleeve for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Made-to-measure sleeve offered for the closed Duo."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Noreve",
+      "name": "2154TC leather case for iPhone Duo",
+      "url": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963",
+      "status": "announced",
+      "price": 124,
+      "currency": "CHF",
+      "materials": [
+        "full-grain leather"
+      ],
+      "coverage": null,
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black / Crocodile nero"
+      ],
+      "summary": "Retailer lists Noreve model 2154TCF56/f for Apple iPhone Duo with MagSafe.",
+      "limitations": [
+        "Retailer evidence only; manufacturer product page not found.",
+        "Retailer estimates delivery between 14 November and 2 December; no manufacturer release date adopted.",
+        "Price applies to this listed finish; family variants not fully verified.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963",
+          "title": "Noreve leather case, Apple iPhone Duo",
+          "type": "retailer",
+          "facts": [
+            "CHF 124; manufacturer number 2154TCF56/f; leather; MagSafe; future delivery estimate."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Noreve",
+      "name": "2154TB leather wallet case for iPhone Duo",
+      "url": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952",
+      "status": "announced",
+      "price": 159,
+      "currency": "EUR",
+      "materials": [
+        "full-grain leather"
+      ],
+      "coverage": "Wallet case; precise coverage unverified",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Serpent nero"
+      ],
+      "summary": "Retailer lists a separate Duo wallet model, 2154TB53/f, with snap closure and business-card pocket.",
+      "limitations": [
+        "Retailer evidence only; no verified manufacturer order status.",
+        "Retailer estimates delivery 5 to 19 November.",
+        "Price applies to the Serpent nero finish.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952",
+          "title": "Noreve iPhone Duo leather wallet case",
+          "type": "retailer",
+          "facts": [
+            "EUR 159; 2154TB53/f; full-grain leather, snap closure, card pocket and MagSafe claim."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "MOFT",
+      "name": "Dynamic Folio for iPhone Duo",
+      "url": "https://www.moft.com/products/dynamic-folio-for-iphone-duo",
+      "status": "preorder",
+      "price": 69.99,
+      "currency": "USD",
+      "materials": [],
+      "coverage": "Folio protection; precise edge and hinge coverage unverified",
+      "hinge": null,
+      "magsafe": true,
+      "stand": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Pre-orders begin shipping in November.",
+      "colours": [
+        "Misty Cove x Sapphire",
+        "Navy Blue",
+        "Light Pink x Brownie",
+        "Khaki Green x Brownie"
+      ],
+      "summary": "Folio folds into landscape, portrait and hover viewing positions and supports MagSafe charging open or closed.",
+      "limitations": [
+        "Not every MagSafe accessory sits flush; manufacturer recommends Apple's wireless charger.",
+        "Separate Snap Fold wallet is an accessory, not included here."
+      ],
+      "image": "https://www.moft.com/cdn/shop/files/MS030_Dynamic_Folio_Duo_Misty_Cove_63325766.png?v=1791637041&width=1090",
+      "sources": [
+        {
+          "url": "https://www.moft.com/products/dynamic-folio-for-iphone-duo",
+          "title": "Dynamic Folio for iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "Folio folds into landscape, portrait and hover viewing positions and supports MagSafe charging open or closed."
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Ridge",
+      "name": "Phone Case for iPhone Duo, Carbon",
+      "url": "https://ridge.com/products/iphone-duo-case-carbon",
+      "status": "announced",
+      "price": 99,
+      "currency": "USD",
+      "materials": [
+        "Kevlar fibre"
+      ],
+      "coverage": null,
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Carbon"
+      ],
+      "summary": "Duo product listing advertises Kevlar construction, raised screen/camera edges and MagSafe/Qi compatibility.",
+      "limitations": [
+        "Product name says Carbon while specifications say Kevlar; carbon fibre is not assumed.",
+        "Weight table labels 31 g as iPhone Ultra rather than Duo, so weightG remains null.",
+        "Exact hinge coverage and live purchase status not established.",
+        "Direct manufacturer product-image URL not recovered in this pass."
+      ],
+      "image": null,
+      "sources": [
+        {
+          "url": "https://ridge.com/products/iphone-duo-case-carbon",
+          "title": "Phone Case for iPhone Duo, Carbon",
+          "type": "manufacturer",
+          "facts": [
+            "Duo product listing advertises Kevlar construction, raised screen/camera edges and MagSafe/Qi compatibility."
+          ]
+        }
+      ]
+    }
+  ],
+  "unverified": [
+    {
+      "brand": "i-Blason",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and official-domain searches for \"iPhone Duo\", Armorbox and Cosmo; inspected indexed all-products catalogue.",
+      "sourceUrls": [
+        "https://www.i-blason.com/collections/all"
+      ],
+      "note": "No Duo-specific case verified. Retailer category mentions are insufficient; this is not proof that no product exists."
+    },
+    {
+      "brand": "Incase",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and site:incase.com searches for \"iPhone Duo\" case.",
+      "sourceUrls": [],
+      "note": "No product-specific source verified. No inference from other iPhone models."
+    },
+    {
+      "brand": "BodyGuardz",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and official-domain searches for \"iPhone Duo\" case.",
+      "sourceUrls": [
+        "https://www.bodyguardz.com/products/bodyguardz-camera-protector-for-iphone-duo",
+        "https://www.bodyguardz.com/products/clear-tempered-glass-screen-protector-iphone-duo"
+      ],
+      "note": "Duo camera and screen protectors verified, but they are not cases; no case verified."
+    },
+    {
+      "brand": "RhinoShield",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and site:rhinoshield.io searches for \"iPhone Duo\".",
+      "sourceUrls": [],
+      "note": "Discussion and requests found, but no manufacturer or retailer Duo case listing verified."
+    },
+    {
+      "brand": "Peak Design",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and official-domain searches for Duo cases and the reported support statement.",
+      "sourceUrls": [
+        "https://www.reddit.com/r/iPhoneDuo/comments/1wu9fos/emailed_peak_design_if_they_were_gonna_make_duo/"
+      ],
+      "note": "A user reproduces a purported wait-and-see manufacturer statement. Original official support page was not verified; no official product or concept recorded."
+    },
+    {
+      "brand": "Moment",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and shopmoment.com searches for \"iPhone Duo\" case.",
+      "sourceUrls": [
+        "https://www.reddit.com/r/MOMENT/comments/1wdu92p/yal_think_we_getting_a_iphone_duo_case/"
+      ],
+      "note": "Public discussion suggests a possible stick-on lens mount, not a confirmed case. No official case listing verified."
+    },
+    {
+      "brand": "Bellroy",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and bellroy.com searches; checked Apple Bellroy/Duo accessory results.",
+      "sourceUrls": [
+        "https://www.apple.com/shop/iphone/accessories/cases-protection/iphone-duo-bellroy",
+        "https://bellroy.com/collection/for-tech-lovers/device-accessories"
+      ],
+      "note": "Apple's filtered page lists a Bellroy Travel Organizer, not a Duo-specific case. A compatibility filter alone is not case evidence."
+    },
+    {
+      "brand": "Decoded",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and site:decodedbags.com searches for \"iPhone Duo\" case.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product verified. Empty search results do not establish absence."
+    },
+    {
+      "brand": "Piel Frama",
+      "status": "not-verified",
+      "searchDescription": "Exact-name and site:pielframa.com searches for \"iPhone Duo\" case.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product verified. An old-model case resale mentioning an upgrade to Duo was excluded."
+    },
+    {
+      "brand": "Waterfield",
+      "status": "not-verified",
+      "searchDescription": "Exact-name search and manufacturer iPhone 18 collection FAQ.",
+      "sourceUrls": [
+        "https://www.sfbags.com/collections/iphone-18-cases"
+      ],
+      "note": "Manufacturer says it does not currently make a Duo case and plans one after hands-on access. No named case family, price or release date announced, so no product record created."
+    }
+  ]
+}

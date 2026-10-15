@@ -1,0 +1,665 @@
+{
+  "checkedAt": "2026-10-15",
+  "brands": [
+    {
+      "brand": "Apple",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "Direct FineWoven material testing found persistent cosmetic marking and oil staining, alongside a pleasant initial feel.",
+      "cautions": [
+        "Bench material tests on an iPhone 15 Pro case, not a long-term drop test or a verdict on other Apple materials.",
+        "iFixit is a repair retailer and editorial publisher. Its microscope was supplied by Evident Scientific; case sponsorship was not established.",
+        "Warranty not verified. Returns refer to Apple UK direct purchases and are a separate dimension from durability.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Unweaving the Mystery: Apple’s FineWoven Case Under the Microscope",
+          "url": "https://www.ifixit.com/News/82789/unweaving-the-mystery-apples-finewoven-case-under-the-microscope",
+          "date": "2023-09-22",
+          "kind": "independent-test",
+          "modelTested": "FineWoven case for iPhone 15 Pro",
+          "findings": [
+            "The reviewer liked the initial feel and examined the weave under magnification.",
+            "Fingernail and key contact left visible marks; microscopy showed displaced fibres rather than broken threads in those scratches.",
+            "Coffee soaked in but dried with little trace. A greasy-finger stain remained visible after detergent cleaning."
+          ],
+          "sponsored": null
+        },
+        {
+          "title": "Returns & Refunds, Apple UK",
+          "url": "https://www.apple.com/uk/shop/help/returns_refund",
+          "date": null,
+          "kind": "manufacturer-policy",
+          "modelTested": null,
+          "findings": [
+            "UK direct-purchase policy describes a 14-calendar-day return/cancellation window, subject to its terms; packaging and included accessories are required for returns."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": {
+        "summary": "Apple UK direct purchases: 14 calendar days; see source for online notification/return timings and retail conditions.",
+        "url": "https://www.apple.com/uk/shop/help/returns_refund"
+      }
+    },
+    {
+      "brand": "Mous",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "An original instrumented iPhone 17 Limitless test reported useful grip and successful face-drop performance, with weight and weak magnetic attachment as trade-offs.",
+      "cautions": [
+        "The publisher says it buys cases and performs controlled drops and force-meter tests. This is its own small comparison set, not a universal durability standard.",
+        "The article calls the range Limitless 5.0 and discusses Pro Max and Air variants without unambiguous revision/finish attribution. Do not apply every measurement to all Limitless cases.",
+        "Policy coverage concerns manufacturing defects, not durability in an accident.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Mous Limitless iPhone 17 Case Review: Rugged Looks, Real Data (2025)",
+          "url": "https://www.mobilereviews-eh.ca/mous-limitless-iphone-17-case-review-rugged-looks-real-data-2025/",
+          "date": "2025-10-24",
+          "kind": "independent-test",
+          "modelTested": "Limitless for iPhone 17 series, including Pro Max and Air variants",
+          "findings": [
+            "Textured sides and grip strips felt secure, but the case was heavy.",
+            "The reviewer reported no failure in its face-first drops and uneventful camera-area drops.",
+            "Force-meter testing found weak magnetic retention on the tested Pro Max versions, with the Air version stronger but still below its comparison average."
+          ],
+          "sponsored": false
+        },
+        {
+          "title": "Mous Terms of service, Warranty Terms",
+          "url": "https://www.mous.co/policies/terms-of-service",
+          "date": null,
+          "kind": "manufacturer-policy",
+          "modelTested": null,
+          "findings": [
+            "Hard phone cases have a limited lifetime warranty defined as 25 years from delivery, covering defects in materials or workmanship.",
+            "Exclusions include wear, drops, liquid damage and application failures; clear-case yellowing is treated as wear. Authorised-retailer claims go through the retailer."
+          ],
+          "sponsored": null
+        },
+        {
+          "title": "Mous Returns Policy",
+          "url": "https://www.mous.co/pages/returns-policy",
+          "date": null,
+          "kind": "manufacturer-policy",
+          "modelTested": null,
+          "findings": [
+            "Direct purchases may be returned within 30 days of delivery, unused, in new condition and original packaging.",
+            "Customers bear return shipping and handling; printed-to-order Collabs cases are excluded."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": {
+        "summary": "Hard cases: limited lifetime defined as 25 years, for material/workmanship defects; exclusions include drops, wear and liquid damage.",
+        "url": "https://www.mous.co/policies/terms-of-service"
+      },
+      "returns": {
+        "summary": "Direct purchases: 30 days from delivery, unused/new with original packaging; customer pays return shipping. Collabs excluded.",
+        "url": "https://www.mous.co/pages/returns-policy"
+      }
+    },
+    {
+      "brand": "BURGA",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "A Pixel 8 Tough case survived the reviewer’s scratch challenge and face-first tiled-floor drop.",
+      "cautions": [
+        "One phone in sequential tests, with a separate screen protector. No statistical survival rate or long-term wear study.",
+        "The car and very high drop tests were performed on Poetic, not BURGA.",
+        "Affiliate links disclosed; paid sponsorship and case funding not established. Shopping widgets list some unrelated models.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "I drop-tested the best Pixel cases (and drove over the toughest) to see what military grade really means",
+          "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/i-drop-tested-the-best-pixel-cases-and-drove-over-the-toughest-to-see-what-military-grade-really-means",
+          "date": "2026-08-06",
+          "kind": "independent-test",
+          "modelTested": "BURGA Tough for Google Pixel 8",
+          "findings": [
+            "The reviewer reported no scratching from the bag test involving keys and a metal power bank.",
+            "The case/phone survived the reported 5 ft face-first drop onto tiles unscathed.",
+            "Removing the tough cases was troublesome in the comparison, though the broken fingernail was specifically attributed to Poetic."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "dbrand",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "Pixel Fold hands-on use found a useful hinge stand but a cracked first case; a separate Pixel 8 drop test reported survival.",
+      "cautions": [
+        "The Pixel Fold review reports a cracked first sample and a second sample without the same issue over an equivalent period. Manufacturer explanations are not an independently verified failure rate.",
+        "Pixel Fold waist-height survival is the reviewer’s expectation, not an executed drop test.",
+        "Affiliate purchase links appear; paid sponsorship and sample funding were not established.",
+        "The Pixel 8 drop test used one phone sequentially and an additional screen protector. Car testing concerned Poetic only.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "I drop-tested the best Pixel cases (and drove over the toughest) to see what military grade really means",
+          "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/i-drop-tested-the-best-pixel-cases-and-drove-over-the-toughest-to-see-what-military-grade-really-means",
+          "date": "2026-08-06",
+          "kind": "independent-test",
+          "modelTested": "Grip for Google Pixel 8",
+          "findings": [
+            "No scratching was reported after the keys/power-bank bag challenge.",
+            "The tested case/phone survived the reported 5 ft face-first tiled-floor drop unscathed."
+          ],
+          "sponsored": null
+        },
+        {
+          "title": "Review: Dbrand’s Pixel Fold Grip case and X-Ray skin are a gorgeous combo",
+          "url": "https://9to5google.com/2023/12/14/dbrand-pixel-fold-grip-case-x-ray-review/",
+          "date": "2023-12-14",
+          "kind": "independent-test",
+          "modelTested": "Grip for Google Pixel Fold",
+          "findings": [
+            "The hinge cover’s integrated kickstand was useful, and the reviewer liked the build after getting used to the additional thickness.",
+            "The first case developed a crack near the hinge and camera cutout.",
+            "The replacement had no similar issue during the reviewer’s comparable use period; a promised manufacturing fix was reported from dbrand, not independently validated."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "Bellroy",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "A Pixel Fold case showed peeling and poor front retention within days; Pixel 9 leather handling was better after button break-in.",
+      "cautions": [
+        "The Pixel Fold article covers only a few days and one sample. Predicted future cracking and drop detachment were not observed outcomes.",
+        "Pixel Fold used no adhesive. Its retention problem is not proof that adhesive-based cases also fail.",
+        "Editorial reviews with affiliate links; paid sponsorship and funding not established. Pixel 9 series variants differ in magnets.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Hands-on with Bellroy’s leather Pixel Fold case",
+          "url": "https://9to5google.com/2023/07/14/bellroy-pixel-fold-case-hands-on/",
+          "date": "2023-07-14",
+          "kind": "independent-test",
+          "modelTested": "Leather case for Google Pixel Fold",
+          "findings": [
+            "The reviewer liked the blue colour, but found rough edges and leather peeling at a corner after days.",
+            "The rear fitted relatively snugly except near the hinge; the front inner edge repeatedly popped out during left-handed use and opening.",
+            "There was no adhesive strip to stabilise the front."
+          ],
+          "sponsored": null
+        },
+        {
+          "title": "One small trick changed my opinion of the Bellroy Leather Pixel 9 case",
+          "url": "https://www.androidauthority.com/bellroy-leather-google-pixel-9-case-review-3485703/",
+          "date": "2024-10-04",
+          "kind": "independent-test",
+          "modelTested": "Leather case for Google Pixel 9 series",
+          "findings": [
+            "Thin construction and leather felt comfortable, including the smooth camera-bar transition.",
+            "Buttons were initially extremely stiff; flexing the buttons and underlying leather off the phone improved them, though they remained imperfect.",
+            "The article notes no magnets in the standard Pixel 9 case, unlike Pro and Pro XL versions."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "Spigen",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "A Galaxy Z Fold 7 Slim Armor Pro review found strong magnetic attachment and secure normal-use adhesion, but a catching, noisy hinge cover.",
+      "cautions": [
+        "Jerad Hill reports a month of use. Paid sponsorship and sample funding were not established.",
+        "Tests are self-reported without a reproducible full protocol or raw records. Do not treat predicted hinge fatigue as observed failure.",
+        "Hot conditions and repeated removal are different from normal-use adhesion; the article reports slight loosening in heat but no routine-use detachment.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Spigen Slim Armor Pro Review: The Refined Protection Solution for Galaxy Z Fold 7",
+          "url": "https://howiusethis.com/spigen-slim-armor-pro-review-the-refined-protection-solution-for-galaxy-z-fold-7/",
+          "date": "2025-09-10",
+          "kind": "independent-test",
+          "modelTested": "Slim Armor Pro for Samsung Galaxy Z Fold 7",
+          "findings": [
+            "Magnetic accessories stayed attached during the reviewer’s handling tests; ports accepted larger cables.",
+            "The hinge cover caught against the case and made a crunching sound. No visible damage developed during the stated test period.",
+            "Adhesive stayed secure during normal use over a month. The reviewer reported slight loosening in hot-car testing and supplied spare strips for reapplication.",
+            "Thicker generic glass protectors interfered with seating, while the named film/thin-glass examples worked."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "SUPCASE",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "A Galaxy Z Fold 7 Unicorn Beetle Pro report found a stable stand and successful drops, with severe bulk, alignment and charging compromises.",
+      "cautions": [
+        "Jerad Hill’s test results are self-reported without complete raw records or a reproducible full protocol; paid sponsorship and sample funding were not established.",
+        "Claims of years of life and near-indestructibility in the source are predictions and are not accepted as findings.",
+        "Observed alignment issues concern the reviewer’s sample. Other SUPCASE models, including magnetic iPhone versions, differ.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "SUPCASE Unicorn Beetle Pro Review: The Tank That Sacrifices Everything for Protection",
+          "url": "https://techwithjerad.com/supcase-unicorn-beetle-pro-review-the-tank-that-sacrifices-everything-for-protection/",
+          "date": "2025-09-10",
+          "kind": "independent-test",
+          "modelTested": "Unicorn Beetle Pro for Samsung Galaxy Z Fold 7",
+          "findings": [
+            "The reviewer reported multiple 6 ft concrete drops without damage and a stable integrated kickstand without loosening during the stated cycling.",
+            "The case made tight pockets impractical and felt heavy during extended use.",
+            "Wireless charging required careful alignment and particular chargers; magnetic accessories would not attach.",
+            "A visible top fit gap persisted after reinstalling the case; the built-in protector felt stickier than glass."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "CASETiFY",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "Galaxy Z Fold5 Impact samples retained their print and stayed fitted over several weeks, while leaving the hinge exposed.",
+      "cautions": [
+        "Review samples were ordered; who paid and whether any sponsorship existed were not clearly disclosed.",
+        "The stated 4 ft rating is a product claim, not a documented reviewer drop experiment.",
+        "No hinge armour on this model. Adhesive was optional and was not needed in this reviewer’s use, which does not establish long-term adhesion performance.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Casetify Impact Case review, Galaxy Z Fold5 tested",
+          "url": "https://hitechcentury.com/casetify-impact-case-review-galaxy-z-fold5/",
+          "date": "2023-12-25",
+          "kind": "independent-test",
+          "modelTested": "Impact for Samsung Galaxy Z Fold5, Lucky Cat and Twilight Mountains",
+          "findings": [
+            "The printed surfaces did not fade or wear during several weeks of heavy daily use.",
+            "The cases felt grippy and stayed on without the optional adhesive strips, aided by internal rubber and connecting strips.",
+            "The reviewer noted no protection over the hinge and a high purchase price."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "ESR",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "An iPhone 15 Pro Classic Hybrid hands-on included an accidental face-down fall with only a small corner scuff.",
+      "cautions": [
+        "ESR supplied the sample; affiliate links disclosed; paid sponsorship not established.",
+        "The fall was accidental with no measured height or controlled replication. Military-standard wording in the source is not an independently verified test.",
+        "The separate Power Bank Wallet’s bulk criticism does not describe the case alone. Long-term yellowing was not established.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "ESR Classic Hybrid MagSafe Case for iPhone 15 Pro and Power Bank Wallet review",
+          "url": "https://the-gadgeteer.com/2024/02/24/esr-classic-hybrid-magsafe-case-for-iphone-15-pro-and-power-bank-wallet-review/",
+          "date": "2024-02-24",
+          "kind": "independent-test",
+          "modelTested": "Classic Hybrid MagSafe with Stash Stand for iPhone 15 Pro",
+          "findings": [
+            "An accidental glass-side-down fall while getting out of a truck left the phone fine and a small scuff on the case corner.",
+            "Buttons pressed easily without accidental activation from nearby pressure; finish felt smooth without being overly slippery.",
+            "The camera-bezel stand was stable in landscape and supported a reclined portrait position."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "Speck",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "An iPhone X Presidio Sport survived one accidental corner fall; controls and grip worked well, but its charging flap prevented flat use while open.",
+      "cautions": [
+        "Speck supplied the sample; affiliate links disclosed; paid sponsorship not established.",
+        "One accidental waist-height corner fall onto polished cement is not a general drop guarantee.",
+        "Antimicrobial and lab durability claims were not independently tested in the review.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Speck Presidio Sport Case review",
+          "url": "https://the-gadgeteer.com/2018/04/17/speck-presidio-sport-case-review/",
+          "date": "2018-04-17",
+          "kind": "independent-test",
+          "modelTested": "Presidio Sport for iPhone X",
+          "findings": [
+            "The reviewer reported no damage after an accidental waist-height corner fall onto polished cement.",
+            "Buttons were tactile, the rotary mute control was easy to use, and wireless charging worked.",
+            "The finish balanced grip with easy handling and the closed case lay flat.",
+            "With a charging cable connected, the open Lightning-port flap stopped the case lying flat; the reviewer wanted a removable flap."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "UAG",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "An iPhone 14 Plus Pathfinder MagSafe hands-on found a snug, lightweight fit and reliable car-mount attachment, but a colour mismatch.",
+      "cautions": [
+        "UAG supplied a free sample and explicitly had no preview or final say. Paid sponsorship not established.",
+        "The reviewer questioned inconsistent vendor drop-height descriptions and did not independently validate a drop rating.",
+        "Commuting on one mount is a limited accessory test, not a calibrated magnet or long-term durability study.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "UAG Pathfinder Series iPhone Case with MagSafe review",
+          "url": "https://the-gadgeteer.com/2024/08/26/uag-pathfinder-series-iphone-case-with-magsafe-review/",
+          "date": "2024-08-26",
+          "kind": "independent-test",
+          "modelTested": "Pathfinder MagSafe, Artic Camouflage, for iPhone 14 Plus",
+          "findings": [
+            "The case fitted snugly, felt lightweight and had tactile button covers and side ribs that improved grip without catching pockets.",
+            "It stayed on a Mophie magnetic vent mount during commutes, including bumps from roadworks.",
+            "The sample’s camouflage appeared blue-green rather than the greys shown online."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "Thinborne",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "Months of S23 Ultra use found very low bulk, grip and a tight fit, with minimal side and screen coverage.",
+      "cautions": [
+        "Affiliate links disclosed; paid sponsorship and case funding not established.",
+        "The reviewer did not break the top/bottom sections despite repeated removal. Other buyers’ snapping reports must not become an observed reviewer failure.",
+        "The case’s lack of a front lip was observed; predicted screen vulnerability is not a measured drop failure.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Thinborne ultrathin case for Samsung Galaxy S23 Ultra review",
+          "url": "https://www.androidcentral.com/accessories/thinborne-ultrathin-case-galaxy-s23-ultra-review",
+          "date": "2023-06-28",
+          "kind": "independent-test",
+          "modelTested": "Ultrathin aramid fibre case for Samsung Galaxy S23 Ultra",
+          "findings": [
+            "The case added very little weight or bulk, felt grippy and held the phone tightly.",
+            "Side coverage was minimal and there was no raised front lip.",
+            "The reviewer installed and removed it several times over months without breakage, while advising care around its thin top and bottom sections."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "PITAKA",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "An S23 Ultra MagEZ Case 3 hands-on liked its thin fit and easy removal, while observing grease marks and shallow sides.",
+      "cautions": [
+        "PITAKA supplied samples; affiliate links disclosed; paid sponsorship not established.",
+        "Only the S23 Ultra was fitted to a phone, although cases for three S23 models were supplied.",
+        "A year-old iPhone 13 Pro Max case is mentioned separately and is not a year-long S23 test. No controlled drop evidence.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "PITAKA MagEZ Case 3 for the Samsung Galaxy S23 series review",
+          "url": "https://the-gadgeteer.com/2023/02/16/pitaka-magez-case-3-for-the-samsung-galaxy-s23-series-review/",
+          "date": "2023-02-16",
+          "kind": "independent-test",
+          "modelTested": "MagEZ Case 3 for Samsung Galaxy S23 Ultra",
+          "findings": [
+            "Thin and light construction was barely noticeable on the phone, and fitting/removal was easy.",
+            "The matte finish showed grease but cleaned with a damp cloth.",
+            "Shallow sidewalls left buttons accessible but did not wrap fully around the sides; raised camera and end edges kept glass off flat surfaces."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "TORRAS",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "An iPhone 16 Pro 360 Spin review found a sturdy adjustable ring stand and working magnetic charging, but wanted a more textured finish.",
+      "cautions": [
+        "TORRAS supplied free samples and had no preview or final say; paid sponsorship not established.",
+        "The reviewer used iPhone 16 Pro cases despite receiving other sizes. This is stand/handling experience, not foldable-hinge or controlled drop evidence.",
+        "Long-term stand wear was not established.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Torras 360 Spin iPhone 16 case review, A clever twist",
+          "url": "https://the-gadgeteer.com/2024/10/20/torras-360-spin-iphone-16-case-review-a-clever-twist/",
+          "date": "2024-10-20",
+          "kind": "independent-test",
+          "modelTested": "360 Spin for iPhone 16 Pro",
+          "findings": [
+            "The ring hinge felt sturdy and held its position in portrait and landscape, with detents during rotation.",
+            "The ring did not interfere with MagSafe charging and buttons felt tactile.",
+            "The reviewer wanted more surface texture and considered the price high."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "Nomad",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "iPhone 13 Pro hands-on use found good leather-case fit and magnetic attachment, while the Sport case felt slippery and the folio added bulk.",
+      "cautions": [
+        "Nomad supplied samples; affiliate links disclosed; paid sponsorship not established.",
+        "Drop heights in the source are product specifications, not executed reviewer drop tests.",
+        "The folio’s cards touched the screen; possible microscratching was a precaution, not observed screen damage. Leather wear statements are not a quantified ageing test.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Nomad Modern Leather Cases and Skins, Sport Case and Screen Protectors for iPhone 13 Pro review",
+          "url": "https://the-gadgeteer.com/2021/12/16/nomad-modern-leather-cases-and-skins-sport-case-and-screen-protectors-for-iphone-13-pro-review-solutions-to-keep-your-phone-safe-and-looking-good/",
+          "date": "2021-12-16",
+          "kind": "independent-test",
+          "modelTested": "Modern Leather Case, Modern Leather Folio and Sport Case for iPhone 13 Pro",
+          "findings": [
+            "The leather case had good fit, tactile buttons and effective MagSafe attachment; the leather surface resisted sliding.",
+            "The folio worked but became thicker with cards and cash, and inserted cards contacted the glass.",
+            "The Sport case felt slim with tactile separate buttons, but its glossy back was too slippery for the reviewer."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "Noreve",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "An iPhone 14 Pro Leather Cover was well finished, but limited side coverage and shallow camera clearance stopped it becoming the reviewer’s daily case.",
+      "cautions": [
+        "Noreve supplied the sample; affiliate links disclosed; paid sponsorship not established.",
+        "The review contains fit concerns, not a controlled impact test. Sturdy feel alone does not establish durability.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Noreve Apple iPhone 14 Pro case review, Can you see me now?",
+          "url": "https://the-gadgeteer.com/2022/11/17/noreve-apple-iphone-14-pro-case-review-can-you-see-me-now/",
+          "date": "2022-11-17",
+          "kind": "independent-test",
+          "modelTested": "Leather Cover for iPhone 14 Pro, fluorescent green",
+          "findings": [
+            "The reviewer liked the leather and craftsmanship, and the case initially held the phone without wiggling.",
+            "Large button cutouts and incomplete top/side coverage left more of the phone exposed than desired.",
+            "The reviewer repeatedly checked the phone was fully seated before laying it face-down and wanted greater camera-lens clearance."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "Tech21",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "About a month of Studio Colour iPhone 11 Pro Max use found useful grip and low bulk, but substantial dirt pickup.",
+      "cautions": [
+        "Tech21 supplied the sample; affiliate links disclosed; paid sponsorship not established.",
+        "The article describes roughly a month to six weeks of use. No controlled drop or antimicrobial test was reported.",
+        "Antimicrobial material claims do not establish health protection or impact durability.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Tech21 Studio Colour Phone 11 Pro Max case review",
+          "url": "https://the-gadgeteer.com/2020/02/16/tech21-studio-colour-phone-11-pro-max-case-review/",
+          "date": "2020-02-16",
+          "kind": "independent-test",
+          "modelTested": "Studio Colour for iPhone 11 Pro Max",
+          "findings": [
+            "The reviewer found improved grip and minimal obstruction during everyday use and a birding trip.",
+            "Wireless charging worked and port openings accepted multiple cables.",
+            "The case attracted dirt; the reviewer suspected the texture."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "Ringke",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "Pixel 9 Onyx handling delivered low bulk, texture and easy gestures, with a less premium feel and limited protective construction.",
+      "cautions": [
+        "Affiliate links disclosed; paid sponsorship and sample funding not established.",
+        "The magnetic version was explicitly not tested. The source discusses the Pixel 9 series without consistently identifying the exact fitted variant.",
+        "Limited drop protection is a design judgement in this hands-on, not an observed drop failure.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "Want a cheap, simple Pixel 9 case? Get the Ringke Onyx",
+          "url": "https://www.androidauthority.com/ringke-onyx-pixel-9-review-3487205/",
+          "date": "2024-10-11",
+          "kind": "independent-test",
+          "modelTested": "Onyx, non-magnetic, for Google Pixel 9 series",
+          "findings": [
+            "The textured back and microdot sides improved grip; buttons were easy to identify and press.",
+            "The flattened screen lip made swipe gestures easy and the camera bar was covered.",
+            "The reviewer found the overall feel less premium than alternatives and classified protection as limited."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "OtterBox",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "Pixel 8 Defender hands-on showed a substantial multi-part shell and a useful holster stand, with considerable pocket bulk.",
+      "cautions": [
+        "Affiliate links disclosed; paid sponsorship and case funding not established.",
+        "The visible article date is recorded. Its broad protection language is not backed by a described controlled drop experiment.",
+        "This is the Pixel 8 Defender in Baby Blue Jeans, not every Defender or foldable model.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "OtterBox Defender review: Bulky drop defence for your Pixel 8",
+          "url": "https://www.androidauthority.com/google-pixel-8-otterbox-defender-case-review-3408001/",
+          "date": "2024-02-02",
+          "kind": "independent-test",
+          "modelTested": "Defender for Google Pixel 8, Baby Blue Jeans",
+          "findings": [
+            "The reviewer examined the two-piece hard inner shell and softer outer shell.",
+            "The belt clip doubled as a viewing stand and offered an alternative to carrying the bulky case in a pocket.",
+            "Size, price and the small colour selection were trade-offs."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "TORRO",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "A purchased iPhone 16 Pro leather-case comparison found effective controls and magnetic attachment, but sensitive leather.",
+      "cautions": [
+        "Publication date could not be verified; it remains null.",
+        "The author says cases were purchased and discloses Amazon affiliate links. Paid sponsorship not established.",
+        "This is a hands-on comparison with model-specific findings, not a quantified long-term wear study or controlled drop protocol. Its universal screen-protector compatibility claim was not adopted.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "iPhone 16 Pro Leather Cases Tested, 5 Premium Picks Compared",
+          "url": "https://case-tester.com/iphone-16-pro-the-5-best-leather-cases-in-test/",
+          "date": null,
+          "kind": "independent-test",
+          "modelTested": "Leather MagSafe Slim Bumper for iPhone 16 Pro",
+          "findings": [
+            "Metal buttons clicked clearly, cutouts were well placed and MagSafe attachment was described as strong.",
+            "The reviewer liked the leather feel and microfibre lining.",
+            "The leather was described as very sensitive, and the reviewer wanted individual speaker cutouts."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    },
+    {
+      "brand": "ZAGG",
+      "evidenceLevel": "historical-hands-on",
+      "summary": "Rainier hands-on found a useful stand but fiddly two-piece seating; the article’s drop rating is a manufacturer claim.",
+      "cautions": [
+        "ZAGG provided the review case and most imagery; Amazon affiliate links disclosed. Paid sponsorship not established.",
+        "The article names iPhone 17 Pro/16 Pro together and describes two phones without cleanly assigning each observation to one handset.",
+        "No executed drop experiment or calibrated magnetic test was described. Warranty claims in the review were not adopted without a manufacturer-policy check.",
+        "Historical evidence only. No Duo case performance was tested in these sources."
+      ],
+      "sources": [
+        {
+          "title": "ZAGG Rainier Case Seahawks Edition Review: Rugged Graphene Protection With a Kickstand",
+          "url": "https://www.seriousinsights.net/zagg-rainier-case-review/",
+          "date": "2026-02-21",
+          "kind": "independent-test",
+          "modelTested": "Rainier Seahawks edition, iPhone 17 Pro/16 Pro as identified by article",
+          "findings": [
+            "The integrated kickstand offered portrait and landscape support.",
+            "The reviewer fitted one phone by pushing through the assembled layers; another installation following the two-piece instructions left a small speaker-area gap that needed adjustment.",
+            "The two-piece construction made swapping/removal less convenient; premium pricing was a criticism."
+          ],
+          "sponsored": null
+        }
+      ],
+      "warranty": null,
+      "returns": null
+    }
+  ]
+}

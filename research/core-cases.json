@@ -1,0 +1,1945 @@
+{
+  "checkedAt": "2026-10-15",
+  "products": [
+    {
+      "id": "spigen-tough-armor-pro-mag-fit",
+      "brand": "Spigen",
+      "name": "Tough Armor Pro MagFit",
+      "url": "https://www.spigen.com/products/iphone-duo-case-tough-armor-pro-mag-fit",
+      "price": 69.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "sold-out",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "TPU"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Metal Slate"
+      ],
+      "summary": "Two-section folding case with hinge protection.",
+      "limitations": [
+        "Some MagFit accessories may be incompatible with the hinge cover.",
+        "Protection statements are manufacturer claims; no independent Duo performance verification."
+      ],
+      "image": "https://www.spigen.com/cdn/shop/files/title_web_iphone_ultra_tough_armor_pro_magfit_black_01.jpg?v=1789146288&width=1946",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.spigen.com/products/iphone-duo-case-tough-armor-pro-mag-fit",
+          "title": "Spigen Tough Armor Pro MagFit",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: USD 69.99; sold-out.",
+            "Materials: Polycarbonate and TPU.",
+            "Colours: Black, Metal Slate.",
+            "Front and rear sections with hinge coverage shown or described in the official listing.",
+            "MagFit magnetic accessory compatibility."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spigen-slim-armor-pro-mag-fit",
+      "brand": "Spigen",
+      "name": "Slim Armor Pro MagFit",
+      "url": "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-mag-fit",
+      "price": 89.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "TPU"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Two-section folding case with hinge protection.",
+      "limitations": [
+        "Protection statements are manufacturer claims; no independent Duo performance verification.",
+        "Listing does not establish a dispatch date or immediate stock."
+      ],
+      "image": "https://www.spigen.com/cdn/shop/files/title_web_iphone_fold_slim_armor_pro_magfit_01.jpg?v=1788298443&width=1946",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-mag-fit",
+          "title": "Spigen Slim Armor Pro MagFit",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: USD 89.99; listed.",
+            "Materials: Polycarbonate and TPU.",
+            "Colours: Black.",
+            "Front and rear sections with hinge coverage shown or described in the official listing.",
+            "MagFit magnetic accessory compatibility."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spigen-slim-armor-pro-s-mag-fit",
+      "brand": "Spigen",
+      "name": "Slim Armor Pro S MagFit",
+      "url": "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-s-mag-fit",
+      "price": 99.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "TPU"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": true,
+      "stand": true,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Two-section magnetic case with a rotating stand and hinge protection.",
+      "limitations": [
+        "Manufacturer warns some magnetic or wireless chargers may interrupt charging or fail with the case fitted; wired charging is recommended.",
+        "Protection statements are manufacturer claims; no independent Duo performance verification.",
+        "Listing does not establish a dispatch date or immediate stock."
+      ],
+      "image": "https://www.spigen.com/cdn/shop/files/title_web_iphone_fold_slim_armor_pro_s_magfit_01.jpg?v=1788298331&width=1946",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-s-mag-fit",
+          "title": "Spigen Slim Armor Pro S MagFit",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: USD 99.99; listed.",
+            "Materials: Polycarbonate and TPU.",
+            "Colours: Black.",
+            "Front and rear sections with hinge coverage shown or described in the official listing.",
+            "MagFit magnetic accessory compatibility.",
+            "Built-in rotating kickstand; Slim Armor Pro S specifies 360 degrees."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spigen-ultra-hybrid-pro-mag-fit",
+      "brand": "Spigen",
+      "name": "Ultra Hybrid Pro MagFit",
+      "url": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-mag-fit",
+      "price": 59.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear White",
+        "Frost Black"
+      ],
+      "summary": "Two-section folding case with hinge protection.",
+      "limitations": [
+        "Protection statements are manufacturer claims; no independent Duo performance verification."
+      ],
+      "image": "https://www.spigen.com/cdn/shop/files/detail_web_iPhone_Fold_Ultra_Hybrid_Pro_Mag_Fit_cc_04.jpg?v=1789078538&width=1946",
+      "shippingNote": "Ships in 10 business days; no calendar dispatch date stated.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-mag-fit",
+          "title": "Spigen Ultra Hybrid Pro MagFit",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: USD 59.99; preorder.",
+            "Materials: Polycarbonate.",
+            "Colours: Clear White, Frost Black.",
+            "Front and rear sections with hinge coverage shown or described in the official listing.",
+            "MagFit magnetic accessory compatibility.",
+            "Dispatch stated as 10 business days."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spigen-ultra-hybrid-pro-s-mag-fit",
+      "brand": "Spigen",
+      "name": "Ultra Hybrid Pro S MagFit",
+      "url": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-s-mag-fit",
+      "price": 69.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "sold-out",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "TPU"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": true,
+      "stand": true,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear White"
+      ],
+      "summary": "Two-section magnetic case with a rotating stand and hinge protection.",
+      "limitations": [
+        "Protection statements are manufacturer claims; no independent Duo performance verification."
+      ],
+      "image": "https://www.spigen.com/cdn/shop/files/detail_iphone_fold_ultra_hybrid_pro_s_magfit_012.jpg?v=1788215619&width=1946",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-s-mag-fit",
+          "title": "Spigen Ultra Hybrid Pro S MagFit",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: USD 69.99; sold-out.",
+            "Materials: Polycarbonate and TPU.",
+            "Colours: Clear White.",
+            "Front and rear sections with hinge coverage shown or described in the official listing.",
+            "MagFit magnetic accessory compatibility.",
+            "Built-in rotating kickstand; Slim Armor Pro S specifies 360 degrees."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spigen-ultra-hybrid-pro",
+      "brand": "Spigen",
+      "name": "Ultra Hybrid Pro",
+      "url": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro",
+      "price": 49.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "TPU"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": null,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Crystal Clear"
+      ],
+      "summary": "Two-section folding case with hinge protection.",
+      "limitations": [
+        "No integrated magnetic compatibility claim on this non-MagFit listing.",
+        "Protection statements are manufacturer claims; no independent Duo performance verification."
+      ],
+      "image": "https://www.spigen.com/cdn/shop/files/detail_web_iPhone_Fold_Ultra_Hybrid_Pro_cc_01_84b71cca-3f5a-4453-9059-ce60dbef58b2.jpg?v=1789078661&width=1946",
+      "shippingNote": "Ships in 10 business days; no calendar dispatch date stated.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro",
+          "title": "Spigen Ultra Hybrid Pro",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: USD 49.99; preorder.",
+            "Materials: Polycarbonate and TPU.",
+            "Colours: Crystal Clear.",
+            "Front and rear sections with hinge coverage shown or described in the official listing.",
+            "Dispatch stated as 10 business days."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spigen-air-fit-pro-mag-fit",
+      "brand": "Spigen",
+      "name": "Air Fit Pro MagFit",
+      "url": "https://www.spigen.com/products/iphone-duo-case-air-fit-pro-mag-fit",
+      "price": 59.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "TPU"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Two-section folding case with hinge protection.",
+      "limitations": [
+        "Materials table lists PC and TPU while feature copy describes PC.",
+        "Protection statements are manufacturer claims; no independent Duo performance verification.",
+        "Listing does not establish a dispatch date or immediate stock."
+      ],
+      "image": "https://www.spigen.com/cdn/shop/files/title_iphone_fold_air_fit_pro_magfit_02.jpg?v=1788199890&width=1946",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.spigen.com/products/iphone-duo-case-air-fit-pro-mag-fit",
+          "title": "Spigen Air Fit Pro MagFit",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: USD 59.99; listed.",
+            "Materials: Polycarbonate and TPU.",
+            "Colours: Black.",
+            "Front and rear sections with hinge coverage shown or described in the official listing.",
+            "MagFit magnetic accessory compatibility."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spigen-nano-pop-mag-fit",
+      "brand": "Spigen",
+      "name": "Nano Pop MagFit",
+      "url": "https://www.spigen.com/products/iphone-duo-case-nano-pop-mag-fit",
+      "price": 54.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "TPU"
+      ],
+      "coverage": "front-and-back",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Blueberry Navy",
+        "Black Sesame"
+      ],
+      "summary": "Two-section case with contrasting trim and magnetic accessory support.",
+      "limitations": [
+        "Protection statements are manufacturer claims; no independent Duo performance verification.",
+        "Listing does not establish a dispatch date or immediate stock."
+      ],
+      "image": "https://www.spigen.com/cdn/shop/files/detail_web_iphone_duo_nano_pop_magfit_blueberry_navy_01.jpg?v=1789079043&width=1946",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.spigen.com/products/iphone-duo-case-nano-pop-mag-fit",
+          "title": "Spigen Nano Pop MagFit",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: USD 54.99; listed.",
+            "Materials: Polycarbonate and TPU.",
+            "Colours: Blueberry Navy, Black Sesame.",
+            "MagFit magnetic accessory compatibility."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spigen-ibook-concept",
+      "brand": "Spigen",
+      "name": "iBook-inspired Duo concept",
+      "url": "https://www.macworld.com/article/3232659/the-perfect-iphone-duo-case-doesnt-exis.html",
+      "price": null,
+      "currency": null,
+      "ukListing": null,
+      "status": "concept",
+      "evidence": "announcement",
+      "materials": [],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": null,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [],
+      "summary": "Retro clamshell concept reported by Macworld from Spigen's social posts.",
+      "limitations": [
+        "Concept only. Manufacture, orders, final specifications and release are unconfirmed."
+      ],
+      "image": null,
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.macworld.com/article/3232659/the-perfect-iphone-duo-case-doesnt-exis.html",
+          "title": "Spigen iBook-inspired Duo concept",
+          "type": "announcement",
+          "facts": [
+            "Macworld reports Spigen posted an iBook-inspired Duo case concept on 10 September 2026.",
+            "Spigen subsequently described it as a concept."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "otterbox-lumen-series",
+      "brand": "OtterBox",
+      "name": "Lumen Series",
+      "url": "https://www.otterbox.com/products/iphone-duo-lumen-series-case?variant=48323323494587",
+      "price": 49.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "coming-soon",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "Thermoplastic elastomer"
+      ],
+      "coverage": "front-and-back",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": true,
+      "weightG": 58.26,
+      "thicknessMm": null,
+      "thicknessNote": "Published overall case dimensions; depth is not additional material thickness. Fold state is not specified.",
+      "dimensions": "171.6 x 125.78 x 11.75 mm",
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black Mist (Black / Clear)"
+      ],
+      "summary": "Two-piece magnetic case with raised screen and camera edges and strap anchors.",
+      "limitations": [
+        "UK collection currently contains no products; UK stock, dispatch and purchase price remain unverified.",
+        "Coming Soon is the explicit product status; generic sold-out controls also appear.",
+        "Current official page shows USD 49.99 and two-piece construction; an older indexed version showed USD 69.99 and one-piece wording."
+      ],
+      "image": "https://www.otterbox.com/cdn/shop/files/lumen-iphf26-black-mist-3.png?v=1787761478&width=3840",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.otterbox.com/products/iphone-duo-lumen-series-case?variant=48323323494587",
+          "title": "OtterBox Lumen Series",
+          "type": "manufacturer",
+          "facts": [
+            "Current Duo page: USD 49.99; Coming Soon.",
+            "Published case dimensions 171.6 x 125.78 x 11.75 mm; weight 58.26 g.",
+            "PC and thermoplastic elastomer; built-in magnets for wireless charging.",
+            "Two-piece construction; MagSafe support and strap anchors."
+          ]
+        },
+        {
+          "url": "https://www.otterbox.co.uk/collections/iphone-duo-cases",
+          "title": "OtterBox UK Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Collection states no products found."
+          ]
+        },
+        {
+          "url": "https://www.techradar.com/phones/phone-accessories/best-iphone-duo-cases",
+          "title": "TechRadar Duo case roundup",
+          "type": "announcement",
+          "facts": [
+            "Reports a UK Lumen Series price of GBP 55.99; not independently verified as a current purchase offer."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "otterbox-defender-series-pro-xt",
+      "brand": "OtterBox",
+      "name": "Defender Series Pro XT",
+      "url": "https://www.otterbox.com/products/iphone-duo-defender-series-pro-xt-case",
+      "price": 89.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "coming-soon",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "Thermoplastic elastomer"
+      ],
+      "coverage": "unknown",
+      "hinge": true,
+      "magsafe": null,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": 74.38,
+      "thicknessMm": null,
+      "thicknessNote": "Published overall case dimensions; depth is not additional material thickness. Fold state is not specified.",
+      "dimensions": "174.67 x 128.61 x 14.69 mm",
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Rugged case with an articulating hinge guard and magnetic wireless charging.",
+      "limitations": [
+        "UK collection currently contains no products; UK stock, dispatch and purchase price remain unverified.",
+        "Coming Soon is the explicit product status; generic sold-out controls also appear.",
+        "Built-in wireless-charging magnets are confirmed; explicit MagSafe accessory compatibility is not established by the extracted Duo specification."
+      ],
+      "image": "https://www.otterbox.com/cdn/shop/files/defender-pro-xt-iphf26-black-3.png?v=1787761478&width=3840",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.otterbox.com/products/iphone-duo-defender-series-pro-xt-case",
+          "title": "OtterBox Defender Series Pro XT",
+          "type": "manufacturer",
+          "facts": [
+            "Current Duo page: USD 89.99; Coming Soon.",
+            "Published case dimensions 174.67 x 128.61 x 14.69 mm; weight 74.38 g.",
+            "PC and thermoplastic elastomer; built-in magnets for wireless charging.",
+            "Articulating hinge guard."
+          ]
+        },
+        {
+          "url": "https://www.otterbox.co.uk/collections/iphone-duo-cases",
+          "title": "OtterBox UK Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Collection states no products found."
+          ]
+        },
+        {
+          "url": "https://www.techradar.com/phones/phone-accessories/best-iphone-duo-cases",
+          "title": "TechRadar Duo case roundup",
+          "type": "announcement",
+          "facts": [
+            "Reports a UK Defender Series Pro XT price of GBP 69.99; not independently verified as a current purchase offer."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "torras-ostand-q3-vegskin",
+      "brand": "TORRAS",
+      "name": "Ostand Q3 VegSkin",
+      "url": "https://glass.torraslife.com/products/ostand-q3-vegskin-for-iphone-duo",
+      "price": 84.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "Silicone-coated microfibre",
+        "Aluminium alloy stand"
+      ],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": true,
+      "stand": true,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": 3.35,
+      "thicknessNote": "Manufacturer-listed thickness; measurement method unspecified. Weight published as 46 to 53.7 g without a single Duo configuration value.",
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Deep Blue",
+        "Amber Brown",
+        "Pearl Grey"
+      ],
+      "summary": "Leather-look silicone and microfibre case with a 360-degree aluminium ring stand and N52 magnets.",
+      "limitations": [
+        "Front coverage and phone-hinge coverage are unconfirmed. German collection makes generic hinge-protection claims; stand-hinge durability does not establish phone-hinge protection.",
+        "Published 46 to 53.7 g weight range cannot be assigned to an exact Duo variant.",
+        "German colour name Pearl White differs from Pearl Grey on the US specifications.",
+        "Protection, magnet strength and charging performance are manufacturer claims."
+      ],
+      "image": "https://glass.torraslife.com/cdn/shop/files/8_af4d9b93-e89b-4a7c-94f7-bdad299c873f.png?v=1791541947&width=1200",
+      "shippingNote": "US page promises receipt before the phone arrives, without a dated dispatch commitment.",
+      "variants": [
+        {
+          "name": "German official listing",
+          "url": "https://de.torraslife.com/products/ostand-q3-vegskin-for-iphone-duo",
+          "price": 69.99,
+          "currency": "EUR",
+          "status": "listed",
+          "colours": [
+            "Deep Blue",
+            "Amber Brown",
+            "Pearl White"
+          ],
+          "shippingNote": "German storefront advertises delivery within 3 to 5 working days; UK fulfilment unverified."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://glass.torraslife.com/products/ostand-q3-vegskin-for-iphone-duo",
+          "title": "TORRAS Ostand Q3 VegSkin",
+          "type": "manufacturer",
+          "facts": [
+            "Duo selected; USD 84.99 with preorder note.",
+            "PC, silicone and microfibre case; aluminium stand; 360-degree rotation.",
+            "MagSafe and Qi2 support; N52 magnets claimed at 18N+.",
+            "Thickness 3.35 mm; weight range 46 to 53.7 g.",
+            "US specifications list Deep Blue, Amber Brown and Pearl Grey."
+          ]
+        },
+        {
+          "url": "https://de.torraslife.com/products/ostand-q3-vegskin-for-iphone-duo",
+          "title": "TORRAS Germany Q3 VegSkin Duo",
+          "type": "manufacturer",
+          "facts": [
+            "EUR 69.99; Deep Blue, Amber Brown and Pearl White; add-to-cart control."
+          ]
+        },
+        {
+          "url": "https://de.torraslife.com/collections/iphone-duo-cases",
+          "title": "TORRAS Germany Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Generic hinge-protection language does not resolve VegSkin's precise coverage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "torras-ostand-q3-spin",
+      "brand": "TORRAS",
+      "name": "Ostand Q3 Spin",
+      "url": "https://de.torraslife.com/products/ostand-q3-spin-for-iphone-duo-cases",
+      "price": 63.99,
+      "currency": "EUR",
+      "ukListing": null,
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate",
+        "Silicone",
+        "Microfibre",
+        "Aluminium alloy stand"
+      ],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": true,
+      "stand": true,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": 3.35,
+      "thicknessNote": "Published thickness method unspecified; weight is a 46 to 53.7 g range, not a single variant value.",
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Deep Blue",
+        "Black",
+        "Plum Purple"
+      ],
+      "summary": "Magnetic ring-stand case listed specifically for Duo on the German storefront.",
+      "limitations": [
+        "Exact front/back and phone-hinge coverage unconfirmed.",
+        "Product title and FAQ say one glass protector; collection FAQ says two. Do not assume the bundle quantity.",
+        "46 to 53.7 g published range is not resolved to a Duo variant.",
+        "Performance specifications are manufacturer claims."
+      ],
+      "image": "https://de.torraslife.com/cdn/shop/files/4_d41ca1f1-e314-440e-a7f9-7f0b20bd5412.png?v=1791258061&width=3840",
+      "shippingNote": "German page advertises 3 to 5 working days; UK fulfilment unverified.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://de.torraslife.com/products/ostand-q3-spin-for-iphone-duo-cases",
+          "title": "TORRAS Ostand Q3 Spin",
+          "type": "manufacturer",
+          "facts": [
+            "Duo product page and collection show EUR 63.99 and add-to-cart.",
+            "Deep Blue, Black and Plum Purple.",
+            "PC, silicone and microfibre case plus aluminium-alloy stand; 3.35 mm; 46 to 53.7 g.",
+            "N52 magnetic compatibility and 360-degree stand rotation.",
+            "Product title and FAQ specify one tempered glass protector."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qdos-duo-coming-soon",
+      "brand": "QDOS",
+      "name": "iPhone Duo cases (family unannounced)",
+      "url": "https://www.qdossound.com/collections/iphone-duo-cases",
+      "price": null,
+      "currency": null,
+      "ukListing": null,
+      "status": "coming-soon",
+      "evidence": "official",
+      "materials": [],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": null,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [],
+      "summary": "Official Duo collection is coming soon; no purchasable named family verified.",
+      "limitations": [
+        "Collection-level placeholder, not an individual product.",
+        "No confirmed price, dispatch date, precise coverage or exact-family image."
+      ],
+      "image": null,
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.qdossound.com/collections/iphone-duo-cases",
+          "title": "QDOS iPhone Duo cases (family unannounced)",
+          "type": "manufacturer",
+          "facts": [
+            "Duo collection states Coming Soon.",
+            "Collection describes slim MagSafe-compatible cases using recycled materials; no named SKU verified."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "panzerglass-care-discovery",
+      "brand": "PanzerGlass CARE",
+      "name": "Discovery MagSafe",
+      "url": "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-discovery-case-black-grey-w-magsafe-iphone-2026-fold",
+      "price": 69.95,
+      "currency": "EUR",
+      "ukListing": null,
+      "status": "sold-out",
+      "evidence": "official",
+      "materials": [
+        "Aramid fibre",
+        "Steel"
+      ],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black & Grey"
+      ],
+      "summary": "Aramid-fibre foldable case with steel reinforcement, listed specifically for Duo.",
+      "limitations": [
+        "Accessible Dutch official page used; UK collection and UK Discovery product URLs failed to load. UK price and availability remain unverified.",
+        "Exact front/back and hinge coverage unconfirmed.",
+        "Strength and impact-protection wording is a manufacturer claim."
+      ],
+      "image": "https://panzerglass.com/cdn/shop/files/CR83510_0.jpg?v=1789022474",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-discovery-case-black-grey-w-magsafe-iphone-2026-fold",
+          "title": "PanzerGlass CARE Discovery MagSafe",
+          "type": "manufacturer",
+          "facts": [
+            "Official Dutch Duo listing: EUR 69.95, sold out, SKU CR83510.",
+            "Aramid fibre and steel protection; Black & Grey; MagSafe in product title.",
+            "Exact-family official product gallery image."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "panzerglass-care-sl1m",
+      "brand": "PanzerGlass CARE",
+      "name": "SL1M MagSafe",
+      "url": "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-sl1m-case-transparent-w-white-magsafe-iphone-2026-fold",
+      "price": 34.95,
+      "currency": "EUR",
+      "ukListing": null,
+      "status": "sold-out",
+      "evidence": "official",
+      "materials": [
+        "100% recycled plastic"
+      ],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": 1,
+      "thicknessNote": "Manufacturer describes case as 1 mm thin; not total folded phone depth.",
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Transparent with White MagSafe",
+        "Smokey with Black MagSafe"
+      ],
+      "summary": "Thin transparent magnetic case with a sweat- and make-up-resistant coating.",
+      "limitations": [
+        "Dutch official page used for transparent-white price; UK transparent-white price could not be verified.",
+        "Easy access to hinge does not establish a protective hinge cover; front/back coverage not explicitly resolved.",
+        "Drop and anti-yellowing statements are manufacturer claims."
+      ],
+      "image": "https://panzerglass.com/cdn/shop/files/CR12569_0.jpg?v=1789022493",
+      "shippingNote": null,
+      "variants": [
+        {
+          "name": "Smokey with Black MagSafe, UK official listing",
+          "url": "https://panzerglass.co.uk/collections/iphone-duo-cases/products/care%E2%84%A2-by-panzerglass%C2%AE-sl1m-case-smokey-w-black-magsafe-iphone-2026-fold",
+          "price": 29.95,
+          "currency": "GBP",
+          "status": "sold-out",
+          "shippingNote": null
+        },
+        {
+          "name": "3-in-1 Flagship Bundle",
+          "url": "https://panzerglass.co.uk/collections/iphone-duo/products/panzerglass%C2%AE-care%E2%84%A2-by-panzerglass%C2%AE-3-in-1-flagship-bundle-iphone-2026-fold",
+          "price": 59.95,
+          "currency": "GBP",
+          "status": "sold-out",
+          "note": "SL1M transparent case plus separate outer-screen and lens protectors. Case magnets are not established by the bundle description."
+        },
+        {
+          "name": "3-in-1 Flagship Privacy Bundle",
+          "url": "https://panzerglass.co.uk/products/panzerglass%C2%AE-care%E2%84%A2-by-panzerglass%C2%AE-3-in-1-flagship-privacy-bundle-iphone-2026-fold",
+          "price": 64.95,
+          "currency": "GBP",
+          "status": "sold-out",
+          "note": "SL1M transparent case plus separate privacy outer-screen and lens protectors."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-sl1m-case-transparent-w-white-magsafe-iphone-2026-fold",
+          "title": "PanzerGlass CARE SL1M MagSafe",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific transparent-white SKU CR12569: EUR 34.95, sold out.",
+            "1 mm thickness, MagSafe compatible, 100% recycled plastic.",
+            "Description preserves hinge access and folding function; no explicit hinge guard claim.",
+            "Official exact-family image."
+          ]
+        },
+        {
+          "url": "https://panzerglass.co.uk/collections/iphone-duo-cases/products/care%E2%84%A2-by-panzerglass%C2%AE-sl1m-case-smokey-w-black-magsafe-iphone-2026-fold",
+          "title": "CARE SL1M Smokey UK",
+          "type": "manufacturer",
+          "facts": [
+            "Indexed official Duo listing shows GBP 29.95 and sold out."
+          ]
+        },
+        {
+          "url": "https://panzerglass.co.uk/collections/iphone-duo/products/panzerglass%C2%AE-care%E2%84%A2-by-panzerglass%C2%AE-3-in-1-flagship-bundle-iphone-2026-fold",
+          "title": "PanzerGlass Duo Flagship Bundle UK",
+          "type": "manufacturer",
+          "facts": [
+            "GBP 59.95; sold out; includes SL1M transparent case and separate front-screen and camera-lens protection."
+          ]
+        },
+        {
+          "url": "https://panzerglass.co.uk/products/panzerglass%C2%AE-care%E2%84%A2-by-panzerglass%C2%AE-3-in-1-flagship-privacy-bundle-iphone-2026-fold",
+          "title": "PanzerGlass Duo Privacy Flagship Bundle UK",
+          "type": "manufacturer",
+          "facts": [
+            "GBP 64.95; sold out; SL1M transparent case and separate privacy outer-screen and lens protectors."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laut-kev-protect",
+      "brand": "LAUT",
+      "name": "KEV PROTECT",
+      "url": "https://www.itslaut.eu/products/kev-protect-dupont-aramid-fiber-case-for-iphone-18-duo",
+      "price": 74.99,
+      "currency": "EUR",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "Aramid fibre (70%)",
+        "TPU (20%)",
+        "Magnets (10%)"
+      ],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Aramid-fibre magnetic case with a metal camera ring.",
+      "limitations": [
+        "No verified numerical weight, thickness, dimensions or dispatch date.",
+        "Exact front/back and phone-hinge coverage unconfirmed.",
+        "Some product copy uses generic iPhone features; specifications retained only from the Duo product listing."
+      ],
+      "image": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_KE_BK01.jpg?v=1791264260&width=2000",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.itslaut.eu/products/kev-protect-dupont-aramid-fiber-case-for-iphone-18-duo",
+          "title": "LAUT KEV PROTECT",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: EUR 74.99.",
+            "Material composition: Aramid fibre (70%), TPU (20%), Magnets (10%).",
+            "Integrated MagSafe ring or magnetic compatibility described.",
+            "Exact Duo-family product gallery image."
+          ]
+        },
+        {
+          "url": "https://www.itslaut.eu/collections/iphone-18-duo-phone-cases-and-accessories",
+          "title": "LAUT Europe Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Duo KEV PROTECT: EUR 74.99; preorder; Black."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laut-flexi-protect",
+      "brand": "LAUT",
+      "name": "FLEXI PROTECT",
+      "url": "https://www.itslaut.eu/products/flexi-protect-case-for-iphone-18-duo",
+      "price": 44.99,
+      "currency": "EUR",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate (70%)",
+        "TPU (20%)",
+        "Magnets (10%)"
+      ],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": true,
+      "stand": true,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black",
+        "Light Grey"
+      ],
+      "summary": "Semi-transparent magnetic case with a rotating ring stand.",
+      "limitations": [
+        "No verified numerical weight, thickness, dimensions or dispatch date.",
+        "Exact front/back and phone-hinge coverage unconfirmed.",
+        "Some product copy uses generic iPhone features; specifications retained only from the Duo product listing."
+      ],
+      "image": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_FPT_BK01.jpg?v=1789458729&width=2000",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.itslaut.eu/products/flexi-protect-case-for-iphone-18-duo",
+          "title": "LAUT FLEXI PROTECT",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: EUR 44.99.",
+            "Material composition: Polycarbonate (70%), TPU (20%), Magnets (10%).",
+            "Integrated MagSafe ring or magnetic compatibility described.",
+            "Built-in 360-degree rotating grip stand.",
+            "Exact Duo-family product gallery image."
+          ]
+        },
+        {
+          "url": "https://www.itslaut.eu/collections/iphone-18-duo-phone-cases-and-accessories",
+          "title": "LAUT Europe Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Duo FLEXI PROTECT: EUR 44.99; preorder; Black, Light Grey."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laut-crystal-fluro",
+      "brand": "LAUT",
+      "name": "CRYSTAL FLURO",
+      "url": "https://www.itslaut.eu/products/crystal-fluro-case-for-iphone-18-duo",
+      "price": 34.99,
+      "currency": "EUR",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate (70%)",
+        "TPU (20%)",
+        "Magnets (10%)"
+      ],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Clear",
+        "Clear Midnight"
+      ],
+      "summary": "Clear magnetic case listed for Duo.",
+      "limitations": [
+        "No verified numerical weight, thickness, dimensions or dispatch date.",
+        "Exact front/back and phone-hinge coverage unconfirmed.",
+        "Some product copy uses generic iPhone features; specifications retained only from the Duo product listing."
+      ],
+      "image": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_CF_C01.jpg?v=1789458183&width=2000",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.itslaut.eu/products/crystal-fluro-case-for-iphone-18-duo",
+          "title": "LAUT CRYSTAL FLURO",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: EUR 34.99.",
+            "Material composition: Polycarbonate (70%), TPU (20%), Magnets (10%).",
+            "Integrated MagSafe ring or magnetic compatibility described.",
+            "Exact Duo-family product gallery image."
+          ]
+        },
+        {
+          "url": "https://www.itslaut.eu/collections/iphone-18-duo-phone-cases-and-accessories",
+          "title": "LAUT Europe Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Duo CRYSTAL FLURO: EUR 34.99; preorder; Clear, Clear Midnight."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laut-fizz-crystal",
+      "brand": "LAUT",
+      "name": "FIZZ CRYSTAL",
+      "url": "https://www.itslaut.eu/products/fizz-crystal-case-for-iphone-18-duo",
+      "price": 39.99,
+      "currency": "EUR",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate (70%)",
+        "TPU (20%)",
+        "Magnets (10%)"
+      ],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Crystal"
+      ],
+      "summary": "Clear magnetic case listed for Duo.",
+      "limitations": [
+        "No verified numerical weight, thickness, dimensions or dispatch date.",
+        "Exact front/back and phone-hinge coverage unconfirmed.",
+        "Some product copy uses generic iPhone features; specifications retained only from the Duo product listing."
+      ],
+      "image": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_FC_C01.jpg?v=1789457822&width=2000",
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.itslaut.eu/products/fizz-crystal-case-for-iphone-18-duo",
+          "title": "LAUT FIZZ CRYSTAL",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific listing: EUR 39.99.",
+            "Material composition: Polycarbonate (70%), TPU (20%), Magnets (10%).",
+            "Integrated MagSafe ring or magnetic compatibility described.",
+            "Exact Duo-family product gallery image."
+          ]
+        },
+        {
+          "url": "https://www.itslaut.eu/collections/iphone-18-duo-phone-cases-and-accessories",
+          "title": "LAUT Europe Duo collection",
+          "type": "manufacturer",
+          "facts": [
+            "Duo FIZZ CRYSTAL: EUR 39.99; preorder; Crystal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "torro-wallet",
+      "brand": "TORRO",
+      "name": "Leather Wallet Case",
+      "url": "https://torro.co.uk/products/iphone-duo-leather-wallet-case",
+      "price": 39.99,
+      "currency": "GBP",
+      "ukListing": "https://torro.co.uk/products/iphone-duo-leather-wallet-case",
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Top-grain cowhide leather",
+        "Microfibre lining"
+      ],
+      "coverage": "folio",
+      "hinge": null,
+      "magsafe": true,
+      "stand": true,
+      "wallet": true,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black with Red Detail"
+      ],
+      "summary": "Leather folio with an integrated viewing stand.",
+      "limitations": [
+        "Official image captions identify iPhone Ultra; exact Duo-family image match is insufficiently established, so image is null.",
+        "Phone-hinge guard and numerical weight unconfirmed."
+      ],
+      "image": null,
+      "shippingNote": "Selected colour marked in stock. Orders before 1:30pm UK time Monday to Friday dispatched same day, excluding bank holidays. Standard UK delivery quoted as 3 to 5 working days.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://torro.co.uk/products/iphone-duo-leather-wallet-case",
+          "title": "TORRO Leather Wallet Case",
+          "type": "manufacturer",
+          "facts": [
+            "Duo listing: GBP 39.99; selected colour Black with Red Detail; in stock.",
+            "Top-grain cowhide leather; soft microfibre lining.",
+            "Orders before 1:30pm UK time dispatched same working day, excluding bank holidays.",
+            "Horizontal stand, three card slots and cash compartment; Apple MagSafe charger compatibility."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "torro-detachable-wallet",
+      "brand": "TORRO",
+      "name": "2-in-1 Detachable Leather Wallet Case",
+      "url": "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case",
+      "price": 47.99,
+      "currency": "GBP",
+      "ukListing": "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case",
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Top-grain cowhide leather",
+        "Microfibre lining"
+      ],
+      "coverage": "folio",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": true,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black"
+      ],
+      "summary": "Leather folio wallet with a detachable inner bumper.",
+      "limitations": [
+        "Official image captions identify iPhone Ultra; exact Duo-family image match is insufficiently established, so image is null.",
+        "Phone-hinge guard and numerical weight unconfirmed.",
+        "MagSafe charging requires removal of folio cover; internal bumper only."
+      ],
+      "image": null,
+      "shippingNote": "Selected colour marked in stock. Orders before 1:30pm UK time Monday to Friday dispatched same day, excluding bank holidays. Standard UK delivery quoted as 3 to 5 working days.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case",
+          "title": "TORRO 2-in-1 Detachable Leather Wallet Case",
+          "type": "manufacturer",
+          "facts": [
+            "Duo listing: GBP 47.99; selected colour Black; in stock.",
+            "Top-grain cowhide leather; soft microfibre lining.",
+            "Orders before 1:30pm UK time dispatched same working day, excluding bank holidays.",
+            "Detachable folio and bumper; two cards plus banknotes; MagSafe charging through inner bumper only."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "torro-slim-folio-stand",
+      "brand": "TORRO",
+      "name": "Slim Leather Folio with Rotating Stand",
+      "url": "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand",
+      "price": 42.99,
+      "currency": "GBP",
+      "ukListing": "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand",
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Top-grain cowhide leather",
+        "Microfibre lining"
+      ],
+      "coverage": "folio",
+      "hinge": null,
+      "magsafe": null,
+      "stand": true,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": "12 x 8.8 x 1.5 cm",
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black with Red Detail"
+      ],
+      "summary": "Leather folio with an integrated viewing stand.",
+      "limitations": [
+        "Official image captions identify iPhone Ultra; exact Duo-family image match is insufficiently established, so image is null.",
+        "Phone-hinge guard and numerical weight unconfirmed.",
+        "MagSafe charger shown in image caption, but retained as unknown without an explicit specification."
+      ],
+      "image": null,
+      "shippingNote": "Selected colour marked in stock. Orders before 1:30pm UK time Monday to Friday dispatched same day, excluding bank holidays. Standard UK delivery quoted as 3 to 5 working days.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand",
+          "title": "TORRO Slim Leather Folio with Rotating Stand",
+          "type": "manufacturer",
+          "facts": [
+            "Duo listing: GBP 42.99; selected colour Black with Red Detail; in stock.",
+            "Top-grain cowhide leather; soft microfibre lining.",
+            "Orders before 1:30pm UK time dispatched same working day, excluding bank holidays.",
+            "360-degree rotating stand; published case dimensions 12 x 8.8 x 1.5 cm."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "torro-slim-folio",
+      "brand": "TORRO",
+      "name": "Slim Leather Folio",
+      "url": "https://torro.co.uk/products/iphone-duo-slim-leather-folio",
+      "price": 37.99,
+      "currency": "GBP",
+      "ukListing": "https://torro.co.uk/products/iphone-duo-slim-leather-folio",
+      "status": "listed",
+      "evidence": "official",
+      "materials": [
+        "Top-grain cowhide leather",
+        "Microfibre lining"
+      ],
+      "coverage": "folio",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Black with Red Detail"
+      ],
+      "summary": "Slim full-wrap leather folio.",
+      "limitations": [
+        "Official image captions identify iPhone Ultra; exact Duo-family image match is insufficiently established, so image is null.",
+        "Phone-hinge guard and numerical weight unconfirmed.",
+        "Body copy inconsistently says designed for iPhone Ultra although title and compatibility identify Duo."
+      ],
+      "image": null,
+      "shippingNote": "Selected colour marked in stock. Orders before 1:30pm UK time Monday to Friday dispatched same day, excluding bank holidays. Standard UK delivery quoted as 3 to 5 working days.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://torro.co.uk/products/iphone-duo-slim-leather-folio",
+          "title": "TORRO Slim Leather Folio",
+          "type": "manufacturer",
+          "facts": [
+            "Duo listing: GBP 37.99; selected colour Black with Red Detail; in stock.",
+            "Top-grain cowhide leather; soft microfibre lining.",
+            "Orders before 1:30pm UK time dispatched same working day, excluding bank holidays.",
+            "Full-wrap leather construction and Apple MagSafe charger compatibility."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "burga-elite",
+      "brand": "BURGA",
+      "name": "Elite",
+      "url": "https://uk.burga.com/collections/iphone-duo-cases",
+      "price": null,
+      "currency": null,
+      "ukListing": "https://uk.burga.com/collections/iphone-duo-cases",
+      "status": "listed",
+      "evidence": "official",
+      "materials": [],
+      "coverage": "front-and-back",
+      "hinge": false,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Navy Trench",
+        "Nostalgia Feeling",
+        "Full Glam",
+        "Tricked Me"
+      ],
+      "summary": "Two-piece decorative case family with matte finish and textured sides. Designs are grouped as one Elite family.",
+      "limitations": [
+        "No exact Duo-selected product price, material composition, dispatch commitment or product image verified.",
+        "Colour list contains featured decorative designs, not a complete design catalogue.",
+        "Manufacturer explicitly leaves the hinge unobstructed.",
+        "Drop-tested wording is a manufacturer claim; no Duo-specific test result independently verified."
+      ],
+      "image": null,
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://uk.burga.com/collections/iphone-duo-cases",
+          "title": "BURGA Elite",
+          "type": "manufacturer",
+          "facts": [
+            "Duo collection identifies Elite as the case family, with two precision parts protecting both phone halves.",
+            "Available to order now; over 500 decorative designs.",
+            "FAQ explicitly says hinge is left unobstructed.",
+            "MagSafe compatible; smooth matte finish and textured sides.",
+            "Featured designs: Navy Trench, Nostalgia Feeling, Full Glam, Tricked Me."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "casetify-duo-waitlist",
+      "brand": "CASETiFY",
+      "name": "iPhone Duo case lineup (waitlist)",
+      "url": "https://www.casetify.com/en_GB/iphone-cases/iphone-duo-cases",
+      "price": null,
+      "currency": null,
+      "ukListing": "https://www.casetify.com/en_GB/iphone-cases/iphone-duo-cases",
+      "status": "coming-soon",
+      "evidence": "official",
+      "materials": [],
+      "coverage": "unknown",
+      "hinge": null,
+      "magsafe": null,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [],
+      "summary": "Official UK Duo landing page invites waitlist registrations.",
+      "limitations": [
+        "Collection-level waitlist, not a verified purchasable SKU.",
+        "No verified price, dispatch, dimensions, material composition or exact-family product image.",
+        "Landing page mentions Impact Case and generic protection technologies; no separate Impact or Bounce product is established."
+      ],
+      "image": null,
+      "shippingNote": null,
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://www.casetify.com/en_GB/iphone-cases/iphone-duo-cases",
+          "title": "CASETiFY iPhone Duo case lineup (waitlist)",
+          "type": "manufacturer",
+          "facts": [
+            "Official UK Duo page invites users to join the waitlist.",
+            "MagSafe and hinge-protection language appears at lineup level; no exact selected case verified."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nomad-traditional-leather-folio",
+      "brand": "Nomad",
+      "name": "Traditional Leather Folio",
+      "url": "https://nomadgoods.com/products/traditional-leather-folio-iphone-duo-saddle-horween",
+      "price": 129,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "sold-out",
+      "evidence": "official",
+      "materials": [
+        "Vegetable-tanned Horween leather",
+        "Microfibre lining",
+        "Anodised aluminium camera ring"
+      ],
+      "coverage": "folio",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": true,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": 3.8,
+      "thicknessNote": "Folio component 3.8 mm; backplate 2.7 mm and screen lip 1.15 mm separately stated. Not total folded depth.",
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Saddle",
+        "Rustic Brown",
+        "Black"
+      ],
+      "summary": "Full-wrap Horween leather folio with card storage and integrated MagSafe magnets.",
+      "limitations": [
+        "US and European storefront availability differ; date is the displayed shipping statement, not a guaranteed release.",
+        "UK URL redirected to European storefront, so a current GBP offer was not reproducibly verified.",
+        "Card count differs between indexed and current copy; current listing says low-profile card slot.",
+        "Manufacturer explicitly says incompatible with MagSafe wallets.",
+        "Phone-hinge guard and stand are unconfirmed."
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0384/6721/files/856504017682_A_LOGO_PHONE.jpg?crop=center&height=100&v=1788727205&width=100",
+      "shippingNote": "US Saddle page says ships by 30 November, but its purchase control says Sold Out / Join the Waitlist.",
+      "variants": [
+        {
+          "name": "European Saddle listing",
+          "url": "https://nomadgoods.com/eu/products/traditional-leather-folio-iphone-duo-saddle-horween",
+          "price": 124,
+          "currency": "EUR",
+          "status": "preorder",
+          "shippingNote": "Ships by 30 November; European page has preorder/add-to-cart control."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://nomadgoods.com/products/traditional-leather-folio-iphone-duo-saddle-horween",
+          "title": "Nomad Traditional Leather Folio",
+          "type": "manufacturer",
+          "facts": [
+            "Duo selected, Saddle, USD 129, Sold Out / Join the Waitlist; ships by 30 November.",
+            "Horween leather folio with microfibre lining and anodised aluminium camera ring.",
+            "Integrated MagSafe magnets; MagSafe and Qi2 compatible.",
+            "Folio 3.8 mm; backplate 2.7 mm; raised screen lip 1.15 mm.",
+            "Low-profile card storage; MagSafe wallets not compatible.",
+            "Official gallery exact Duo image."
+          ]
+        },
+        {
+          "url": "https://nomadgoods.com/eu/products/traditional-leather-folio-iphone-duo-saddle-horween",
+          "title": "Nomad EU Traditional Leather Folio for Duo",
+          "type": "manufacturer",
+          "facts": [
+            "EUR 124, Saddle; preorder control; ships by 30 November.",
+            "Rustic Brown and Black colour links."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nomad-mag-leather-back",
+      "brand": "Nomad",
+      "name": "Mag Leather Back",
+      "url": "https://nomadgoods.com/eu/products/magnetic-leather-back-iphone-duo-saddle-horween-magsafe",
+      "price": 44,
+      "currency": "EUR",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "Vegetable-tanned Horween leather",
+        "Fibreglass body",
+        "Microfibre lining",
+        "Polycarbonate camera ring",
+        "Microsuction patches"
+      ],
+      "coverage": "back-only",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": 2.2,
+      "thicknessNote": "Backplate thickness only; not overall phone depth.",
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": null,
+      "colours": [
+        "Saddle",
+        "Rustic Brown",
+        "Black"
+      ],
+      "summary": "Magnetic leather back panel attached with MagSafe magnets and reusable microsuction patches.",
+      "limitations": [
+        "Manufacturer explicitly states no drop protection and no front piece.",
+        "UK URL redirected to the European page; UK price and dispatch remain unverified.",
+        "Shipping dates may differ by colour and region."
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0384/6721/files/856504017651_A_LOGO_PHONE.jpg?crop=center&height=100&v=1788721978&width=100",
+      "shippingNote": "European Saddle listing says ships by 21 December.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://nomadgoods.com/eu/products/magnetic-leather-back-iphone-duo-saddle-horween-magsafe",
+          "title": "Nomad Mag Leather Back",
+          "type": "manufacturer",
+          "facts": [
+            "Duo selected; Saddle EUR 44; preorder; ships by 21 December.",
+            "Back-only panel; manufacturer explicitly excludes a front piece and drop protection.",
+            "Horween leather, fibreglass, microfibre, polycarbonate camera ring and microsuction.",
+            "MagSafe and Qi2 compatible; 2.2 mm backplate.",
+            "Saddle, Rustic Brown and Black colour links.",
+            "Exact Duo gallery image."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "burton-goods-heritage",
+      "brand": "Burton Goods",
+      "name": "Heritage Leather Case",
+      "url": "https://burtongoods.com/products/heritage-leather-case-for-iphone-18-duo",
+      "price": 79,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "American full-grain leather",
+        "Microfibre interior"
+      ],
+      "coverage": "back-only",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": "3.5 in W x 4.7 in T x 0.25 in D",
+      "releaseDate": null,
+      "releaseNote": "Explicit manufacturer preorder statement says ships 23 October 2026; this is a shipping date, not inferred from phone launch.",
+      "colours": [
+        "Mahogany",
+        "Deep Amber",
+        "Onyx Black"
+      ],
+      "summary": "Leather exterior-back case with a leather hinge section and magnetic closure.",
+      "limitations": [
+        "Conflicting preorder and sold-out page labels prevent confident immediate-stock assessment.",
+        "UK purchase terms and dispatch unverified."
+      ],
+      "image": "https://burtongoods.com/cdn/shop/files/iphone-case-heritage-leather-case-for-iphone-18-duo-burton-goods-1257682891.jpg?v=1788997239&width=1946",
+      "shippingNote": "Preorder copy says ships 23 October. A generic Sale / Sold out badge also appears alongside Add to cart.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://burtongoods.com/products/heritage-leather-case-for-iphone-18-duo",
+          "title": "Burton Goods Heritage Leather Case",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific product USD 79; preorder copy says ships 23 October; conflicting generic sold-out badge.",
+            "Published case sizing: 3.5 in W x 4.7 in T x 0.25 in D.",
+            "Mahogany, Deep Amber and Onyx Black shown in official image captions.",
+            "American full-grain leather; microfibre interior.",
+            "Protects exterior back and hinge area; rare-earth magnets draw leather hinge shut; MagSafe compatible.",
+            "Exact-family official product image."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "burton-goods-pocket-book",
+      "brand": "Burton Goods",
+      "name": "The Pocket Book Leather Case",
+      "url": "https://burtongoods.com/products/pocket-book-case-for-iphone-18-duo",
+      "price": 99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "American full-grain leather",
+        "Marine-grade UV-resistant nylon stitching"
+      ],
+      "coverage": "folio",
+      "hinge": null,
+      "magsafe": true,
+      "stand": null,
+      "wallet": true,
+      "strap": null,
+      "weightG": null,
+      "thicknessMm": null,
+      "thicknessNote": null,
+      "dimensions": "3.6 in W x 4.7 in T x 1 in D",
+      "releaseDate": null,
+      "releaseNote": "Explicit manufacturer preorder statement says ships 23 October 2026; this is a shipping date, not inferred from phone launch.",
+      "colours": [
+        "Mahogany",
+        "Deep Amber",
+        "Onyx Black"
+      ],
+      "summary": "Leather wallet folio with a detachable inner back case and room for 4 to 6 cards.",
+      "limitations": [
+        "Conflicting preorder and sold-out page labels prevent confident immediate-stock assessment.",
+        "UK purchase terms and dispatch unverified.",
+        "MagSafe works with the inner shell detached from the folio."
+      ],
+      "image": "https://burtongoods.com/cdn/shop/files/iphone-case-the-pocket-book-leather-case-for-iphone-18-duo-burton-goods-1257682898.png?v=1788997118&width=1946",
+      "shippingNote": "Preorder copy says ships 23 October. A generic Sale / Sold out badge also appears alongside Add to cart.",
+      "variants": [],
+      "sources": [
+        {
+          "url": "https://burtongoods.com/products/pocket-book-case-for-iphone-18-duo",
+          "title": "Burton Goods The Pocket Book Leather Case",
+          "type": "manufacturer",
+          "facts": [
+            "Duo-specific product USD 99; preorder copy says ships 23 October; conflicting generic sold-out badge.",
+            "Published case sizing: 3.6 in W x 4.7 in T x 1 in D.",
+            "Mahogany, Deep Amber and Onyx Black shown in official image captions.",
+            "Full-grain leather folio plus detachable leather back case.",
+            "MagSafe on detached inner case; wallet takes 4 to 6 cards and includes cash storage.",
+            "UV-resistant nylon stitching and magnetic closing tab.",
+            "Exact-family official product image."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rokform-rugged",
+      "brand": "ROKFORM",
+      "name": "Rugged iPhone Duo Case",
+      "url": "https://www.rokform.com/products/iphone-duo-rugged-case-black",
+      "price": 89.99,
+      "currency": "USD",
+      "ukListing": null,
+      "status": "preorder",
+      "evidence": "official",
+      "materials": [
+        "TPU",
+        "Polycarbonate",
+        "Tempered glass"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": true,
+      "stand": null,
+      "wallet": null,
+      "strap": true,
+      "weightG": 86,
+      "thicknessMm": 4.15,
+      "thicknessNote": "Manufacturer-listed case thickness; not total closed phone depth. 86 g with standard configuration, 91 g with magnetic plug.",
+      "dimensions": null,
+      "releaseDate": null,
+      "releaseNote": "Estimated preorder dispatch 30 October 2026.",
+      "colours": [
+        "Black"
+      ],
+      "summary": "Rugged case with reinforced hinge, outer-screen glass, RokLock mounting and MAGMAX magnets.",
+      "limitations": [
+        "Use the non-magnetic plug for wireless charging; magnetic plug adds holding strength and weight.",
+        "Sport Ring stand is a separate paid accessory; an integrated stand is not verified.",
+        "Drop, magnet and protection results are manufacturer claims."
+      ],
+      "image": "https://www.rokform.com/cdn/shop/files/1-Rugged-iPhoneDuo.jpg?v=1789056670&width=1200",
+      "shippingNote": "Estimated ship date 30 October. All items in the order ship together once the preorder is ready.",
+      "variants": [
+        {
+          "name": "Magnetic-plug configuration",
+          "price": null,
+          "currency": null,
+          "status": "preorder",
+          "weightG": 91,
+          "note": "Magnetic plug supplied in box; use non-magnetic plug for wireless charging."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.rokform.com/products/iphone-duo-rugged-case-black",
+          "title": "ROKFORM Rugged iPhone Duo Case",
+          "type": "manufacturer",
+          "facts": [
+            "Duo Rugged USD 89.99, preorder, estimated dispatch 30 October.",
+            "TPU/polycarbonate shell, reinforced hinge and outer-display tempered glass.",
+            "RokLock twist-lock, MAGMAX MagSafe-compatible magnets and lanyard slot.",
+            "4.15 mm, 86 g; 91 g with magnetic plug.",
+            "Non-magnetic plug required for wireless charging; Sport Ring stand sold separately."
+          ]
+        },
+        {
+          "url": "https://www.rokform.com/blogs/rokform-blog/foldable-iphone-cases",
+          "title": "ROKFORM foldable case guide",
+          "type": "manufacturer",
+          "facts": [
+            "ROKFORM's own Rugged case USD 89.99, black, preorder shipping estimated 30 October 2026.",
+            "Competitor scores excluded from catalogue."
+          ]
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "brand": "Spigen",
+      "status": "verified-with-gaps",
+      "note": "Eight official Duo case families verified. Non-MagFit Ultra Hybrid kept separate; iBook retro concept separated. No numeric case size or weight published in extracted specification sections.",
+      "sourceUrls": [
+        "https://www.spigen.com/products/iphone-duo-case-tough-armor-pro-mag-fit",
+        "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-mag-fit",
+        "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-s-mag-fit",
+        "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-mag-fit",
+        "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-s-mag-fit",
+        "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro",
+        "https://www.spigen.com/products/iphone-duo-case-air-fit-pro-mag-fit",
+        "https://www.spigen.com/products/iphone-duo-case-nano-pop-mag-fit",
+        "https://www.macworld.com/article/3232659/the-perfect-iphone-duo-case-doesnt-exis.html"
+      ]
+    },
+    {
+      "brand": "OtterBox",
+      "status": "verified-with-gaps",
+      "note": "US Lumen and Defender Series Pro XT verified as coming soon. UK official collection empty. TechRadar UK prices retained only as unconfirmed editorial reports, not current offers. Lumen current page differs from older indexed price and construction.",
+      "sourceUrls": [
+        "https://www.otterbox.com/products/iphone-duo-lumen-series-case?variant=48323323494587",
+        "https://www.otterbox.co.uk/collections/iphone-duo-cases",
+        "https://www.techradar.com/phones/phone-accessories/best-iphone-duo-cases",
+        "https://www.otterbox.com/products/iphone-duo-defender-series-pro-xt-case"
+      ]
+    },
+    {
+      "brand": "TORRAS",
+      "status": "verified-with-gaps",
+      "note": "VegSkin plus additional Q3 Spin verified. German EUR prices retained separately from USD VegSkin preorder. Exact front/back and phone-hinge coverage unresolved; stand-hinge language is not phone-hinge evidence. Weight range not converted to a single value.",
+      "sourceUrls": [
+        "https://glass.torraslife.com/products/ostand-q3-vegskin-for-iphone-duo",
+        "https://de.torraslife.com/products/ostand-q3-vegskin-for-iphone-duo",
+        "https://de.torraslife.com/collections/iphone-duo-cases",
+        "https://de.torraslife.com/products/ostand-q3-spin-for-iphone-duo-cases"
+      ]
+    },
+    {
+      "brand": "QDOS",
+      "status": "coming-soon",
+      "note": "Official Duo collection says coming soon. Placeholder entry retained for visibility; no named purchasable family, exact price or product image verified.",
+      "sourceUrls": [
+        "https://www.qdossound.com/collections/iphone-duo-cases"
+      ]
+    },
+    {
+      "brand": "PanzerGlass CARE",
+      "status": "verified-with-gaps",
+      "note": "Discovery and SL1M families verified on accessible official Dutch product pages. UK collection and target transparent-white/Discovery URLs inaccessible. UK Smokey SL1M and two SL1M bundle prices verified from indexed official pages. No UK price inferred from user hints.",
+      "sourceUrls": [
+        "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-discovery-case-black-grey-w-magsafe-iphone-2026-fold",
+        "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-sl1m-case-transparent-w-white-magsafe-iphone-2026-fold",
+        "https://panzerglass.co.uk/collections/iphone-duo-cases/products/care%E2%84%A2-by-panzerglass%C2%AE-sl1m-case-smokey-w-black-magsafe-iphone-2026-fold",
+        "https://panzerglass.co.uk/collections/iphone-duo/products/panzerglass%C2%AE-care%E2%84%A2-by-panzerglass%C2%AE-3-in-1-flagship-bundle-iphone-2026-fold",
+        "https://panzerglass.co.uk/products/panzerglass%C2%AE-care%E2%84%A2-by-panzerglass%C2%AE-3-in-1-flagship-privacy-bundle-iphone-2026-fold"
+      ]
+    },
+    {
+      "brand": "LAUT",
+      "status": "verified-with-gaps",
+      "note": "Four families verified: KEV PROTECT, FLEXI PROTECT, CRYSTAL FLURO and additional FIZZ CRYSTAL. EU collection labels preorder. Exact case coverage and dispatch dates unconfirmed.",
+      "sourceUrls": [
+        "https://www.itslaut.eu/products/kev-protect-dupont-aramid-fiber-case-for-iphone-18-duo",
+        "https://www.itslaut.eu/collections/iphone-18-duo-phone-cases-and-accessories",
+        "https://www.itslaut.eu/products/flexi-protect-case-for-iphone-18-duo",
+        "https://www.itslaut.eu/products/crystal-fluro-case-for-iphone-18-duo",
+        "https://www.itslaut.eu/products/fizz-crystal-case-for-iphone-18-duo"
+      ]
+    },
+    {
+      "brand": "TORRO",
+      "status": "verified-with-gaps",
+      "note": "Four UK families verified, including both slim folios. Selected colours marked in stock. Images withheld because official captions say iPhone Ultra and exact Duo match remains uncertain.",
+      "sourceUrls": [
+        "https://torro.co.uk/products/iphone-duo-leather-wallet-case",
+        "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case",
+        "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand",
+        "https://torro.co.uk/products/iphone-duo-slim-leather-folio"
+      ]
+    },
+    {
+      "brand": "BURGA",
+      "status": "verified-with-gaps",
+      "note": "Official collection establishes Elite two-part family, available to order, MagSafe support and uncovered hinge. Decorative designs grouped. No exact Duo-selected price or image verified.",
+      "sourceUrls": [
+        "https://uk.burga.com/collections/iphone-duo-cases"
+      ]
+    },
+    {
+      "brand": "CASETiFY",
+      "status": "coming-soon",
+      "note": "Official UK waitlist only. Impact mentioned in landing-page prose, without a verified purchasable family; no inferred Impact/Bounce entries.",
+      "sourceUrls": [
+        "https://www.casetify.com/en_GB/iphone-cases/iphone-duo-cases"
+      ]
+    },
+    {
+      "brand": "Nomad",
+      "status": "verified-with-gaps",
+      "note": "Traditional Leather Folio and additional Mag Leather Back verified. US folio sold out while EU accepts preorders. UK URLs redirect to EU; current GBP offer unverified. Regional and colour-specific dispatch must not be generalised.",
+      "sourceUrls": [
+        "https://nomadgoods.com/products/traditional-leather-folio-iphone-duo-saddle-horween",
+        "https://nomadgoods.com/eu/products/traditional-leather-folio-iphone-duo-saddle-horween",
+        "https://nomadgoods.com/eu/products/magnetic-leather-back-iphone-duo-saddle-horween-magsafe"
+      ]
+    },
+    {
+      "brand": "Burton Goods",
+      "status": "verified-with-gaps",
+      "note": "Pocket Book folio and additional Heritage back/hinge case verified. Explicit 23 October shipping copy retained alongside contradictory sold-out badges. No invented immediate-stock claim.",
+      "sourceUrls": [
+        "https://burtongoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "https://burtongoods.com/products/pocket-book-case-for-iphone-18-duo"
+      ]
+    },
+    {
+      "brand": "ROKFORM",
+      "status": "verified-with-gaps",
+      "note": "Rugged official product verified: USD 89.99 preorder, estimated 30 October dispatch. Standard and magnetic-plug weights distinguished; optional Sport Ring stand not treated as integrated.",
+      "sourceUrls": [
+        "https://www.rokform.com/products/iphone-duo-rugged-case-black",
+        "https://www.rokform.com/blogs/rokform-blog/foldable-iphone-cases"
+      ]
+    }
+  ]
+}

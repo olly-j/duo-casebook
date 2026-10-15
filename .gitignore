@@ -1,0 +1,10 @@
+agents/
+node_modules/
+.qa/
+.DS_Store
+__pycache__/
+tests/screenshots/
+tests/browser-smoke.cjs
+tests/browser-smoke.json
+web/test-fixture.js
+pages-config.json

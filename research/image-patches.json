@@ -1,0 +1,198 @@
+{
+  "patches": [
+    {
+      "brand": "Poetic",
+      "name": "Spartan MagSafe for iPhone Duo",
+      "url": "https://www.poeticcases.com/products/apple-iphone-18-ultra",
+      "image": "https://www.poeticcases.com/cdn/shop/files/iPhone-Fold-Ultra-Spartan-A-Clear.jpg?v=1788931370&width=416",
+      "imageSource": "https://www.poeticcases.com/products/apple-iphone-18-ultra",
+      "matchNote": "First product-gallery image; alt identifies Apple iPhone Duo Spartan Magsafe case. The legacy Fold/Ultra asset filename is linked directly by the current Duo-specific manufacturer gallery."
+    },
+    {
+      "brand": "Speck",
+      "name": "Presidio Perfect-Clear Fold MagSafe for iPhone Duo",
+      "url": "https://speckproducts.com/collections/all-brands/products/presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case",
+      "image": "https://speckproducts.com/cdn/shop/files/speck-presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case-iphone-duo-clear-silver-151119-5085-phone-case-1258618883_400x.jpg?v=1789246567",
+      "imageSource": "https://speckproducts.com/collections/all-brands/products/presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case",
+      "matchNote": "First gallery image; alt describes back of closed folding phone and tags color_clear-silver. Manufacturer variant data binds first featured image to Duo Perfect-Clear Fold, Clear/Silver, SKU 151119-5085. Existing 400px linked rendition opens; untransformed URL could not be fetched."
+    },
+    {
+      "brand": "Speck",
+      "name": "Presidio Lux Fold MagSafe for iPhone Duo",
+      "url": "https://speckproducts.com/collections/all-brands/products/presidio-lux-fold-magsafe-apple-iphone-duo-case",
+      "image": "https://speckproducts.com/cdn/shop/files/speck-presidio-lux-fold-magsafe-apple-iphone-duo-case-iphone-duo-obsidian-tint-black-151120-9984-phone-case-1258618886_400x.jpg?v=1789246268",
+      "imageSource": "https://speckproducts.com/collections/all-brands/products/presidio-lux-fold-magsafe-apple-iphone-duo-case",
+      "matchNote": "First gallery image; alt describes back of closed folding phone and tags color_obsidian-tint-black. Manufacturer variant data binds it to Duo Lux Fold, Obsidian Tint/Black, SKU 151120-9984. Existing linked 400px rendition opens; untransformed URL could not be fetched."
+    },
+    {
+      "brand": "Case-Mate",
+      "name": "Floral Gems MagSafe for iPhone Duo",
+      "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "image": "https://case-mate.com/cdn/shop/files/CM061216-0190_1000x1000.jpg?v=1788275698",
+      "imageSource": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "matchNote": "First clean Floral Gems gallery image, tagged color_floral gems; alt describes clear case with white florals outlined in gold. Duo section identifies Floral Gems MagSafe, SKU CM061216."
+    },
+    {
+      "brand": "Case-Mate",
+      "name": "Sheer Twinkle Silver MagSafe for iPhone Duo",
+      "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "image": "https://case-mate.com/cdn/shop/files/CM061704-0146_1000x1000.jpg?v=1788275710",
+      "imageSource": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "matchNote": "First clean Sheer Twinkle Silver gallery image, tagged color_sheer twinkle silver; alt describes glitter case with MagSafe ring on open foldable phone. Duo-specific variant section supports match."
+    },
+    {
+      "brand": "Case-Mate",
+      "name": "Tough Plus Clear MagSafe with Stand for iPhone Duo",
+      "url": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "image": "https://case-mate.com/cdn/shop/files/Cmi_ToughClear_stand_Duo_PDP1_CM061218_1000x1000.jpg?v=1788275724",
+      "imageSource": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "matchNote": "First clean Tough Plus Clear gallery image; alt identifies clear case with MagSafe ring and kickstand, tagged color_tough plus clear. Duo product section identifies SKU CM061218. Used gallery 1000px link rather than duplicate 160px thumbnail."
+    },
+    {
+      "brand": "Pelican",
+      "name": "Ranger Clear MagSafe for iPhone Duo",
+      "url": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096",
+      "image": "https://case-mate.com/cdn/shop/files/ppi_RangerClear_Duo_PDP1_PP061194_1000x1000.jpg?v=1788283835",
+      "imageSource": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096",
+      "matchNote": "First clean Ranger Clear gallery asset, tagged color_ranger clear; alt describes clear case with white MagSafe ring. Duo Ranger Clear section identifies SKU PP061194. Excludes default Protector Black configuration."
+    },
+    {
+      "brand": "BlackBrook",
+      "name": "Classic Leather Folio for iPhone Duo",
+      "url": "https://blackbrookcase.com/collections/all/products/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee",
+      "image": "https://blackbrookcase.com/cdn/shop/files/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee-7023140.webp?v=1789085170&width=320",
+      "imageSource": "https://blackbrookcase.com/collections/all/products/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee",
+      "matchNote": "Product image alt identifies Classic Leather Folio Wallet Case for iPhone Duo, Distressed Coffee. Product caption specifies iPhone Duo and Distressed Coffee; preserves existing 320px URL."
+    },
+    {
+      "brand": "Ridge",
+      "name": "Phone Case for iPhone Duo, Carbon",
+      "url": "https://ridge.com/products/iphone-duo-case-carbon",
+      "image": "https://ridge.com/cdn/shop/files/iphone-ultra-case-carbon-02_581dff0d-084a-42fa-8989-bd4a45115770.jpg?v=1788420483&width=800",
+      "imageSource": "https://ridge.com/products/iphone-duo-case-carbon",
+      "matchNote": "Selected the gallery asset whose alt identifies Ridge Phone Case - iPhone Duo - Carbon; rejected the neighboring image labelled iPhone Ultra - Carbon Fiber 3K. Legacy Ultra filename retained exactly as linked."
+    }
+  ],
+  "missing": [
+    {
+      "brand": "Ringke",
+      "name": "Fusion for iPhone Duo",
+      "note": "Manufacturer Duo product page opened, but live page reader exposed no product image asset links. Bundle images were not inferred from case-only or camera-protector configurations."
+    },
+    {
+      "brand": "Ringke",
+      "name": "Fusion + Hinge Film (2P) for iPhone Duo",
+      "note": "Manufacturer Duo product page opened, but live page reader exposed no product image asset links. Bundle images were not inferred from case-only or camera-protector configurations."
+    },
+    {
+      "brand": "Ringke",
+      "name": "Fusion Magnetic for iPhone Duo",
+      "note": "Manufacturer Duo product page opened, but live page reader exposed no product image asset links. Bundle images were not inferred from case-only or camera-protector configurations."
+    },
+    {
+      "brand": "Ringke",
+      "name": "Fusion Magnetic + Hinge Film (2P) for iPhone Duo",
+      "note": "Manufacturer Duo product page opened, but live page reader exposed no product image asset links. Bundle images were not inferred from case-only or camera-protector configurations."
+    },
+    {
+      "brand": "JETech",
+      "name": "Clear Case with Hinge Protection for iPhone Duo",
+      "note": "Manufacturer product pages were attempted; clear page failed and other reads did not expose a verified configuration-specific product asset. The available single-banner.jpg link is a generic banner and was rejected."
+    },
+    {
+      "brand": "JETech",
+      "name": "Vegan Leather Case with Hinge Protection for iPhone Duo",
+      "note": "Manufacturer product pages were attempted; clear page failed and other reads did not expose a verified configuration-specific product asset. The available single-banner.jpg link is a generic banner and was rejected."
+    },
+    {
+      "brand": "JETech",
+      "name": "Matte Case with Hinge Protection for iPhone Duo",
+      "note": "Manufacturer product pages were attempted; clear page failed and other reads did not expose a verified configuration-specific product asset. The available single-banner.jpg link is a generic banner and was rejected."
+    },
+    {
+      "brand": "ZAGG",
+      "name": "Sedona for MagSafe with Stand for iPhone Duo",
+      "note": "Duo Sedona manufacturer page opened, but no product-image link/alt was exposed by the live reader."
+    },
+    {
+      "brand": "Incipio",
+      "name": "Survivor Clear for MagSafe for iPhone Duo",
+      "note": "Duo Survivor manufacturer page opened, but no product-image link/alt was exposed by the live reader."
+    },
+    {
+      "brand": "Elago",
+      "name": "MagSafe Silicone Case for iPhone Duo",
+      "note": "Supplied manufacturer URL currently returns an iPhone 17 Pro Max page title. No exact Duo image established; previous-model assets excluded."
+    },
+    {
+      "brand": "Elago",
+      "name": "MagSafe Hybrid Clear Case for iPhone Duo",
+      "note": "Supplied manufacturer URL currently returns an iPhone 17 Pro Max page title. No exact Duo image established; previous-model assets excluded."
+    },
+    {
+      "brand": "Cygnett",
+      "name": "AeroShield Clear for iPhone Duo",
+      "note": "Duo manufacturer pages opened, but product gallery assets were not recovered. Unrelated recommendation images excluded; a Duo-labelled image in a different product recommendation context was not trusted."
+    },
+    {
+      "brand": "Cygnett",
+      "name": "AeroMag Clear for iPhone Duo",
+      "note": "Duo manufacturer pages opened, but product gallery assets were not recovered. Unrelated recommendation images excluded; a Duo-labelled image in a different product recommendation context was not trusted."
+    },
+    {
+      "brand": "Snakehive",
+      "name": "Metro Leather Wallet for iPhone Duo",
+      "note": "Search indexed exact Duo Metro product image alts, but opening the product page timed out; no original asset URL recovered."
+    },
+    {
+      "brand": "Vaja",
+      "name": "Folio Leather Case with MagSafe for iPhone Duo",
+      "note": "Exact Duo manufacturer pages opened; gallery links recovered only as 100px thumbnails with generic Image labels. No adequate-resolution, caption-supported configuration asset verified in this pass."
+    },
+    {
+      "brand": "Vaja",
+      "name": "Wallet Leather Case with MagSafe for iPhone Duo",
+      "note": "Exact Duo manufacturer pages opened; gallery links recovered only as 100px thumbnails with generic Image labels. No adequate-resolution, caption-supported configuration asset verified in this pass."
+    },
+    {
+      "brand": "Vaja",
+      "name": "Leather Folio Wrap with Aramid Shell for iPhone Duo",
+      "note": "Exact Duo manufacturer pages opened; gallery links recovered only as 100px thumbnails with generic Image labels. No adequate-resolution, caption-supported configuration asset verified in this pass."
+    },
+    {
+      "brand": "Vaja",
+      "name": "Leather Wallet Wrap with Aramid Shell for iPhone Duo",
+      "note": "Exact Duo manufacturer pages opened; gallery links recovered only as 100px thumbnails with generic Image labels. No adequate-resolution, caption-supported configuration asset verified in this pass."
+    },
+    {
+      "brand": "fitBAG",
+      "name": "Beat made-to-measure sleeve for iPhone Duo",
+      "note": "Duo landing page shows made-to-measure sleeve family images, but their image labels do not establish a Duo-sized configuration. Generic family imagery excluded."
+    },
+    {
+      "brand": "fitBAG",
+      "name": "Classic made-to-measure sleeve for iPhone Duo",
+      "note": "Duo landing page shows made-to-measure sleeve family images, but their image labels do not establish a Duo-sized configuration. Generic family imagery excluded."
+    },
+    {
+      "brand": "fitBAG",
+      "name": "Jive made-to-measure sleeve for iPhone Duo",
+      "note": "Duo landing page shows made-to-measure sleeve family images, but their image labels do not establish a Duo-sized configuration. Generic family imagery excluded."
+    },
+    {
+      "brand": "fitBAG",
+      "name": "Rave made-to-measure sleeve for iPhone Duo",
+      "note": "Duo landing page shows made-to-measure sleeve family images, but their image labels do not establish a Duo-sized configuration. Generic family imagery excluded."
+    },
+    {
+      "brand": "Noreve",
+      "name": "2154TC leather case for iPhone Duo",
+      "note": "No manufacturer Duo 2154 product/image source established by official-domain search. Retailer imagery excluded."
+    },
+    {
+      "brand": "Noreve",
+      "name": "2154TB leather wallet case for iPhone Duo",
+      "note": "No manufacturer Duo 2154 product/image source established by official-domain search. Retailer imagery excluded."
+    }
+  ]
+}
