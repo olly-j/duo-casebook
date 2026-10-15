@@ -38,3 +38,11 @@ Public verification must match the exact build-manifest.json and its complete fi
 - Public ads status: disabled. External AdSense site/publisher approval, genuine Google consent message and manual unit creation are independently required. Publisher information entered is not proof of site approval.
 - Release evidence: source `./dev verify --lane C`, privacy browser/Axe tests, exact public manifest and all-file hashes, host-root ads.txt and meta, no premature third-party ad calls.
 - Rollback: revert the CB-003 merge, redeploy Pages and verify the previous inventory; the separate publisher root has its own Git commit and independent rollback.
+
+## CB-005: glass controls and neutral design
+
+- Owner requested a third, bounded public UI design release. No changes to publisher account, cookies or ad activation.
+- Source: official Apple Liquid Glass/Materials HIG and [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) v3.0.0 under its MIT licence.
+- Merge gate: complete CI source and renderer-guard tests; ensure image/compare/filter journeys work and site-wide palette is coherent on light/dark and reduced-preference modes; verify product facts unchanged and sources preserved.
+- Deployment gate: merged Pages build, exact public asset manifest and 92-case catalogue, browse/compare/privacy smoke and no unapproved network requests.
+- Recovery: revert the CB-005 release commit, republish and re-verify the previous exact manifest.
