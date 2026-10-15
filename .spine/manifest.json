@@ -49,21 +49,8 @@
         ],
         [
           "node",
-          "--test",
-          "tests/polish.test.cjs",
-          "tests/ux-polish.test.cjs",
-          "tests/ui-launch.test.cjs",
-          "tests/ads.test.cjs",
-          "tests/privacy-center.test.cjs",
-          "tests/google-cmp-provider.test.cjs",
-          "tests/cmp-bootstrap.test.cjs"
-        ]
-      ],
-      "B": [
-        [
-          "node",
           "--check",
-          "web/app.js"
+          "web/glass.js"
         ],
         [
           "node",
@@ -74,7 +61,32 @@
           "tests/ads.test.cjs",
           "tests/privacy-center.test.cjs",
           "tests/google-cmp-provider.test.cjs",
-          "tests/cmp-bootstrap.test.cjs"
+          "tests/cmp-bootstrap.test.cjs",
+          "tests/glass.test.cjs"
+        ]
+      ],
+      "B": [
+        [
+          "node",
+          "--check",
+          "web/app.js"
+        ],
+        [
+          "node",
+          "--check",
+          "web/glass.js"
+        ],
+        [
+          "node",
+          "--test",
+          "tests/polish.test.cjs",
+          "tests/ux-polish.test.cjs",
+          "tests/ui-launch.test.cjs",
+          "tests/ads.test.cjs",
+          "tests/privacy-center.test.cjs",
+          "tests/google-cmp-provider.test.cjs",
+          "tests/cmp-bootstrap.test.cjs",
+          "tests/glass.test.cjs"
         ],
         [
           "python3",
@@ -99,6 +111,11 @@
         ],
         [
           "node",
+          "--check",
+          "web/glass.js"
+        ],
+        [
+          "node",
           "--test",
           "tests/polish.test.cjs",
           "tests/ux-polish.test.cjs",
@@ -106,7 +123,8 @@
           "tests/ads.test.cjs",
           "tests/privacy-center.test.cjs",
           "tests/google-cmp-provider.test.cjs",
-          "tests/cmp-bootstrap.test.cjs"
+          "tests/cmp-bootstrap.test.cjs",
+          "tests/glass.test.cjs"
         ],
         [
           "python3",

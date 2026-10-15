@@ -49,3 +49,9 @@ Non-goals: paid ad campaigns, payment details, account creation or binding terms
 - Google state at last check: publisher onboarding still requires site connection; the payment-information card is complete but site approval is unverified. A certified, published Google Privacy & messaging European regulations message, exact CMP identifiers and real manual ad-unit configuration are pending.
 - Activation invariant: never set `enabled:true` until account/site/CMP/consent network tests and privacy disclosures pass. Use a separate reviewed release. No fabricated consent, purchased traffic or intrusive advertising.
 - Rollback: revert the activation PR or set ads back to disabled and verify network silence. Preserve evidence.
+
+## CB-005: Neutral Apple-style Liquid Glass interface
+
+Owner request, 15 October 2026. Replace green with graphite, porcelain and classic system colours. Apply functional glass only to navigation, interactive controls, menus and sheets. Keep product photography and descriptions opaque and readable. Use the supplied naughtyduk/liquidGL repo as a pinned MIT runtime, with lazy desktop-only rendering and CSS fallback on iPhone, long catalogue pages, reduced-motion/transparency and low-performance devices.
+
+Acceptance: no green design tokens, legible light/dark contrast, no horizontal overflow, native touch/keyboard controls, full source-backed catalogue preserved, no unexpected tracking or GPU animation on mobile, pinned self-hosted runtime and licence, deterministic page generation and GitHub checks, visual/browser verification before declaring public shipment. Rollback: revert CB-005, rebuild and verify the previous published manifest.

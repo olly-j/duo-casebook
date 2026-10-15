@@ -24,7 +24,7 @@ async function contextFor(browser,viewport,colorScheme='light'){
  return ctx;
 }
 (async()=>{
- const browser=await chromium.launch({headless:true,chromiumSandbox:true,...(process.env.CHROME_PATH?{executablePath:process.env.CHROME_PATH}:{})});
+ const browser=await chromium.launch({headless:true,chromiumSandbox:process.env.CASEBOOK_CI_NO_SANDBOX!=='1',...(process.env.CHROME_PATH?{executablePath:process.env.CHROME_PATH}:{})});
  try{
   const widths=[320,390,430];
   for(const width of widths)for(const theme of ['light','dark']){

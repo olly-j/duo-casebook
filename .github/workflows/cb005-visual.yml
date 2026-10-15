@@ -1,0 +1,48 @@
+name: CB-005 visual and device matrix
+on:
+  pull_request:
+    paths:
+      - 'web/**'
+      - 'docs/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/cb005-visual.yml'
+permissions:
+  contents: read
+jobs:
+  functional-materials:
+    if: github.head_ref == 'feature/CB-005-liquid-glass-design'
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - name: Install temporary test-only browser tooling
+        run: |
+          npm install --no-save --ignore-scripts playwright@1.56.1 axe-core@4.10.3
+          npx playwright install --with-deps chromium
+      - name: Verify source-built pages
+        run: |
+          python3 prepare_site.py
+          node --test tests/glass.test.cjs
+      - name: Phone, tablet, desktop, light and dark journeys
+        env:
+          AXE_PATH: ./node_modules/axe-core/axe.min.js
+          CASEBOOK_CI_NO_SANDBOX: '1'
+        run: |
+          node tests/launch-browser.cjs
+          node tests/consent-browser.cjs
+      - name: Preserve visual and accessibility evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: cb005-glass-visual-review
+          path: |
+            tests/screenshots/launch-*.png
+            tests/screenshots/launch-filters-*.png
+            tests/screenshots/launch-detail-*.png
+            tests/screenshots/launch-compare-*.png
+            tests/screenshots/privacy-*.png
+            evidence/launch-browser.json
+            evidence/consent-browser.json
+          if-no-files-found: ignore
+          retention-days: 7

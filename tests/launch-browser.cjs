@@ -26,7 +26,7 @@ async function setup(browser,options={}){
  return context;
 }
 (async()=>{fs.mkdirSync('tests/screenshots',{recursive:true});fs.mkdirSync('evidence',{recursive:true});
- const browser=await chromium.launch({headless:true,chromiumSandbox:true,...(process.env.CHROME_PATH?{executablePath:process.env.CHROME_PATH}:{})});
+ const browser=await chromium.launch({headless:true,chromiumSandbox:process.env.CASEBOOK_CI_NO_SANDBOX!=='1',...(process.env.CHROME_PATH?{executablePath:process.env.CHROME_PATH}:{})});
  try{
   const data=JSON.parse(fs.readFileSync('web/catalogue.json','utf8'));
   for(const colour of ['light','dark'])for(const width of [320,390,430,768,1440]){

@@ -24,6 +24,12 @@ Google AdSense is configured but **disabled** until the publisher account and si
 
 Saved cases use browser-local storage. The Privacy & cookies control is available throughout the site and links to the [privacy notice](https://olly-j.github.io/duo-casebook/privacy/). When a Google-certified consent message is approved and configured, that message will handle equal Consent, Do not consent and Manage options and withdrawal. No nonessential advertising request may be made before valid consent. A local checkbox is never treated as IAB consent.
 
+## Materials and design
+
+CASEBOOK uses a neutral porcelain and graphite palette inspired by Apple's functional Liquid Glass layering. Navigation, menus, filter capsules and temporary sheets have a restrained glass treatment; product photographs and research remain on solid surfaces. The interface adapts to system light and dark modes, reduced transparency, reduced motion, contrast and keyboard navigation.
+
+The [liquidGL](https://github.com/naughtyduk/liquidGL) MIT v3.0.0 renderer is vendored with its licence and loaded only when a suitable desktop can afford a single compact navigation lens on a short page. On iPhone and in the long catalogue, CSS materials provide the finish without downloading WebGL. No runtime CDN, tracking or extra font is introduced.
+
 ## Develop and verify
 
 Read [AGENTS.md](AGENTS.md) and the [authority map](docs/README.md). The project adopts the core and web profiles of the owner's AI development spine. Native iOS APIs and portfolio controls are outside this static site's scope.
@@ -33,6 +39,7 @@ Read [AGENTS.md](AGENTS.md) and the [authority map](docs/README.md). The project
 python3 build_data.py
 python3 prepare_site.py
 ./dev audit
+node --test tests/glass.test.cjs
 ./dev verify --lane C
 ```
 

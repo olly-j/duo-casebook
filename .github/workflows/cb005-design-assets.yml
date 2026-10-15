@@ -1,0 +1,40 @@
+name: CB-005 prepare design assets
+on:
+  push:
+    branches: [feature/CB-005-liquid-glass-design]
+permissions:
+  contents: write
+concurrency:
+  group: cb005-design-assets
+  cancel-in-progress: false
+jobs:
+  generate:
+    if: github.ref == 'refs/heads/feature/CB-005-liquid-glass-design'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: true
+      - name: Render icon and sharing art from reviewed source
+        run: |
+          python3 -m pip install --disable-pip-version-check --no-deps pillow==11.0.0
+          python3 scripts/render_brand_assets.py
+      - name: Prepare exact GitHub Pages tree
+        run: |
+          python3 build_data.py
+          python3 prepare_site.py
+      - name: Unit and discovery contract
+        run: |
+          node --check web/glass.js
+          node --test tests/glass.test.cjs
+          python3 -m unittest tests.test_discovery
+      - name: Commit generated assets to design branch
+        run: |
+          git add docs web/assets/icon-180.png web/assets/icon-192.png web/assets/icon-512.png web/assets/share-card.png
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'CB-005: generate neutral Pages assets and exact deployment manifest'
+            git push origin HEAD:refs/heads/feature/CB-005-liquid-glass-design
+          else
+            echo 'Generated assets already match.'
+          fi
