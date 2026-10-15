@@ -45,21 +45,8 @@
         [
           "node",
           "--check",
-          "web/app.js"
+          "web/liquid-ui.js"
         ],
-        [
-          "node",
-          "--test",
-          "tests/polish.test.cjs",
-          "tests/ux-polish.test.cjs",
-          "tests/ui-launch.test.cjs",
-          "tests/ads.test.cjs",
-          "tests/privacy-center.test.cjs",
-          "tests/google-cmp-provider.test.cjs",
-          "tests/cmp-bootstrap.test.cjs"
-        ]
-      ],
-      "B": [
         [
           "node",
           "--check",
@@ -74,7 +61,32 @@
           "tests/ads.test.cjs",
           "tests/privacy-center.test.cjs",
           "tests/google-cmp-provider.test.cjs",
-          "tests/cmp-bootstrap.test.cjs"
+          "tests/cmp-bootstrap.test.cjs",
+          "tests/liquid-ui.test.cjs"
+        ]
+      ],
+      "B": [
+        [
+          "node",
+          "--check",
+          "web/liquid-ui.js"
+        ],
+        [
+          "node",
+          "--check",
+          "web/app.js"
+        ],
+        [
+          "node",
+          "--test",
+          "tests/polish.test.cjs",
+          "tests/ux-polish.test.cjs",
+          "tests/ui-launch.test.cjs",
+          "tests/ads.test.cjs",
+          "tests/privacy-center.test.cjs",
+          "tests/google-cmp-provider.test.cjs",
+          "tests/cmp-bootstrap.test.cjs",
+          "tests/liquid-ui.test.cjs"
         ],
         [
           "python3",
@@ -83,6 +95,11 @@
         ]
       ],
       "C": [
+        [
+          "node",
+          "--check",
+          "web/liquid-ui.js"
+        ],
         [
           "python3",
           "-m",
@@ -106,7 +123,8 @@
           "tests/ads.test.cjs",
           "tests/privacy-center.test.cjs",
           "tests/google-cmp-provider.test.cjs",
-          "tests/cmp-bootstrap.test.cjs"
+          "tests/cmp-bootstrap.test.cjs",
+          "tests/liquid-ui.test.cjs"
         ],
         [
           "python3",

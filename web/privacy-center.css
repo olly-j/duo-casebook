@@ -9,8 +9,42 @@ dialog.privacy-center{box-sizing:border-box;width:min(30rem,calc(100% - 2rem));m
 .privacy-center button{max-width:100%;white-space:normal;margin:.25rem 0}
 .privacy-center a{display:flex;align-items:center;color:var(--ink);text-decoration:underline;text-underline-offset:.2em}
 .privacy-center [hidden]{display:none!important}
-.privacy-center :focus-visible,.privacy-center-trigger:focus-visible{outline:3px solid var(--moss);outline-offset:3px}
+.privacy-center :focus-visible,.privacy-center-trigger:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
 .privacy-center [data-privacy-confirm]{border-top:1px solid var(--line);margin-top:.75rem}
 .privacy-center [data-privacy-close]{display:block;margin-top:.75rem}
 @media(prefers-reduced-motion:reduce){.privacy-center,.privacy-center::backdrop{animation:none;transition:none;scroll-behavior:auto}}
 @media(forced-colors:active){.privacy-center,.privacy-center button,.privacy-center-trigger{border:1px solid ButtonText}}
+
+/* CB-005: modal content is opaque; only its touch controls use glass. */
+.privacy-center-trigger,
+.privacy-center [data-privacy-close],
+.privacy-center [data-privacy-clear],
+.privacy-center [data-privacy-keep] {
+ border-radius:999px;
+ background:var(--glass,var(--paper));
+ border-color:var(--glass-border,var(--line));
+ box-shadow:inset 0 1px 0 var(--glass-rim,transparent);
+}
+.privacy-center [data-privacy-delete],
+.privacy-center [data-privacy-ad] {
+ border-radius:999px;
+ background:var(--action,var(--ink));
+ color:var(--accent-ink,var(--paper));
+ border-color:var(--action,var(--ink));
+}
+dialog.privacy-center {
+ background:var(--paper);
+ border:1px solid var(--glass-border,var(--line));
+ box-shadow:0 24px 70px rgba(0,0,0,.24);
+}
+@media(prefers-color-scheme:dark){
+ dialog.privacy-center {box-shadow:0 26px 72px rgba(0,0,0,.55);}
+}
+@media(prefers-reduced-transparency:reduce),(prefers-contrast:more){
+ .privacy-center-trigger,.privacy-center button {
+ background:var(--paper);box-shadow:none;
+ }
+ .privacy-center [data-privacy-delete],.privacy-center [data-privacy-ad] {
+ background:var(--action);color:var(--accent-ink);
+ }
+}

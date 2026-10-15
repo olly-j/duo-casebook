@@ -33,3 +33,9 @@ Status: Append-only evidence register
 - Linked work: CB-003.
 - Decision: owner explicitly authorised a distinct second public deployment after the previously released CB-002.
 - Evidence status: implementation and external publisher review tracked separately. Do not mark Google site or CMP approved based on source code alone.
+
+## CB-F005, 15 October 2026
+
+- Source: owner request. The earlier green theme felt generic and AI-generated. Desired direction: timeless, expensive, clean Apple visuals, with Liquid Glass reserved for touched navigation, menus and transient controls. Primary reference: https://github.com/naughtyduk/liquidGL .
+- Decision: preserve CASEBOOK product-first information hierarchy. Adopt neutrals and bounded Apple-inspired glass controls, not pervasive glass cards or full-screen GPU effects. Follow reduced-motion/transparency/high-contrast needs; use local-only pinned source and fail safely.
+- Linked delivery: CB-005 design system, source tests and Pages release evidence. Do not change existing advertising consent or product data.
