@@ -1,0 +1,193 @@
+{
+  "patches": [
+    {
+      "id": "dbrand-grip",
+      "image": "https://cdn.shopify.com/s/files/1/0733/5867/2170/files/f0afc406-aab6-48ab-bf05-da28d1407066_62f7bedf-abbf-4b81-aae5-45925bc7cf45.jpg?v=1788905551",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0733/5867/2170/files/f0afc406-aab6-48ab-bf05-da28d1407066_62f7bedf-abbf-4b81-aae5-45925bc7cf45.jpg?v=1788905551",
+          "caption": "Grip for iPhone Duo \u2014 patterned rear view (manufacturer product image).",
+          "sourceUrl": "https://dbrand.com/shop/grip/iphone-duo-cases"
+        }
+      ],
+      "imageSource": "https://dbrand.com/shop/grip/iphone-duo-cases",
+      "imageCaption": "Grip for iPhone Duo \u2014 patterned rear view (manufacturer product image).",
+      "verificationNote": "Exact current Duo manufacturer page is the image-search source for this asset; indexed image description identifies a dual-camera rear and folding hinge bumper. Direct asset URL opened successfully. The ordinary parsed page exposes only generic CDN image links, so this is search-index provenance rather than a raw product-JSON binding. Main should visually confirm before integration; no independent pixel inspection was possible here."
+    },
+    {
+      "id": "zagg-sedona-for-magsafe-with-stand-for-iphone-duo",
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b5fdc1a4-7771-4d1c-8dd2-d356a0b921c9.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
+      "images": [
+        {
+          "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b5fdc1a4-7771-4d1c-8dd2-d356a0b921c9.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
+          "caption": "Sedona for MagSafe with stand \u2014 Black; retailer product view.",
+          "sourceUrl": "https://www.bestbuy.com/product/zagg-sedona-snap-magsafe-compatible-case-with-kickstand-for-apple-iphone-duo-black/J39T3VP8V4"
+        },
+        {
+          "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/ae0eea5a-ae95-4ff1-8d55-1b3c6eed6dde.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
+          "caption": "Sedona \u2014 retailer gallery illustration of the integrated kickstand.",
+          "sourceUrl": "https://www.bestbuy.com/product/zagg-sedona-snap-magsafe-compatible-case-with-kickstand-for-apple-iphone-duo-black/J39T3VP8V4"
+        },
+        {
+          "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/546fb733-d506-4a21-82c7-86c6fc972673.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
+          "caption": "Sedona \u2014 retailer gallery illustration of magnetic charging compatibility.",
+          "sourceUrl": "https://www.bestbuy.com/product/zagg-sedona-snap-magsafe-compatible-case-with-kickstand-for-apple-iphone-duo-black/J39T3VP8V4"
+        }
+      ],
+      "imageSource": "https://www.bestbuy.com/product/zagg-sedona-snap-magsafe-compatible-case-with-kickstand-for-apple-iphone-duo-black/J39T3VP8V4",
+      "imageCaption": "Sedona for MagSafe with stand \u2014 Black; retailer product view.",
+      "verificationNote": "Best Buy exact Duo product gallery, model 702322558 / SKU 6684407; manufacturer source https://www.zagg.com/sedona-stand-iphone-duo independently identifies SKU 702322558. Full-size gallery links (not inferred transformations) opened successfully. Captions follow gallery alt text; final browser pixel review remains with main."
+    },
+    {
+      "id": "elago-magsafe-silicone-case-for-iphone-duo",
+      "image": "https://media.ldlc.com/r705/ld/products/00/06/37/71/LD0006377117.jpg",
+      "images": [
+        {
+          "url": "https://media.ldlc.com/r705/ld/products/00/06/37/71/LD0006377117.jpg",
+          "caption": "MagSafe Silicone Case for iPhone Duo \u2014 Pink; retailer product photo.",
+          "sourceUrl": "https://www.ldlc.com/fiche/PB00753086.html"
+        }
+      ],
+      "imageSource": "https://www.ldlc.com/fiche/PB00753086.html",
+      "imageCaption": "MagSafe Silicone Case for iPhone Duo \u2014 Pink; retailer product photo.",
+      "verificationNote": "Direct LDLC product-gallery link opened successfully; current listing explicitly identifies foldable iPhone Duo, Pink, SKU ESFOLD-MSSC-LPK, separate PC front frame and silicone-coated rear. Manufacturer page https://www.elago.com/products/magsafe-silicone-case-7-colors-ultra independently describes the same Duo case construction. Indexed image description identifies the two-piece pink case. Retailer marks photos non-contractual. Final browser pixel review remains with main."
+    },
+    {
+      "id": "elago-magsafe-hybrid-clear-case-for-iphone-duo",
+      "image": "https://alephksa.com/cdn/shop/files/ESFOLD-MSCL-TR_1_0649c474-cfed-4c28-9e9b-d8f47001edfb.jpg?v=1789912765&width=823",
+      "images": [
+        {
+          "url": "https://alephksa.com/cdn/shop/files/ESFOLD-MSCL-TR_1_0649c474-cfed-4c28-9e9b-d8f47001edfb.jpg?v=1789912765&width=823",
+          "caption": "MagSafe Hybrid Clear Case for iPhone Duo \u2014 Clear; retailer gallery photo.",
+          "sourceUrl": "https://alephksa.com/products/elago-hybrid-clear-case-with-magsafe-for-iphone-duo-clear"
+        },
+        {
+          "url": "https://alephksa.com/cdn/shop/files/ESFOLD-MSCL-TR_3_1039b642-6983-49c4-ad4d-734dc6c21e92.jpg?v=1789912765&width=823",
+          "caption": "MagSafe Hybrid Clear Case for iPhone Duo \u2014 additional retailer gallery view.",
+          "sourceUrl": "https://alephksa.com/products/elago-hybrid-clear-case-with-magsafe-for-iphone-duo-clear"
+        }
+      ],
+      "imageSource": "https://alephksa.com/products/elago-hybrid-clear-case-with-magsafe-for-iphone-duo-clear",
+      "imageCaption": "MagSafe Hybrid Clear Case for iPhone Duo \u2014 Clear; retailer gallery photo.",
+      "verificationNote": "Exact current Duo retailer gallery binds these links to SKU ESFOLD-MSCL-TR, barcode 8800328937246. Both direct linked assets opened successfully; second gallery asset timed out and is omitted. The ESFOLD filename is attached to this current Duo gallery, not substituted from another phone listing. Manufacturer source https://www.elago.com/products/magsafe-hybrid-clear-case-ultra confirms Duo construction. Final pixel/form review remains with main; this pass could verify gallery attachment but could not independently inspect pixels."
+    },
+    {
+      "id": "cygnett-aeromag-clear-for-iphone-duo",
+      "image": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-1_085a27f3-c535-404c-aeff-68476f783d80_2376x.png?v=1788927307",
+      "images": [
+        {
+          "url": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-1_085a27f3-c535-404c-aeff-68476f783d80_2376x.png?v=1788927307",
+          "caption": "AeroMag Clear for iPhone Duo \u2014 manufacturer gallery photo.",
+          "sourceUrl": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable"
+        },
+        {
+          "url": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-2_b915ea2d-19c3-4c8b-8168-36213dbf6500_2376x.png?v=1788927307",
+          "caption": "AeroMag Clear for iPhone Duo \u2014 manufacturer gallery view 2.",
+          "sourceUrl": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable"
+        },
+        {
+          "url": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-3_c756e334-e678-46a3-a3a8-00fbbad153b9_2376x.png?v=1788927306",
+          "caption": "AeroMag Clear for iPhone Duo \u2014 manufacturer gallery view 3.",
+          "sourceUrl": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable"
+        }
+      ],
+      "imageSource": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable",
+      "imageCaption": "AeroMag Clear for iPhone Duo \u2014 manufacturer gallery photo.",
+      "verificationNote": "All three URLs are direct links in the exact current manufacturer product gallery, alt Slim Magnetic Clear Case for iPhone Duo, SKU CY6125CPAEG / barcode 0848116055626. Each asset opened successfully. No CY6124 AeroShield substitution. Final browser pixel review remains with main."
+    },
+    {
+      "id": "jetech-clear-case-with-hinge-protection-for-iphone-duo",
+      "image": "https://www.ijetech.com/wp-content/uploads/2026/09/71ArhK3SyaL._SS1500_5913-CS_1-100x100.jpg",
+      "images": [
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71ArhK3SyaL._SS1500_5913-CS_1-100x100.jpg",
+          "caption": "Clear Case with Hinge Protection \u2014 Clear; manufacturer variant thumbnail (100 px).",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338534.html"
+        }
+      ],
+      "imageSource": "https://www.ijetech.com/product/iphone-duo-case-338534.html",
+      "imageCaption": "Clear Case with Hinge Protection \u2014 Clear; manufacturer variant thumbnail (100 px).",
+      "verificationNote": "Direct Clear variant image link in exact manufacturer Duo product page, SKU 5913-CS-HZ; linked thumbnail opened successfully. Low resolution only. Manufacturer links Amazon ASIN B0HJ2GLZNS; its exact Duo Clear gallery embeds matching physical image ID 71ArhK3SyaL and explicit full-size assets, but direct full-size fetches failed. Do not upscale or describe the thumbnail as high resolution. Final browser pixel review remains with main."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "ringke-fusion-for-iphone-duo",
+      "reason": "Exact manufacturer page and collection confirm Fusion non-magnetic, but parsed galleries omit asset URLs. Public product JSON and JS endpoints could not be fetched. Search recovers a Duo photo description but no usable photo URL. Fusion Flap retailer imagery was rejected because it is a different named hinge-cover configuration.",
+      "checkedUrls": [
+        "https://www.ringkestore.com/products/iphone-duo-fusion",
+        "https://www.ringkestore.com/products/iphone-duo-fusion.json",
+        "https://www.ringkestore.com/collections/iphone-duo",
+        "https://www.ringkestore.com/products/iphone-duo-fusion.js",
+        "https://www.phonelife.de/marken/ringke/fusion-flap-case-iphone-duo-clear"
+      ]
+    },
+    {
+      "id": "ringke-fusion-hinge-film-2p-for-iphone-duo",
+      "reason": "Bundle source inspected, including collection; gallery asset URLs unavailable and public product JSON unavailable. Case-only representation would be acceptable with film/accessories-not-pictured caption, but no verified standard Fusion case photo URL was recovered.",
+      "checkedUrls": [
+        "https://www.ringkestore.com/products/iphone-duo-fusion-hinge",
+        "https://www.ringkestore.com/products/iphone-duo-fusion-hinge.json",
+        "https://www.ringkestore.com/collections/iphone-duo"
+      ]
+    },
+    {
+      "id": "ringke-fusion-magnetic-for-iphone-duo",
+      "reason": "Exact magnetic manufacturer page inspected; gallery URLs omitted and public product JSON unavailable. No verified magnetic Duo gallery photo URL recovered. Do not substitute the non-magnetic or Fusion Flap case.",
+      "checkedUrls": [
+        "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic",
+        "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic.json",
+        "https://www.ringkestore.com/collections/iphone-duo"
+      ]
+    },
+    {
+      "id": "ringke-fusion-magnetic-hinge-film-2p-for-iphone-duo",
+      "reason": "Exact magnetic bundle page inspected; public product JSON unavailable. No verified matching magnetic Duo case-only or bundle gallery photo URL recovered.",
+      "checkedUrls": [
+        "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge",
+        "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge.json",
+        "https://www.ringkestore.com/collections/iphone-duo"
+      ]
+    },
+    {
+      "id": "jetech-vegan-leather-case-with-hinge-protection-for-iphone-duo",
+      "reason": "Exact source repeatedly timed out; manufacturer Duo tag index confirms the product but exposes no usable product photo link. Public WordPress product endpoint was unavailable. No other model substituted.",
+      "checkedUrls": [
+        "https://www.ijetech.com/product/iphone-duo-case-338533.html",
+        "https://www.ijetech.com/product-tag/iphone-duo-case/",
+        "https://www.ijetech.com/wp-json/wp/v2/product/338533"
+      ]
+    },
+    {
+      "id": "jetech-matte-case-with-hinge-protection-for-iphone-duo",
+      "reason": "Manufacturer links Amazon ASIN B0HJ2F46XB, whose raw source identifies the exact Duo Matte Black case and publishes full-size gallery URLs. Direct image fetch verification failed, so those are leads only, not accepted photo patches. The manufacturer generic Image link resolves to single-banner.jpg and was rejected as unproven product imagery.",
+      "checkedUrls": [
+        "https://www.ijetech.com/product/iphone-duo-case-338574.html",
+        "https://www.ijetech.com/product-tag/iphone-duo-case/",
+        "https://www.amazon.com/dp/B0HJ2F46XB",
+        "https://m.media-amazon.com/images/I/617pBLSaY1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41xySHIevXL._AC_.jpg"
+      ]
+    },
+    {
+      "id": "incipio-survivor-clear-for-magsafe-for-iphone-duo",
+      "reason": "Exact manufacturer product and alternate collection route inspected, SKU SVVRI1024-CLR. Galleries omit image URLs; public product JSON/JS could not be fetched. Image search mainly returns the unrelated Incipio Duo case family for older slab iPhones, which was rejected.",
+      "checkedUrls": [
+        "https://incipio.com/collections/iphone/products/svvri1024-bclr",
+        "https://incipio.com/products/svvri1024-bclr.json",
+        "https://incipio.com/products/svvri1024-bclr.js",
+        "https://incipio.com/collections/apple/products/svvri1024-bclr"
+      ]
+    },
+    {
+      "id": "cygnett-aeroshield-clear-for-iphone-duo",
+      "reason": "Search index retains exact AeroShield Duo SKU CY6124CPAEG but current product URL returned 404 or fetch failures; current Duo collection exposes only AeroMag gallery assets. Product JSON/JS unavailable. No verified CY6124 asset recovered; AeroMag photos were not substituted.",
+      "checkedUrls": [
+        "https://www.cygnett.com/products/aeroshield-slim-clear-case-for-iphone-foldable",
+        "https://www.cygnett.com/products/aeroshield-slim-clear-case-for-iphone-foldable.json",
+        "https://www.cygnett.com/products/aeroshield-slim-clear-case-for-iphone-foldable.js",
+        "https://www.cygnett.com/collections/iphone-duo-cases"
+      ]
+    }
+  ]
+}

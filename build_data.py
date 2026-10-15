@@ -6,6 +6,11 @@ inputs=[load(n) for n in ['main-a.json','main-b.json','main-c.json','additional-
 brand_data=load('brand-evidence.json')['brands']
 brand_map={b['brand']:b for b in brand_data}
 patches=load('image-patches.json')['patches']
+photo_by_id={}
+for name in ['photos-design.json','photos-utility.json','photos-parent.json']:
+ path=ROOT/'research'/name
+ if path.exists():
+  for patch in json.loads(path.read_text()).get('patches',[]):photo_by_id[patch['id']]=patch
 all_products=[]
 nulls=['price','currency','ukListing','hinge','magsafe','stand','wallet','strap','weightG','thicknessMm','thicknessNote','dimensions','closedWidthMm','closedDepthMm','releaseDate','releaseNote','image','shippingNote']
 valid_coverage={'front-and-back','back-only','front-only','folio','sleeve','unknown'}
@@ -59,9 +64,17 @@ for ds in inputs:
    p['sources']=[dict(url=p['url'],title=p['brand']+': '+p['name'],type='manufacturer',facts=facts)]
   p['url']=p.get('url') or p['sources'][0]['url']
   p['summary']=p.get('summary') or 'Public product listing. Check source for the selected configuration.'
+  if p['id']=='casetify-duo-waitlist':
+   continue
+  if p['id']=='qdos-duo-coming-soon':
+   p.update(name='Hybrid SNAP',url='https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear',price=34.99,currency='GBP',ukListing=True,status='sold-out',evidence='official',materials=['TPU','Polycarbonate'],materialNotes=['100% recycled TPU','100% recycled polycarbonate'],coverage='front-and-back',coverageNote='Two-piece front and back sections joined by a flexible TPU hinge.',hinge=True,magsafe=True,weightG=37,dimensions='83.25 × 16.5 × 11.80 mm; axis order and folded state are not identified by the source.',colours=['Clear'],summary='A clear two-piece recycled-plastic case with a flexible TPU hinge and built-in MagSafe ring.',releaseNote='Official listing was sold out when checked.',limitations=['The published dimensions do not identify axis order or folded state, so they are excluded from numeric size filters.','Two-metre drop protection and anti-yellowing are manufacturer claims, not independent Duo testing.'],sources=[dict(url='https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear',title='QDOS Hybrid SNAP for iPhone Duo',type='manufacturer',facts=['£34.99 including tax; sold out when checked.','Product code QDG-MS18U33-CL; 37 g; clear recycled TPU and polycarbonate.','Two-piece front/back design with flexible TPU hinge and N52 MagSafe ring.'])])
   for patch in patches:
    if patch['brand']==p['brand'] and patch['name']==original_name and not p['image']:
     p['image']=patch['image'];p['imageNote']='Manufacturer gallery and caption match; not independently photographed.'
+  if p['id'] in photo_by_id:
+   patch=photo_by_id[p['id']]
+   for key in ['image','images','imageSource','imageCaption','verificationNote']:
+    if patch.get(key) is not None:p['imageVerification' if key=='verificationNote' else key]=copy.deepcopy(patch[key])
   if p['brand']=='Ringke':
    p['strap']=True
    if 'Film' in p['name']:
@@ -78,7 +91,13 @@ for ds in inputs:
   if p['brand']=='Snakehive':p['coverage']='folio'
   if p['brand'] in ['Vaja','BlackBrook','Snakehive'] and 'Wallet' in original_name:p['wallet']=True
   if p['brand']=='PITAKA' and p['coverage']=='front-only':p['limitations'].insert(0,'This is an accessory component, not a complete case. Compare coverage before price or weight.')
-  if p['image']:p['limitations']=[x for x in p['limitations'] if 'product-image URL not recovered' not in x]
+  if p['image']:
+   p['limitations']=[x for x in p['limitations'] if 'product-image URL not recovered' not in x and 'image is null' not in x]
+   p.setdefault('imageSource',p['url'])
+   label=('Concept render' if p['status']=='concept' else 'Retailer product image' if p['evidence']=='retailer' else 'Source product image')
+   p.setdefault('imageCaption',f'{label}: {p["brand"]} {p["name"]}.')
+   p.setdefault('imageVerification','Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.')
+   p.setdefault('images',[dict(url=p['image'],caption=p['imageCaption'],sourceUrl=p['imageSource'])])
   if p['thicknessMm'] is not None and not p['thicknessNote']:p['thicknessNote']='Manufacturer-listed case profile; not total closed-device depth unless explicitly stated.'
   if p['price'] is not None and not p['currency']:raise ValueError('Price without currency: '+p['id'])
   all_products.append(p)
@@ -95,6 +114,8 @@ assert len({p['id'] for p in all_products})==len(all_products)
 for p in all_products:
  if p['id']=='thinborne-600d':p['sources'].append(dict(url='https://www.amazon.com/Thinborne-iPhone-Duo-Case-Unbelievably/dp/B0HKYGS4R4',title='Thinborne front-and-back listing',type='retailer',facts=['Title corroborates front-and-back configuration.']))
  if p['brand']=='Apple':p['sources'].append(dict(url='https://www.techradar.com/phones/phone-accessories/best-iphone-duo-cases',title='TechRadar: Apple colour options',type='announcement',facts=['Colour corroboration: '+', '.join(p['colours'])]))
+missing_photos=[p['id'] for p in all_products if not p.get('image')]
+if missing_photos:raise ValueError('Products without photographs: '+', '.join(missing_photos))
 registry={}
 for ds in inputs:
  for c in ds.get('coverage',[])+ds.get('unverified',[]):registry[c['brand']]=c
@@ -102,10 +123,11 @@ for brand in sorted({p['brand'] for p in all_products}):
  if brand not in registry:
   ps=[p for p in all_products if p['brand']==brand]
   registry[brand]=dict(brand=brand,status='verified-with-gaps',note=str(len(ps))+' public case designs or configurations located. Unpublished measurements and availability gaps are retained in each product file.',sourceUrls=list(dict.fromkeys(p['url'] for p in ps)))
-meta=dict(checkedAt='2026-10-15',device='iPhone Duo',deviceUrl='https://www.apple.com/uk/iphone-duo/',preorderDate='2026-10-16',releaseDate='2026-10-23',coverageNote='A dated index of publicly discoverable cases, configurations, waitlists and concepts. Decorative finishes are grouped where they share a design. Unannounced products, unindexed sellers and later changes cannot be guaranteed. The coverage registry records searched brands and gaps; no automated monitoring is running.')
+registry['QDOS']=dict(brand='QDOS',status='verified-with-gaps',note='Hybrid SNAP is verified as a named Duo case. Availability, price and specifications are recorded in its product file.',sourceUrls=['https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear'])
+meta=dict(checkedAt='2026-10-15',device='iPhone Duo',deviceUrl='https://www.apple.com/uk/iphone-duo/',preorderDate='2026-10-16',releaseDate='2026-10-23',coverageNote='A dated index of publicly discoverable case designs, configurations and source-published concepts. Every product entry has a provenance-linked visual. Unnamed waitlists remain in the coverage registry rather than appearing as products. Decorative finishes are grouped where they share a design. Unannounced products, unindexed sellers and later changes cannot be guaranteed. No automatic monitoring is running.')
 data=dict(meta=meta,products=all_products,brands=brand_data,coverage=sorted(registry.values(),key=lambda x:x['brand'].lower()))
 text=json.dumps(data,ensure_ascii=False,indent=2).replace('\u2014',', ')
 (ROOT/'web'/'data.js').write_text('window.CASEBOOK = '+text+';\n')
 (ROOT/'web'/'catalogue.json').write_text(text+'\n')
-(ROOT/'research'/'catalogue-summary.json').write_text(json.dumps(dict(records=len(all_products),brands=len({p['brand'] for p in all_products}),registry=len(registry),images=sum(bool(p['image']) for p in all_products),weightPublished=sum(p['weightG'] is not None for p in all_products),pricePublished=sum(p['price'] is not None for p in all_products)),indent=2))
+(ROOT/'research'/'catalogue-summary.json').write_text(json.dumps(dict(records=len(all_products),brands=len({p['brand'] for p in all_products}),registry=len(registry),images=sum(bool(p['image']) for p in all_products),galleryImages=sum(len(p.get('images') or []) for p in all_products),imageComplete=all(bool(p.get('image')) for p in all_products),weightPublished=sum(p['weightG'] is not None for p in all_products),pricePublished=sum(p['price'] is not None for p in all_products)),indent=2))
 print((ROOT/'research'/'catalogue-summary.json').read_text())

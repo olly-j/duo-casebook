@@ -1,0 +1,41 @@
+{
+  "target": "local static app",
+  "results": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "cards": 92,
+      "products": 92,
+      "title": "CASEBOOK · iPhone Duo case library"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "cards": 92,
+      "products": 92,
+      "title": "CASEBOOK · iPhone Duo case library"
+    },
+    {
+      "width": 430,
+      "scrollWidth": 430,
+      "cards": 92,
+      "products": 92,
+      "title": "CASEBOOK · iPhone Duo case library"
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "cards": 92,
+      "products": 92,
+      "title": "CASEBOOK · iPhone Duo case library"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "cards": 92,
+      "products": 92,
+      "title": "CASEBOOK · iPhone Duo case library"
+    }
+  ],
+  "errors": []
+}

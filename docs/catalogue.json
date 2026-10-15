@@ -5,7 +5,7 @@
     "deviceUrl": "https://www.apple.com/uk/iphone-duo/",
     "preorderDate": "2026-10-16",
     "releaseDate": "2026-10-23",
-    "coverageNote": "A dated index of publicly discoverable cases, configurations, waitlists and concepts. Decorative finishes are grouped where they share a design. Unannounced products, unindexed sellers and later changes cannot be guaranteed. The coverage registry records searched brands and gaps; no automated monitoring is running."
+    "coverageNote": "A dated index of publicly discoverable case designs, configurations and source-published concepts. Every product entry has a provenance-linked visual. Unnamed waitlists remain in the coverage registry rather than appearing as products. Decorative finishes are grouped where they share a design. Unannounced products, unindexed sellers and later changes cannot be guaranteed. No automatic monitoring is running."
   },
   "products": [
     {
@@ -69,7 +69,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.apple.com/uk/shop/product/mkr94zm/a/iphone-duo-case-sand",
+      "imageCaption": "Source product image: Apple Duo Case.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR94?fmt=jpeg&hei=800&wid=800",
+          "caption": "Source product image: Apple Duo Case.",
+          "sourceUrl": "https://www.apple.com/uk/shop/product/mkr94zm/a/iphone-duo-case-sand"
+        }
+      ]
     },
     {
       "id": "apple-folio",
@@ -133,7 +143,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.apple.com/uk/shop/product/mkr64zm/a/iphone-duo-folio-with-kickstand-taupe",
+      "imageCaption": "Source product image: Apple Folio with Kickstand.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MKR64?fmt=jpeg&hei=800&wid=800",
+          "caption": "Source product image: Apple Folio with Kickstand.",
+          "sourceUrl": "https://www.apple.com/uk/shop/product/mkr64zm/a/iphone-duo-folio-with-kickstand-taupe"
+        }
+      ]
     },
     {
       "id": "esr-atelier",
@@ -199,7 +219,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://uk.esrtech.com/products/black-leather-foldable-iphone-duo-camera-control-stand-case",
+      "imageCaption": "Source product image: ESR Atelier Silicone Leather with Flex Stand.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://uk.esrtech.com/cdn/shop/files/iPhone-Duo-Atelier-Silicone-Leather-Magnetic-Case-with-Flex-Stand-Black-ESR-243590662.jpg?v=1790653010&width=800",
+          "caption": "Source product image: ESR Atelier Silicone Leather with Flex Stand.",
+          "sourceUrl": "https://uk.esrtech.com/products/black-leather-foldable-iphone-duo-camera-control-stand-case"
+        }
+      ]
     },
     {
       "id": "uag-mouve-xte",
@@ -259,7 +289,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.urbanarmorgear.com/products/mouve-xte-iphone-duo-case/?device=iphone-duo",
+      "imageCaption": "Source product image: UAG Mouve XTE.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/9hslf09drsil/2h6BpVcMuyR2BtPNJeZ7kR/8d4b974d37767d1071b5f556f3912a6a/UAG_HS_APPLE_IPHONE-FOLD-2026-JACK_MOUVE-XTE_ASH_STD_01.png?fm=webp&q=80&w=800",
+          "caption": "Source product image: UAG Mouve XTE.",
+          "sourceUrl": "https://www.urbanarmorgear.com/products/mouve-xte-iphone-duo-case/?device=iphone-duo"
+        }
+      ]
     },
     {
       "id": "thinborne-600d",
@@ -326,7 +366,17 @@
       "status": "listed",
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://thinborne.com/collections/iphone-duo-case",
+      "imageCaption": "Source product image: Thinborne Super Thin 600D Aramid.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0707/8684/2905/files/iphone_duo_case_8f5b9c8f-2663-47a9-8d31-8419dd233a9a.jpg?v=1790485996",
+          "caption": "Source product image: Thinborne Super Thin 600D Aramid.",
+          "sourceUrl": "https://thinborne.com/collections/iphone-duo-case"
+        }
+      ]
     },
     {
       "id": "pitaka-edge-back",
@@ -388,7 +438,17 @@
       "status": "listed",
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.ipitaka.com/products/classic-phone-cases?variant=46510884618310",
+      "imageCaption": "Source product image: PITAKA Edge · Back Case Only.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1036/4113/files/18Ultra-black-grey-edge-03.png?v=1788943614",
+          "caption": "Source product image: PITAKA Edge · Back Case Only.",
+          "sourceUrl": "https://www.ipitaka.com/products/classic-phone-cases?variant=46510884618310"
+        }
+      ]
     },
     {
       "id": "pitaka-edge-front",
@@ -449,7 +509,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.ipitaka.com/products/sunset-moonrise-phone-cases?variant=46571169448006",
+      "imageCaption": "Source product image: PITAKA Edge · Front Case with Glass.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1036/4113/files/iPhone-Duo-Sunset-edge-Front-glass-only-01.png?v=1789444318",
+          "caption": "Source product image: PITAKA Edge · Front Case with Glass.",
+          "sourceUrl": "https://www.ipitaka.com/products/sunset-moonrise-phone-cases?variant=46571169448006"
+        }
+      ]
     },
     {
       "id": "pitaka-edge-suite",
@@ -510,7 +580,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.ipitaka.com/products/sunset-moonrise-phone-cases?variant=46571169644614",
+      "imageCaption": "Source product image: PITAKA Edge · Suite without Hinge.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1036/4113/files/iPhone18Case-2_6ab8d7ec-1c86-4975-95cb-fa56f2581667.png?v=1789962977",
+          "caption": "Source product image: PITAKA Edge · Suite without Hinge.",
+          "sourceUrl": "https://www.ipitaka.com/products/sunset-moonrise-phone-cases?variant=46571169644614"
+        }
+      ]
     },
     {
       "id": "mous-limitless-hinge",
@@ -581,7 +661,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://uk.mous.co/products/limitless-magnetic-compatible-phone-case-aramid_fibre?variant=64500704182649",
+      "imageCaption": "Source product image: Mous Limitless · AiroShock Hinge Guard.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://uk.mous.co/cdn/shop/files/i18_CRANE_Gallery_09_Aramid.jpg?v=1788953169&width=800",
+          "caption": "Source product image: Mous Limitless · AiroShock Hinge Guard.",
+          "sourceUrl": "https://uk.mous.co/products/limitless-magnetic-compatible-phone-case-aramid_fibre?variant=64500704182649"
+        }
+      ]
     },
     {
       "id": "mous-limitless-free",
@@ -652,7 +742,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://uk.mous.co/products/limitless-phone-case-aramid-fibre?variant=64516589388153",
+      "imageCaption": "Source product image: Mous Limitless · Hinge Free.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://uk.mous.co/cdn/shop/files/i18_CRANE_No_Hinge_Gallery_07_Aramid.jpg?v=1788953177&width=800",
+          "caption": "Source product image: Mous Limitless · Hinge Free.",
+          "sourceUrl": "https://uk.mous.co/products/limitless-phone-case-aramid-fibre?variant=64516589388153"
+        }
+      ]
     },
     {
       "id": "mous-ultra-thin",
@@ -711,7 +811,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://uk.mous.co/products/ultra-thin-magsafe-compatible-phone-case-aramid_fibre?variant=64500703003001",
+      "imageCaption": "Source product image: Mous Ultra Thin Aramid.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://scdn.speedsize.com/19464703-36eb-4c15-80b7-604735fdf8c8/uk.mous.co/cdn/shop/files/i18_Fold_Ultra_Thin_06_Gallery.jpg?v=1788953152&width=650",
+          "caption": "Source product image: Mous Ultra Thin Aramid.",
+          "sourceUrl": "https://uk.mous.co/products/ultra-thin-magsafe-compatible-phone-case-aramid_fibre?variant=64500703003001"
+        }
+      ]
     },
     {
       "id": "dbrand-grip",
@@ -813,7 +923,7 @@
       "closedDepthMm": null,
       "releaseDate": null,
       "releaseNote": null,
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/0733/5867/2170/files/f0afc406-aab6-48ab-bf05-da28d1407066_62f7bedf-abbf-4b81-aae5-45925bc7cf45.jpg?v=1788905551",
       "sources": [
         {
           "url": "https://dbrand.com/shop/grip/iphone-duo-cases",
@@ -832,7 +942,17 @@
       "status": "listed",
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0733/5867/2170/files/f0afc406-aab6-48ab-bf05-da28d1407066_62f7bedf-abbf-4b81-aae5-45925bc7cf45.jpg?v=1788905551",
+          "caption": "Grip for iPhone Duo ,  patterned rear view (manufacturer product image).",
+          "sourceUrl": "https://dbrand.com/shop/grip/iphone-duo-cases"
+        }
+      ],
+      "imageSource": "https://dbrand.com/shop/grip/iphone-duo-cases",
+      "imageCaption": "Grip for iPhone Duo ,  patterned rear view (manufacturer product image).",
+      "imageVerification": "Exact current Duo manufacturer page is the image-search source for this asset; indexed image description identifies a dual-camera rear and folding hinge bumper. Direct asset URL opened successfully. The ordinary parsed page exposes only generic CDN image links, so this is search-index provenance rather than a raw product-JSON binding. Main should visually confirm before integration; no independent pixel inspection was possible here."
     },
     {
       "brand": "Benks",
@@ -890,7 +1010,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.benks.com/products/grand-combo-armorgrid-air-beyond-blue-case-built-with-kevlar-for-iphone-duo",
+      "imageCaption": "Source product image: Benks ArmorGrid Air Grand Combo.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.benks.com/cdn/shop/files/Grand_Combo_ArmorGrid_Air_Beyond_Blue_Case_built_with_Kevlar_for_iPhone_Duo_4.png?v=1789120147&width=1000",
+          "caption": "Source product image: Benks ArmorGrid Air Grand Combo.",
+          "sourceUrl": "https://www.benks.com/products/grand-combo-armorgrid-air-beyond-blue-case-built-with-kevlar-for-iphone-duo"
+        }
+      ]
     },
     {
       "brand": "Benks",
@@ -953,7 +1083,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.benks.com/products/grand-combo-crystal-phone-case-for-iphone-duo",
+      "imageCaption": "Source product image: Benks Crystal Grand Combo.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.benks.com/cdn/shop/files/Grand_Combo_Crystal_Phone_Case_for_iPhone_Duo_5.png?v=1789526286&width=1000",
+          "caption": "Source product image: Benks Crystal Grand Combo.",
+          "sourceUrl": "https://www.benks.com/products/grand-combo-crystal-phone-case-for-iphone-duo"
+        }
+      ]
     },
     {
       "brand": "Latercase",
@@ -1010,7 +1150,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://latercase.com/products/iphone-duo-maglock-case",
+      "imageCaption": "Source product image: Latercase MagLock Case.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://cdn.accentuate.io/45665674166358/1788959153691/iPhone-Ultra---Classic---Back.png?v=1788959153692",
+          "caption": "Source product image: Latercase MagLock Case.",
+          "sourceUrl": "https://latercase.com/products/iphone-duo-maglock-case"
+        }
+      ]
     },
     {
       "brand": "Ringke",
@@ -1037,10 +1187,9 @@
       ],
       "summary": "Duo-specific clear hybrid case with dual strap holes.",
       "limitations": [
-        "Text does not establish rigid hinge coverage or exact front/back coverage.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Text does not establish rigid hinge coverage or exact front/back coverage."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Main.jpg?v=1791378072",
       "sources": [
         {
           "url": "https://www.ringkestore.com/products/iphone-duo-fusion",
@@ -1066,7 +1215,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Main.jpg?v=1791378072",
+          "caption": "Ringke Fusion for iPhone Duo, clear",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Main4.jpg?v=1791985667",
+          "caption": "Ringke Fusion for iPhone Duo, clear View 2.",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Sub.jpg?v=1791985716",
+          "caption": "Ringke Fusion for iPhone Duo, clear View 3.",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion"
+        }
+      ],
+      "imageSource": "https://www.ringkestore.com/products/iphone-duo-fusion",
+      "imageCaption": "Ringke Fusion for iPhone Duo, clear",
+      "imageVerification": "Exact current product page and public product JSON; visually inspected in the CASEBOOK contact sheet."
     },
     {
       "brand": "Ringke",
@@ -1096,10 +1265,9 @@
       "limitations": [
         "Includes a flexible hinge film, not a structural hinge guard. Excluded from the protective hinge-cover filter.",
         "Price is the collection's 'from' price for the hinge bundle. Product page defaults to a higher-priced hinge-and-camera bundle.",
-        "Exact case front/back coverage is not established in extracted text.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Exact case front/back coverage is not established in extracted text."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION_HINGE_CLFG.jpg?v=1791385974",
       "sources": [
         {
           "url": "https://www.ringkestore.com/products/iphone-duo-fusion-hinge",
@@ -1136,6 +1304,26 @@
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
       "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION_HINGE_CLFG.jpg?v=1791385974",
+          "caption": "Ringke Fusion with two hinge films; case and included film shown",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-hinge"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION_HINGE.jpg?v=1791385980",
+          "caption": "Ringke Fusion with two hinge films; case and included film shown View 2.",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-hinge"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION_CLFG.jpg?v=1791385987",
+          "caption": "Ringke Fusion with two hinge films; case and included film shown View 3.",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-hinge"
+        }
+      ],
+      "imageSource": "https://www.ringkestore.com/products/iphone-duo-fusion-hinge",
+      "imageCaption": "Ringke Fusion with two hinge films; case and included film shown",
+      "imageVerification": "Exact current product page and public product JSON; visually inspected in the CASEBOOK contact sheet.",
       "priceFrom": true
     },
     {
@@ -1163,10 +1351,9 @@
       ],
       "summary": "Duo-specific clear hybrid case with dual strap holes.",
       "limitations": [
-        "Text does not establish rigid hinge coverage or exact front/back coverage.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Text does not establish rigid hinge coverage or exact front/back coverage."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Main_32da619a-ec44-4c17-a8bb-599c8d49a255.jpg?v=1791378117",
       "sources": [
         {
           "url": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic",
@@ -1192,7 +1379,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Main_32da619a-ec44-4c17-a8bb-599c8d49a255.jpg?v=1791378117",
+          "caption": "Ringke Fusion Magnetic for iPhone Duo, clear",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_CL_Main4_e6c51075-877c-4a53-905e-e5f059989bb5.jpg?v=1791985793",
+          "caption": "Ringke Fusion Magnetic for iPhone Duo, clear View 2.",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/IPD_FUS_MGNT_Sub.jpg?v=1791985831",
+          "caption": "Ringke Fusion Magnetic for iPhone Duo, clear View 3.",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic"
+        }
+      ],
+      "imageSource": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic",
+      "imageCaption": "Ringke Fusion Magnetic for iPhone Duo, clear",
+      "imageVerification": "Exact current product page and public product JSON; visually inspected in the CASEBOOK contact sheet."
     },
     {
       "brand": "Ringke",
@@ -1222,10 +1429,9 @@
       "limitations": [
         "Includes a flexible hinge film, not a structural hinge guard. Excluded from the protective hinge-cover filter.",
         "Price is the collection's 'from' price for the hinge bundle. Product page defaults to a higher-priced hinge-and-camera bundle.",
-        "Exact case front/back coverage is not established in extracted text.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Exact case front/back coverage is not established in extracted text."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION_HINGE_CLFG_202539e5-6af0-438b-b096-acb25061e808.jpg?v=1791386001",
       "sources": [
         {
           "url": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge",
@@ -1262,6 +1468,26 @@
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
       "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION_HINGE_CLFG_202539e5-6af0-438b-b096-acb25061e808.jpg?v=1791386001",
+          "caption": "Ringke Fusion Magnetic with two hinge films; case and included film shown",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION-MAG_HINGE.jpg?v=1791386007",
+          "caption": "Ringke Fusion Magnetic with two hinge films; case and included film shown View 2.",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1352/5175/files/DUO_FUSION-MAG_CLFG.jpg?v=1791386012",
+          "caption": "Ringke Fusion Magnetic with two hinge films; case and included film shown View 3.",
+          "sourceUrl": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge"
+        }
+      ],
+      "imageSource": "https://www.ringkestore.com/products/iphone-duo-fusion-magnetic-hinge",
+      "imageCaption": "Ringke Fusion Magnetic with two hinge films; case and included film shown",
+      "imageVerification": "Exact current product page and public product JSON; visually inspected in the CASEBOOK contact sheet.",
       "priceFrom": true
     },
     {
@@ -1317,7 +1543,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://supcase.com/collections/iphone-cases/products/iphone-duo-ub-grip-magsafe-phone-case",
+      "imageCaption": "Source product image: SUPCASE UB Grip MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://supcase.com/cdn/shop/files/SUPCASE_APPLE_iPhoneFold_UBGrip_Rugged_phone_case_Black_1.webp?v=1789929375",
+          "caption": "Source product image: SUPCASE UB Grip MagSafe.",
+          "sourceUrl": "https://supcase.com/collections/iphone-cases/products/iphone-duo-ub-grip-magsafe-phone-case"
+        }
+      ]
     },
     {
       "brand": "Poetic",
@@ -1367,7 +1603,17 @@
       "evidence": "official",
       "brandEvidence": "not-established",
       "checkedAt": "2026-10-15",
-      "imageNote": "Manufacturer gallery and caption match; not independently photographed."
+      "imageNote": "Manufacturer gallery and caption match; not independently photographed.",
+      "imageSource": "https://www.poeticcases.com/products/apple-iphone-18-ultra",
+      "imageCaption": "Source product image: Poetic Spartan MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.poeticcases.com/cdn/shop/files/iPhone-Fold-Ultra-Spartan-A-Clear.jpg?v=1788931370&width=416",
+          "caption": "Source product image: Poetic Spartan MagSafe.",
+          "sourceUrl": "https://www.poeticcases.com/products/apple-iphone-18-ultra"
+        }
+      ]
     },
     {
       "brand": "Nillkin",
@@ -1420,7 +1666,17 @@
       "materialNotes": [],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.nillkin.com/en-gb/products/magsafe%C2%AE-compatible-super-frosted-shield-fold-case-for-iphone-duo",
+      "imageCaption": "Source product image: Nillkin Super Frosted Shield Fold MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.nillkin.com/cdn/shop/files/MagSafe-Compatible-Super-Frosted-Shield-Fold-Case-for-iPhone-Duo-black_1.jpg?v=1789098531&width=800",
+          "caption": "Source product image: Nillkin Super Frosted Shield Fold MagSafe.",
+          "sourceUrl": "https://www.nillkin.com/en-gb/products/magsafe%C2%AE-compatible-super-frosted-shield-fold-case-for-iphone-duo"
+        }
+      ]
     },
     {
       "brand": "Nillkin",
@@ -1476,7 +1732,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.nillkin.com/en-gb/products/magsafe%C2%AE-compatible-iceblade-camprop-case-with-transparent-camera-cover-for-iphone-duo",
+      "imageCaption": "Source product image: Nillkin Iceblade CamProp MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.nillkin.com/cdn/shop/files/MagSafe-Compatible-Iceblade-CamProp-Case-with-Transparent-Camera-Cover-for-iPhone-Duo-black_1.jpg?v=1790129127&width=1600",
+          "caption": "Source product image: Nillkin Iceblade CamProp MagSafe.",
+          "sourceUrl": "https://www.nillkin.com/en-gb/products/magsafe%C2%AE-compatible-iceblade-camprop-case-with-transparent-camera-cover-for-iphone-duo"
+        }
+      ]
     },
     {
       "brand": "JETech",
@@ -1504,10 +1770,9 @@
       ],
       "summary": "Magnetic hinge cover and MagSafe back, with Camera Control button, two glass protectors and an alignment tool.",
       "limitations": [
-        "Front frame uses adhesive strips; four spare strips supplied.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Front frame uses adhesive strips; four spare strips supplied."
       ],
-      "image": null,
+      "image": "https://www.ijetech.com/wp-content/uploads/2026/09/71ArhK3SyaL._SS1500_5913-CS_1.jpg",
       "sources": [
         {
           "url": "https://www.ijetech.com/product/iphone-duo-case-338534.html",
@@ -1535,7 +1800,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71ArhK3SyaL._SS1500_5913-CS_1.jpg",
+          "caption": "JETech Clear Case with Hinge Protection",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338534.html"
+        },
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71qgKLJ6bML._SS1500_5913-CS_2-800x800.jpg",
+          "caption": "JETech Clear Case with Hinge Protection View 2.",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338534.html"
+        },
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71hQg9C3ypL._SS1500_5913-CS_4-800x800.jpg",
+          "caption": "JETech Clear Case with Hinge Protection View 3.",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338534.html"
+        }
+      ],
+      "imageSource": "https://www.ijetech.com/product/iphone-duo-case-338534.html",
+      "imageCaption": "JETech Clear Case with Hinge Protection",
+      "imageVerification": "Exact current manufacturer page, matching alt text and visually inspected product configuration."
     },
     {
       "brand": "JETech",
@@ -1564,10 +1849,9 @@
       ],
       "summary": "PU-covered PC back shell with hinge protection and built-in MagSafe magnets.",
       "limitations": [
-        "Manufacturer explicitly excludes a front cover and screen protector.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Manufacturer explicitly excludes a front cover and screen protector."
       ],
-      "image": null,
+      "image": "https://www.ijetech.com/wp-content/uploads/2026/09/81DvIKq4LbL._SS1500_5911-CS_1-800x800.jpg",
       "sources": [
         {
           "url": "https://www.ijetech.com/product/iphone-duo-case-338533.html",
@@ -1595,7 +1879,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/81DvIKq4LbL._SS1500_5911-CS_1-800x800.jpg",
+          "caption": "JETech Vegan Leather Case with Hinge Protection",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338533.html"
+        },
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71FaMcWIlL._SS1500_5911-CS_2-800x800.jpg",
+          "caption": "JETech Vegan Leather Case with Hinge Protection View 2.",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338533.html"
+        },
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71mKMqbZBKL._SS1500_5911-CS_4-800x800.jpg",
+          "caption": "JETech Vegan Leather Case with Hinge Protection View 3.",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338533.html"
+        }
+      ],
+      "imageSource": "https://www.ijetech.com/product/iphone-duo-case-338533.html",
+      "imageCaption": "JETech Vegan Leather Case with Hinge Protection",
+      "imageVerification": "Exact current manufacturer page, matching alt text and visually inspected product configuration."
     },
     {
       "brand": "JETech",
@@ -1621,10 +1925,9 @@
       "summary": "Matte version with magnetic hinge cover, Camera Control button, MagSafe magnets and two screen protectors.",
       "limitations": [
         "Page heading and description use placeholder 'iPhone NEW'; Duo appears in URL, category and shop listing.",
-        "Out of stock on product page.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Out of stock on product page."
       ],
-      "image": null,
+      "image": "https://www.ijetech.com/wp-content/uploads/2026/09/617pBLSaY1L._SS1500_5913A-CS_1.jpg",
       "sources": [
         {
           "url": "https://www.ijetech.com/product/iphone-duo-case-338574.html",
@@ -1651,7 +1954,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/617pBLSaY1L._SS1500_5913A-CS_1.jpg",
+          "caption": "JETech Matte Case with Hinge Protection",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338574.html"
+        },
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71Jy36-o60L._SS1500_5913A-CS_2-800x800.jpg",
+          "caption": "JETech Matte Case with Hinge Protection View 2.",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338574.html"
+        },
+        {
+          "url": "https://www.ijetech.com/wp-content/uploads/2026/09/71XX4NZQ5ML._SS1500_5913A-CS_4-800x800.jpg",
+          "caption": "JETech Matte Case with Hinge Protection View 3.",
+          "sourceUrl": "https://www.ijetech.com/product/iphone-duo-case-338574.html"
+        }
+      ],
+      "imageSource": "https://www.ijetech.com/product/iphone-duo-case-338574.html",
+      "imageCaption": "JETech Matte Case with Hinge Protection",
+      "imageVerification": "Exact current manufacturer page, matching alt text and visually inspected product configuration."
     },
     {
       "brand": "FNTCASE",
@@ -1708,7 +2031,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://fntcase.com/products/iphone-duo-case-full-hinge-protection-magsafe-heavy-duty-rugged-shockproof-anti-scratch-protective-clear-phone-cover",
+      "imageCaption": "Source product image: FNTCASE Full Hinge Protection Clear.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://fntcase.com/cdn/shop/files/1_f64fc621-3c70-4fac-8dfc-c7d5758ac3d0.jpg?v=1791619965",
+          "caption": "Source product image: FNTCASE Full Hinge Protection Clear.",
+          "sourceUrl": "https://fntcase.com/products/iphone-duo-case-full-hinge-protection-magsafe-heavy-duty-rugged-shockproof-anti-scratch-protective-clear-phone-cover"
+        }
+      ]
     },
     {
       "brand": "FNTCASE",
@@ -1760,7 +2093,17 @@
       "materialNotes": [],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://fntcase.com/products/iphone-duo-phone-case-with-kickstand-hinge-protection-shockproof",
+      "imageCaption": "Source product image: FNTCASE Kickstand Hinge Protection.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://fntcase.com/cdn/shop/files/1-_1_7bc141f2-c808-497d-81b6-3959e4f3ba4d.jpg?v=1789371604",
+          "caption": "Source product image: FNTCASE Kickstand Hinge Protection.",
+          "sourceUrl": "https://fntcase.com/products/iphone-duo-phone-case-with-kickstand-hinge-protection-shockproof"
+        }
+      ]
     },
     {
       "brand": "FNTCASE",
@@ -1824,7 +2167,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://fntcase.com/products/iphone-ultra-phone-case-magnetic-charging-shockproof-magsafe-support-frosted-oil-spray-touch",
+      "imageCaption": "Source product image: FNTCASE Frosted Oil Spray Touch Magnetic.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://fntcase.com/cdn/shop/files/1_26749628-afcc-4cf1-81b6-1114584eff1c.jpg?v=1789369746",
+          "caption": "Source product image: FNTCASE Frosted Oil Spray Touch Magnetic.",
+          "sourceUrl": "https://fntcase.com/products/iphone-ultra-phone-case-magnetic-charging-shockproof-magsafe-support-frosted-oil-spray-touch"
+        }
+      ]
     },
     {
       "brand": "FNTCASE",
@@ -1890,7 +2243,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://fntcase.com/products/iphone-ultra-2026-case-360-spin-magnetic-stand-translucent-matte-military-grade-shockproof",
+      "imageCaption": "Source product image: FNTCASE 360 Spin Magnetic Stand.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://fntcase.com/cdn/shop/files/1_947faa53-7791-45b5-86d3-7c4611f09f62.jpg?v=1788773955",
+          "caption": "Source product image: FNTCASE 360 Spin Magnetic Stand.",
+          "sourceUrl": "https://fntcase.com/products/iphone-ultra-2026-case-360-spin-magnetic-stand-translucent-matte-military-grade-shockproof"
+        }
+      ]
     },
     {
       "brand": "FNTCASE",
@@ -1946,7 +2309,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://fntcase.com/products/iphone-ultra-2026-clear-case-magnetic-charging-shockproof-magsafe-support",
+      "imageCaption": "Source product image: FNTCASE Clear Magnetic.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://fntcase.com/cdn/shop/files/1.1_797d1cf8-3103-48b2-a3e9-e5967d3b4804.jpg?v=1789192083",
+          "caption": "Source product image: FNTCASE Clear Magnetic.",
+          "sourceUrl": "https://fntcase.com/products/iphone-ultra-2026-clear-case-magnetic-charging-shockproof-magsafe-support"
+        }
+      ]
     },
     {
       "brand": "FNTCASE",
@@ -2004,7 +2377,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://fntcase.com/products/iphone-18-ultra-2026-with-hinge-protection-magnetic-rugged-case-featuring-ring-kickstand-military-grade-protection",
+      "imageCaption": "Source product image: FNTCASE Translucent Magnetic Rugged Ring Kickstand with Hinge Protection.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://fntcase.com/cdn/shop/files/iPhone18-ultra-fold-2026-phone-case-with-ring-kickstand-01.jpg?v=1787996585",
+          "caption": "Source product image: FNTCASE Translucent Magnetic Rugged Ring Kickstand with Hinge Protection.",
+          "sourceUrl": "https://fntcase.com/products/iphone-18-ultra-2026-with-hinge-protection-magnetic-rugged-case-featuring-ring-kickstand-military-grade-protection"
+        }
+      ]
     },
     {
       "brand": "Tech21",
@@ -2059,7 +2442,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.tech21.com/products/evoclear-magsafe-apple-iphone-duo-case-clear",
+      "imageCaption": "Source product image: Tech21 EvoClear MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.tech21.com/cdn/shop/files/T21-11730_AP1043_EvoClearMS_Clear_01_SF_D_WEB_7cdfa6db-0919-4072-916e-d4428dabed76.jpg?v=1789238349&width=180",
+          "caption": "Source product image: Tech21 EvoClear MagSafe.",
+          "sourceUrl": "https://www.tech21.com/products/evoclear-magsafe-apple-iphone-duo-case-clear"
+        }
+      ]
     },
     {
       "brand": "Speck",
@@ -2111,7 +2504,17 @@
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
       "checkedAt": "2026-10-15",
-      "imageNote": "Manufacturer gallery and caption match; not independently photographed."
+      "imageNote": "Manufacturer gallery and caption match; not independently photographed.",
+      "imageSource": "https://speckproducts.com/collections/all-brands/products/presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case",
+      "imageCaption": "Source product image: Speck Presidio Perfect-Clear Fold MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://speckproducts.com/cdn/shop/files/speck-presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case-iphone-duo-clear-silver-151119-5085-phone-case-1258618883_400x.jpg?v=1789246567",
+          "caption": "Source product image: Speck Presidio Perfect-Clear Fold MagSafe.",
+          "sourceUrl": "https://speckproducts.com/collections/all-brands/products/presidio-perfect-clear-fold-magsafe-apple-iphone-duo-case"
+        }
+      ]
     },
     {
       "brand": "Speck",
@@ -2163,7 +2566,17 @@
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
       "checkedAt": "2026-10-15",
-      "imageNote": "Manufacturer gallery and caption match; not independently photographed."
+      "imageNote": "Manufacturer gallery and caption match; not independently photographed.",
+      "imageSource": "https://speckproducts.com/collections/all-brands/products/presidio-lux-fold-magsafe-apple-iphone-duo-case",
+      "imageCaption": "Source product image: Speck Presidio Lux Fold MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://speckproducts.com/cdn/shop/files/speck-presidio-lux-fold-magsafe-apple-iphone-duo-case-iphone-duo-obsidian-tint-black-151120-9984-phone-case-1258618886_400x.jpg?v=1789246268",
+          "caption": "Source product image: Speck Presidio Lux Fold MagSafe.",
+          "sourceUrl": "https://speckproducts.com/collections/all-brands/products/presidio-lux-fold-magsafe-apple-iphone-duo-case"
+        }
+      ]
     },
     {
       "brand": "ZAGG",
@@ -2188,10 +2601,8 @@
         "Black"
       ],
       "summary": "Multi-layer case with reinforced bumpers, hinge coverage and an integrated portrait/landscape kickstand.",
-      "limitations": [
-        "Direct manufacturer product-image URL not recovered in this pass."
-      ],
-      "image": null,
+      "limitations": [],
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b5fdc1a4-7771-4d1c-8dd2-d356a0b921c9.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
       "sources": [
         {
           "url": "https://www.zagg.com/sedona-stand-iphone-duo",
@@ -2217,7 +2628,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b5fdc1a4-7771-4d1c-8dd2-d356a0b921c9.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
+          "caption": "Sedona for MagSafe with stand ,  Black; retailer product view.",
+          "sourceUrl": "https://www.bestbuy.com/product/zagg-sedona-snap-magsafe-compatible-case-with-kickstand-for-apple-iphone-duo-black/J39T3VP8V4"
+        },
+        {
+          "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/ae0eea5a-ae95-4ff1-8d55-1b3c6eed6dde.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
+          "caption": "Sedona ,  retailer gallery illustration of the integrated kickstand.",
+          "sourceUrl": "https://www.bestbuy.com/product/zagg-sedona-snap-magsafe-compatible-case-with-kickstand-for-apple-iphone-duo-black/J39T3VP8V4"
+        },
+        {
+          "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/546fb733-d506-4a21-82c7-86c6fc972673.jpg%3BmaxHeight%3D1920%3BmaxWidth%3D900?format=webp",
+          "caption": "Sedona ,  retailer gallery illustration of magnetic charging compatibility.",
+          "sourceUrl": "https://www.bestbuy.com/product/zagg-sedona-snap-magsafe-compatible-case-with-kickstand-for-apple-iphone-duo-black/J39T3VP8V4"
+        }
+      ],
+      "imageSource": "https://www.bestbuy.com/product/zagg-sedona-snap-magsafe-compatible-case-with-kickstand-for-apple-iphone-duo-black/J39T3VP8V4",
+      "imageCaption": "Sedona for MagSafe with stand ,  Black; retailer product view.",
+      "imageVerification": "Best Buy exact Duo product gallery, model 702322558 / SKU 6684407; manufacturer source https://www.zagg.com/sedona-stand-iphone-duo independently identifies SKU 702322558. Full-size gallery links (not inferred transformations) opened successfully. Captions follow gallery alt text; final browser pixel review remains with main."
     },
     {
       "brand": "Case-Mate",
@@ -2286,7 +2717,17 @@
       "evidence": "official",
       "brandEvidence": "not-established",
       "checkedAt": "2026-10-15",
-      "imageNote": "Manufacturer gallery and caption match; not independently photographed."
+      "imageNote": "Manufacturer gallery and caption match; not independently photographed.",
+      "imageSource": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "imageCaption": "Source product image: Case-Mate Floral Gems MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://case-mate.com/cdn/shop/files/CM061216-0190_1000x1000.jpg?v=1788275698",
+          "caption": "Source product image: Case-Mate Floral Gems MagSafe.",
+          "sourceUrl": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640"
+        }
+      ]
     },
     {
       "brand": "Case-Mate",
@@ -2338,7 +2779,17 @@
       "evidence": "official",
       "brandEvidence": "not-established",
       "checkedAt": "2026-10-15",
-      "imageNote": "Manufacturer gallery and caption match; not independently photographed."
+      "imageNote": "Manufacturer gallery and caption match; not independently photographed.",
+      "imageSource": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640",
+      "imageCaption": "Source product image: Case-Mate Tough Plus Clear MagSafe with Stand.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://case-mate.com/cdn/shop/files/Cmi_ToughClear_stand_Duo_PDP1_CM061218_1000x1000.jpg?v=1788275724",
+          "caption": "Source product image: Case-Mate Tough Plus Clear MagSafe with Stand.",
+          "sourceUrl": "https://case-mate.com/products/case-mate-iphone-duo-phone-case?variant=46250259349640"
+        }
+      ]
     },
     {
       "brand": "Kate Spade",
@@ -2388,7 +2839,17 @@
       "materialNotes": [],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://case-mate.com/products/kate-spade-new-york-flowerbed-blue-magsafe-iphone-duo?variant=46257255317640",
+      "imageCaption": "Source product image: Kate Spade Flowerbed Blue MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://case-mate.com/cdn/shop/files/KS061842-01-0482_1000x1000.jpg?v=1787938334",
+          "caption": "Source product image: Kate Spade Flowerbed Blue MagSafe.",
+          "sourceUrl": "https://case-mate.com/products/kate-spade-new-york-flowerbed-blue-magsafe-iphone-duo?variant=46257255317640"
+        }
+      ]
     },
     {
       "brand": "Pelican",
@@ -2444,7 +2905,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096",
+      "imageCaption": "Source product image: Pelican Protector MagSafe with Stand.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://case-mate.com/cdn/shop/files/ppi_ProtectorBlack_Stand_Duo_PDP1_PP061196_1000x1000.jpg?v=1788283826",
+          "caption": "Source product image: Pelican Protector MagSafe with Stand.",
+          "sourceUrl": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096"
+        }
+      ]
     },
     {
       "brand": "Pelican",
@@ -2495,7 +2966,17 @@
       "evidence": "official",
       "brandEvidence": "not-established",
       "checkedAt": "2026-10-15",
-      "imageNote": "Manufacturer gallery and caption match; not independently photographed."
+      "imageNote": "Manufacturer gallery and caption match; not independently photographed.",
+      "imageSource": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096",
+      "imageCaption": "Source product image: Pelican Ranger Clear MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://case-mate.com/cdn/shop/files/ppi_RangerClear_Duo_PDP1_PP061194_1000x1000.jpg?v=1788283835",
+          "caption": "Source product image: Pelican Ranger Clear MagSafe.",
+          "sourceUrl": "https://case-mate.com/products/pelican-iphone-duo-phone-case?variant=46278069289096"
+        }
+      ]
     },
     {
       "brand": "Incipio",
@@ -2520,10 +3001,9 @@
       ],
       "summary": "Official Duo collection lists Survivor Clear for MagSafe in two finishes.",
       "limitations": [
-        "Product detail extraction sparse; stock, hinge coverage and stand unverified.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Product detail extraction sparse; stock, hinge coverage and stand unverified."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/0577/0159/7284/files/iPhone18DuoRender3.png?v=1789495243",
       "sources": [
         {
           "url": "https://incipio.com/collections/iphone-duo",
@@ -2546,7 +3026,27 @@
       "materialNotes": [],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0577/0159/7284/files/iPhone18DuoRender3.png?v=1789495243",
+          "caption": "Incipio Survivor Clear for MagSafe for iPhone Duo",
+          "sourceUrl": "https://incipio.com/collections/iphone/products/svvri1024-bclr"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0577/0159/7284/files/iPhone18DuoRender6.png?v=1789495308",
+          "caption": "Incipio Survivor Clear for MagSafe for iPhone Duo View 2.",
+          "sourceUrl": "https://incipio.com/collections/iphone/products/svvri1024-bclr"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0577/0159/7284/files/iPhone18DuoRender4.png?v=1789495243",
+          "caption": "Incipio Survivor Clear for MagSafe for iPhone Duo View 3.",
+          "sourceUrl": "https://incipio.com/collections/iphone/products/svvri1024-bclr"
+        }
+      ],
+      "imageSource": "https://incipio.com/collections/iphone/products/svvri1024-bclr",
+      "imageCaption": "Incipio Survivor Clear for MagSafe for iPhone Duo",
+      "imageVerification": "Exact current product page and public product JSON; visually inspected in the CASEBOOK contact sheet."
     },
     {
       "brand": "Elago",
@@ -2580,10 +3080,9 @@
       "summary": "Duo-specific two-piece case with silicone-finished PC rear, PC front frame and pre-applied adhesive.",
       "limitations": [
         "2.4 mm is the rear panel profile; sides are 1.9 mm. It is not overall closed-case thickness.",
-        "Browser page title refers to iPhone 17 Pro Max, but product heading and body explicitly identify Duo.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Browser page title refers to iPhone 17 Pro Max, but product heading and body explicitly identify Duo."
       ],
-      "image": null,
+      "image": "https://www.elago.com/cdn/shop/files/SFOLD-MSSC-ST_Amazon_240fa196-506e-4f2e-8ea9-85be28952469.jpg?v=1788851067",
       "sources": [
         {
           "url": "https://www.elago.com/products/magsafe-silicone-case-7-colors-ultra",
@@ -2610,7 +3109,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.elago.com/cdn/shop/files/SFOLD-MSSC-ST_Amazon_240fa196-506e-4f2e-8ea9-85be28952469.jpg?v=1788851067",
+          "caption": "Elago MagSafe Silicone Case for iPhone Duo",
+          "sourceUrl": "https://www.elago.com/products/magsafe-silicone-case-7-colors-ultra"
+        },
+        {
+          "url": "https://www.elago.com/cdn/shop/files/SFOLD-MSSC-ST_Amazon_240fa196-506e-4f2e-8ea9-85be28952469.jpg?v=1788851067&width=720",
+          "caption": "Elago MagSafe Silicone Case for iPhone Duo View 2.",
+          "sourceUrl": "https://www.elago.com/products/magsafe-silicone-case-7-colors-ultra"
+        },
+        {
+          "url": "https://www.elago.com/cdn/shop/files/SFOLD-MSSC-WH_Amazon.jpg?crop=center&height=1500&v=1788851071&width=1500",
+          "caption": "Elago MagSafe Silicone Case for iPhone Duo View 3.",
+          "sourceUrl": "https://www.elago.com/products/magsafe-silicone-case-7-colors-ultra"
+        }
+      ],
+      "imageSource": "https://www.elago.com/products/magsafe-silicone-case-7-colors-ultra",
+      "imageCaption": "Elago MagSafe Silicone Case for iPhone Duo",
+      "imageVerification": "Exact current product metadata and visually inspected Duo form. Publisher page title retains an older model string."
     },
     {
       "brand": "Elago",
@@ -2637,10 +3156,9 @@
       "summary": "Clear PC case with magnetic compatibility, adhesive fitting and a fine interior dot pattern.",
       "limitations": [
         "1.9 mm is rear-panel thickness; sides are 1.7 mm. It is not overall closed-case thickness.",
-        "Browser page title refers to iPhone 17 Pro Max; body explicitly identifies Duo.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Browser page title refers to iPhone 17 Pro Max; body explicitly identifies Duo."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/0498/9589/9290/files/SFOLD-MSCL-TR_Amazon_2_1f1e0c35-00b0-4bc3-913b-3834def6628b.jpg?v=1788851462",
       "sources": [
         {
           "url": "https://www.elago.com/products/magsafe-hybrid-clear-case-ultra",
@@ -2666,7 +3184,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0498/9589/9290/files/SFOLD-MSCL-TR_Amazon_2_1f1e0c35-00b0-4bc3-913b-3834def6628b.jpg?v=1788851462",
+          "caption": "Elago MagSafe Hybrid Clear Case for iPhone Duo",
+          "sourceUrl": "https://www.elago.com/products/magsafe-hybrid-clear-case-ultra"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0498/9589/9290/files/SFOLD-MSSC-ST_Amazon_76c5ec5f-b65a-45d3-b829-983e57ff1f14.jpg?v=1789031023",
+          "caption": "Elago MagSafe Hybrid Clear Case for iPhone Duo View 2.",
+          "sourceUrl": "https://www.elago.com/products/magsafe-hybrid-clear-case-ultra"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0498/9589/9290/files/SFOLD-MSCL-TR_Amazon_4.jpg?v=1788851463",
+          "caption": "Elago MagSafe Hybrid Clear Case for iPhone Duo View 3.",
+          "sourceUrl": "https://www.elago.com/products/magsafe-hybrid-clear-case-ultra"
+        }
+      ],
+      "imageSource": "https://www.elago.com/products/magsafe-hybrid-clear-case-ultra",
+      "imageCaption": "Elago MagSafe Hybrid Clear Case for iPhone Duo",
+      "imageVerification": "Exact current product page and public product JSON; visually inspected in the CASEBOOK contact sheet."
     },
     {
       "brand": "Cygnett",
@@ -2692,10 +3230,9 @@
       "limitations": [
         "Dimensions are explicitly labelled product dimensions, separate from packaging, but appear unusual for this foldable; not independently checked.",
         "AeroShield pre-order button says ships 11/09 without a clear year; no release date inferred.",
-        "Collection refers to non-magnetic AeroSlim while the product page is named AeroShield.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Collection refers to non-magnetic AeroSlim while the product page is named AeroShield."
       ],
-      "image": null,
+      "image": "https://www.cygnett.com/cdn/shop/files/CY6124CPAEG-1_429a9dfd-604c-4c3c-831f-1b37cc271091_1024x1024.png?v=1788927363",
       "sources": [
         {
           "url": "https://www.cygnett.com/products/aeroshield-slim-clear-case-for-iphone-foldable",
@@ -2719,7 +3256,17 @@
       "materialNotes": [],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.cygnett.com/cdn/shop/files/CY6124CPAEG-1_429a9dfd-604c-4c3c-831f-1b37cc271091_1024x1024.png?v=1788927363",
+          "caption": "Cygnett AeroShield Slim Clear Case for iPhone Duo",
+          "sourceUrl": "https://www.cygnett.com/products/aeroshield-slim-clear-case-for-iphone-foldable"
+        }
+      ],
+      "imageSource": "https://www.cygnett.com/products/aeroshield-slim-clear-case-for-iphone-foldable",
+      "imageCaption": "Cygnett AeroShield Slim Clear Case for iPhone Duo",
+      "imageVerification": "Exact official SKU CY6124CPAEG image and Duo product result; visually inspected."
     },
     {
       "brand": "Cygnett",
@@ -2745,10 +3292,9 @@
       "limitations": [
         "Dimensions are explicitly labelled product dimensions, separate from packaging, but appear unusual for this foldable; not independently checked.",
         "AeroShield pre-order button says ships 11/09 without a clear year; no release date inferred.",
-        "Collection refers to non-magnetic AeroSlim while the product page is named AeroShield.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Collection refers to non-magnetic AeroSlim while the product page is named AeroShield."
       ],
-      "image": null,
+      "image": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-1_085a27f3-c535-404c-aeff-68476f783d80_2376x.png?v=1788927307",
       "sources": [
         {
           "url": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable",
@@ -2772,7 +3318,27 @@
       "materialNotes": [],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-1_085a27f3-c535-404c-aeff-68476f783d80_2376x.png?v=1788927307",
+          "caption": "AeroMag Clear for iPhone Duo ,  manufacturer gallery photo.",
+          "sourceUrl": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable"
+        },
+        {
+          "url": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-2_b915ea2d-19c3-4c8b-8168-36213dbf6500_2376x.png?v=1788927307",
+          "caption": "AeroMag Clear for iPhone Duo ,  manufacturer gallery view 2.",
+          "sourceUrl": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable"
+        },
+        {
+          "url": "https://www.cygnett.com/cdn/shop/files/CY6125CPAEG-3_c756e334-e678-46a3-a3a8-00fbbad153b9_2376x.png?v=1788927306",
+          "caption": "AeroMag Clear for iPhone Duo ,  manufacturer gallery view 3.",
+          "sourceUrl": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable"
+        }
+      ],
+      "imageSource": "https://www.cygnett.com/products/aeromag-slim-clear-case-for-iphone-foldable",
+      "imageCaption": "AeroMag Clear for iPhone Duo ,  manufacturer gallery photo.",
+      "imageVerification": "All three URLs are direct links in the exact current manufacturer product gallery, alt Slim Magnetic Clear Case for iPhone Duo, SKU CY6125CPAEG / barcode 0848116055626. Each asset opened successfully. No CY6124 AeroShield substitution. Final browser pixel review remains with main."
     },
     {
       "brand": "Mujjo / Troubadour",
@@ -2830,7 +3396,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.troubadourgoods.com/products/iphone-duo-case",
+      "imageCaption": "Source product image: Mujjo / Troubadour Case.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0171/0160/files/iPhone_Duo_Empty-interior_02.jpg?v=1790675910&width=1040",
+          "caption": "Source product image: Mujjo / Troubadour Case.",
+          "sourceUrl": "https://www.troubadourgoods.com/products/iphone-duo-case"
+        }
+      ]
     },
     {
       "brand": "Snakehive",
@@ -2858,10 +3434,9 @@
       "summary": "Duo-specific wallet with four card slots, cash storage, magnetic closure and a viewing stand.",
       "limitations": [
         "UK product URL verified, but UK price and availability could not be reliably extracted.",
-        "Canadian manufacturer page supplies specifications and expressly excludes Apple MagSafe charger compatibility.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Canadian manufacturer page supplies specifications and expressly excludes Apple MagSafe charger compatibility."
       ],
-      "image": null,
+      "image": "https://snakehive.co.uk/cdn/shop/files/11_086eee43-393b-4f6d-a84e-20bdb4330d82.webp?v=1790172855&width=1200",
       "sources": [
         {
           "url": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case",
@@ -2895,7 +3470,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://snakehive.co.uk/cdn/shop/files/11_086eee43-393b-4f6d-a84e-20bdb4330d82.webp?v=1790172855&width=1200",
+          "caption": "Snakehive Metro Leather Wallet for iPhone Duo - manufacturer gallery.",
+          "sourceUrl": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case"
+        },
+        {
+          "url": "https://snakehive.co.uk/cdn/shop/files/iPhone_Duo_Metro_Wallet_-_Wallet_Functionality-6f488b.webp?v=1790172883&width=1200",
+          "caption": "Snakehive Metro Leather Wallet for iPhone Duo - wallet functionality.",
+          "sourceUrl": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case"
+        },
+        {
+          "url": "https://snakehive.co.uk/cdn/shop/files/iPhone_Duo_Metro_Wallet_-_Made_in_Vegetable_Tanned_Leather-4d46a6.webp?v=1790172915&width=1200",
+          "caption": "Snakehive Metro Leather Wallet for iPhone Duo - leather detail.",
+          "sourceUrl": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case"
+        }
+      ],
+      "imageSource": "https://snakehive.co.uk/products/apple-iphone-duo-metro-leather-wallet-phone-case",
+      "imageCaption": "Snakehive Metro Leather Wallet for iPhone Duo - manufacturer gallery.",
+      "imageVerification": "2026-10-15: recovered by opening the actual manufacturer product gallery after initial fetch timeout. All three image links opened successfully; gallery alt text explicitly identifies Apple iPhone Duo. No other-model image substituted. Publisher association verified; no independent pixel inspection available."
     },
     {
       "brand": "BlackBrook",
@@ -2952,7 +3547,17 @@
       "evidence": "official",
       "brandEvidence": "not-established",
       "checkedAt": "2026-10-15",
-      "imageNote": "Manufacturer gallery and caption match; not independently photographed."
+      "imageNote": "Manufacturer gallery and caption match; not independently photographed.",
+      "imageSource": "https://blackbrookcase.com/collections/all/products/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee",
+      "imageCaption": "Source product image: BlackBrook Classic Leather Folio.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://blackbrookcase.com/cdn/shop/files/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee-7023140.webp?v=1789085170&width=320",
+          "caption": "Source product image: BlackBrook Classic Leather Folio.",
+          "sourceUrl": "https://blackbrookcase.com/collections/all/products/classic-leather-folio-wallet-case-for-iphone-duo-distressed-coffee"
+        }
+      ]
     },
     {
       "brand": "Vaja",
@@ -2982,10 +3587,9 @@
       "summary": "Handcrafted leather folio with magnetic closure and MagSafe; folio has no card slots.",
       "limitations": [
         "Older collection and variant extracts say coming soon or sold out; current home-page pre-order statement retained.",
-        "Manufacturer reports added closed thickness, rather than material thickness; thicknessMm left null.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Manufacturer reports added closed thickness, rather than material thickness; thicknessMm left null."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-folio-leather-case-floater-latte-open-vaja.jpg?v=1791384063",
       "sources": [
         {
           "url": "https://www.vajacases.com/products/folio-iphone-duo-leather-case",
@@ -3013,7 +3617,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-folio-leather-case-floater-latte-open-vaja.jpg?v=1791384063",
+          "caption": "Vaja Folio Leather Case with MagSafe, Floater Latte",
+          "sourceUrl": "https://www.vajacases.com/products/folio-iphone-duo-leather-case"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-folio-leather-case-floater-black-open-vaja.jpg?v=1791389351",
+          "caption": "Vaja Folio Leather Case with MagSafe, Floater Latte View 2.",
+          "sourceUrl": "https://www.vajacases.com/products/folio-iphone-duo-leather-case"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-folio-leather-case-floater-latte-unfolded-screen-on-vaja.jpg?v=1791477946",
+          "caption": "Vaja Folio Leather Case with MagSafe, Floater Latte View 3.",
+          "sourceUrl": "https://www.vajacases.com/products/folio-iphone-duo-leather-case"
+        }
+      ],
+      "imageSource": "https://www.vajacases.com/products/folio-iphone-duo-leather-case",
+      "imageCaption": "Vaja Folio Leather Case with MagSafe, Floater Latte",
+      "imageVerification": "Exact current Duo product page and product JSON; visual form/configuration inspected. Publisher asset filenames retain its earlier Ultra codename."
     },
     {
       "brand": "Vaja",
@@ -3043,10 +3667,9 @@
       "summary": "Handcrafted leather folio with magnetic closure and MagSafe; wallet adds three RFID-protected card slots and a bill pocket.",
       "limitations": [
         "Older collection and variant extracts say coming soon or sold out; current home-page pre-order statement retained.",
-        "Manufacturer reports added closed thickness, rather than material thickness; thicknessMm left null.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Manufacturer reports added closed thickness, rather than material thickness; thicknessMm left null."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-wallet-leather-case-floater-black-vaja.jpg?v=1791391453",
       "sources": [
         {
           "url": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case",
@@ -3074,7 +3697,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-wallet-leather-case-floater-black-vaja.jpg?v=1791391453",
+          "caption": "Vaja Wallet Leather Case with MagSafe, Floater Latte",
+          "sourceUrl": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-wallet-leather-case-floater-latte-vaja.jpg?v=1791391423",
+          "caption": "Vaja Wallet Leather Case with MagSafe, Floater Latte View 2.",
+          "sourceUrl": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/iphone-duo-wallet-leather-case-floater-indigo-vaja.jpg?v=1791391474",
+          "caption": "Vaja Wallet Leather Case with MagSafe, Floater Latte View 3.",
+          "sourceUrl": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case"
+        }
+      ],
+      "imageSource": "https://www.vajacases.com/products/wallet-iphone-duo-leather-case",
+      "imageCaption": "Vaja Wallet Leather Case with MagSafe, Floater Latte",
+      "imageVerification": "Exact current Duo product page and product JSON; visual form/configuration inspected. Publisher asset filenames retain its earlier Ultra codename."
     },
     {
       "brand": "Vaja",
@@ -3105,10 +3748,9 @@
       "limitations": [
         "MagSafe charging requires removing the leather wrap; it does not charge with the wrap fitted.",
         "Shell back is 1 mm with 0.5 mm walls; combined thickness not given.",
-        "Verified numeric price not extracted.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Verified numeric price not extracted."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/1025/3079/files/TopdetachableFolioiPhoneDuoBlackVaja.jpg?v=1791805090",
       "sources": [
         {
           "url": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856",
@@ -3136,7 +3778,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/TopdetachableFolioiPhoneDuoBlackVaja.jpg?v=1791805090",
+          "caption": "Vaja Leather Folio Wrap with Aramid Shell",
+          "sourceUrl": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/OpendetachableFolioiPhoneduoBlackVaja.jpg?v=1791805091",
+          "caption": "Vaja Leather Folio Wrap with Aramid Shell View 2.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/BackdetachableFolioiPhoneDuoBlackVaja.jpg?v=1791805090",
+          "caption": "Vaja Leather Folio Wrap with Aramid Shell View 3.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856"
+        }
+      ],
+      "imageSource": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856",
+      "imageCaption": "Vaja Leather Folio Wrap with Aramid Shell",
+      "imageVerification": "Exact current Duo product page and product JSON; visual form/configuration inspected. Publisher asset filenames retain its earlier Ultra codename."
     },
     {
       "brand": "Vaja",
@@ -3162,10 +3824,9 @@
       "summary": "Separate wallet-wrap configuration referenced by Vaja, adding two RFID-protected card slots and folded-bill storage.",
       "limitations": [
         "Standalone product fetch failed; configuration verified through manufacturer Folio Wrap page and indexed wallet product result.",
-        "Price, current order status, weight and charging conditions for this configuration remain unverified.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Price, current order status, weight and charging conditions for this configuration remain unverified."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/1025/3079/files/TopdetachableWalletiPhoneDuoBlackVaja.jpg?v=1791805091",
       "sources": [
         {
           "url": "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856",
@@ -3192,7 +3853,27 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/TopdetachableWalletiPhoneDuoBlackVaja.jpg?v=1791805091",
+          "caption": "Vaja Leather Wallet Wrap with Aramid Shell",
+          "sourceUrl": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/OpendetachableWalletiPhoneduoBlackVaja.jpg?v=1791805091",
+          "caption": "Vaja Leather Wallet Wrap with Aramid Shell View 2.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/1025/3079/files/BackdetachableWalletiPhoneDuoBlackVaja.jpg?v=1791805090",
+          "caption": "Vaja Leather Wallet Wrap with Aramid Shell View 3.",
+          "sourceUrl": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384"
+        }
+      ],
+      "imageSource": "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384",
+      "imageCaption": "Vaja Leather Wallet Wrap with Aramid Shell",
+      "imageVerification": "Exact current Duo product page and product JSON; visual form/configuration inspected. Publisher asset filenames retain its earlier Ultra codename."
     },
     {
       "brand": "fitBAG",
@@ -3220,10 +3901,9 @@
       ],
       "summary": "Made-to-measure sleeve offered for the closed Duo.",
       "limitations": [
-        "From price before extras. Remove phone to use. Exact outer material and lead time unverified.",
-        "Direct product-image URL not recovered."
+        "From price before extras. Remove phone to use. Exact outer material and lead time unverified."
       ],
-      "image": null,
+      "image": "https://www.fitbag.com/media/image/product/11/lg/beat-black-custom-tailored-phone-sleeve.jpg",
       "sources": [
         {
           "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
@@ -3249,7 +3929,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.fitbag.com/media/image/product/11/lg/beat-black-custom-tailored-phone-sleeve.jpg",
+          "caption": "fitBAG Beat - representative family photo; made to measure.",
+          "sourceUrl": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone"
+        }
+      ],
+      "imageSource": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "imageCaption": "fitBAG Beat - representative family photo; made to measure.",
+      "imageVerification": "2026-10-15: direct family image link successfully opened from the manufacturer’s current iPhone Duo made-to-measure landing page. The page explicitly offers this named sleeve family for the closed Duo. This is a representative family photo, not a claim that the photographed sleeve was made to Duo dimensions."
     },
     {
       "brand": "fitBAG",
@@ -3277,10 +3967,9 @@
       ],
       "summary": "Made-to-measure sleeve offered for the closed Duo.",
       "limitations": [
-        "From price before extras. Remove phone to use. Exact outer material and lead time unverified.",
-        "Direct product-image URL not recovered."
+        "From price before extras. Remove phone to use. Exact outer material and lead time unverified."
       ],
-      "image": null,
+      "image": "https://www.fitbag.com/media/image/product/62/lg/classic-black-alcantara-custom-tailored-phone-sleeve.jpg",
       "sources": [
         {
           "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
@@ -3306,7 +3995,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.fitbag.com/media/image/product/62/lg/classic-black-alcantara-custom-tailored-phone-sleeve.jpg",
+          "caption": "fitBAG Classic - representative family photo; made to measure.",
+          "sourceUrl": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone"
+        }
+      ],
+      "imageSource": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "imageCaption": "fitBAG Classic - representative family photo; made to measure.",
+      "imageVerification": "2026-10-15: direct family image link successfully opened from the manufacturer’s current iPhone Duo made-to-measure landing page. The page explicitly offers this named sleeve family for the closed Duo. This is a representative family photo, not a claim that the photographed sleeve was made to Duo dimensions."
     },
     {
       "brand": "fitBAG",
@@ -3333,10 +4032,9 @@
       ],
       "summary": "Made-to-measure sleeve offered for the closed Duo.",
       "limitations": [
-        "From price before extras. Remove phone to use. Exact outer material and lead time unverified.",
-        "Direct product-image URL not recovered."
+        "From price before extras. Remove phone to use. Exact outer material and lead time unverified."
       ],
-      "image": null,
+      "image": "https://www.fitbag.com/media/image/product/6/lg/jive-gray-custom-tailored-phone-sleeve.jpg",
       "sources": [
         {
           "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
@@ -3362,7 +4060,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.fitbag.com/media/image/product/6/lg/jive-gray-custom-tailored-phone-sleeve.jpg",
+          "caption": "fitBAG Jive - representative family photo; made to measure.",
+          "sourceUrl": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone"
+        }
+      ],
+      "imageSource": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "imageCaption": "fitBAG Jive - representative family photo; made to measure.",
+      "imageVerification": "2026-10-15: direct family image link successfully opened from the manufacturer’s current iPhone Duo made-to-measure landing page. The page explicitly offers this named sleeve family for the closed Duo. This is a representative family photo, not a claim that the photographed sleeve was made to Duo dimensions."
     },
     {
       "brand": "fitBAG",
@@ -3389,10 +4097,9 @@
       ],
       "summary": "Made-to-measure sleeve offered for the closed Duo.",
       "limitations": [
-        "From price before extras. Remove phone to use. Exact outer material and lead time unverified.",
-        "Direct product-image URL not recovered."
+        "From price before extras. Remove phone to use. Exact outer material and lead time unverified."
       ],
-      "image": null,
+      "image": "https://www.fitbag.com/media/image/product/2/lg/rave-black-custom-tailored-phone-sleeve.jpg",
       "sources": [
         {
           "url": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
@@ -3418,7 +4125,17 @@
       ],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.fitbag.com/media/image/product/2/lg/rave-black-custom-tailored-phone-sleeve.jpg",
+          "caption": "fitBAG Rave - representative family photo; made to measure.",
+          "sourceUrl": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone"
+        }
+      ],
+      "imageSource": "https://www.fitbag.com/iphone-ultra-fold-handytasche-faltbares-iphone",
+      "imageCaption": "fitBAG Rave - representative family photo; made to measure.",
+      "imageVerification": "2026-10-15: direct family image link successfully opened from the manufacturer’s current iPhone Duo made-to-measure landing page. The page explicitly offers this named sleeve family for the closed Duo. This is a representative family photo, not a claim that the photographed sleeve was made to Duo dimensions."
     },
     {
       "brand": "Noreve",
@@ -3446,10 +4163,9 @@
       "limitations": [
         "Retailer evidence only; manufacturer product page not found.",
         "Retailer estimates delivery between 14 November and 2 December; no manufacturer release date adopted.",
-        "Price applies to this listed finish; family variants not fully verified.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Price applies to this listed finish; family variants not fully verified."
       ],
-      "image": null,
+      "image": "https://static01.galaxus.com/productimages/3/4/9/1/0/9/5/9/7/4/1/1/8/1/4/6/3/0/8/01a08ce3-fc23-7c02-be98-5cd67b046b8e_720.jpeg",
       "sources": [
         {
           "url": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963",
@@ -3474,7 +4190,22 @@
       ],
       "evidence": "retailer",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://static01.galaxus.com/productimages/3/4/9/1/0/9/5/9/7/4/1/1/8/1/4/6/3/0/8/01a08ce3-fc23-7c02-be98-5cd67b046b8e_720.jpeg",
+          "caption": "Noreve 2154TC for iPhone Duo - product photo; retailer photo via Galaxus.",
+          "sourceUrl": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963"
+        },
+        {
+          "url": "https://static01.galaxus.com/productimages/3/4/6/3/7/9/1/4/5/3/5/8/4/8/2/6/0/7/3/01a08ce1-cbc4-7b9c-985f-c8160f99c0e9_720.jpeg",
+          "caption": "Noreve 2154TC for iPhone Duo - alternate view; retailer photo via Galaxus.",
+          "sourceUrl": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963"
+        }
+      ],
+      "imageSource": "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963",
+      "imageCaption": "Noreve 2154TC for iPhone Duo - product photo; retailer photo via Galaxus.",
+      "imageVerification": "2026-10-15: both image links successfully opened directly from the exact Galaxus product page recorded in catalogue.json for 2154TC. Page gallery labels identify Apple iPhone Duo. Catalogue supplies manufacturer-number provenance (2154TCF56/f); current parsed page did not expose that number, so it was not independently reverified. No generic Noreve brand imagery used. Publisher association verified; no independent pixel inspection available."
     },
     {
       "brand": "Noreve",
@@ -3502,10 +4233,9 @@
       "limitations": [
         "Retailer evidence only; no verified manufacturer order status.",
         "Retailer estimates delivery 5 to 19 November.",
-        "Price applies to the Serpent nero finish.",
-        "Direct manufacturer product-image URL not recovered in this pass."
+        "Price applies to the Serpent nero finish."
       ],
-      "image": null,
+      "image": "https://static01.galaxus.com/productimages/8/4/8/6/0/4/2/1/6/7/0/0/5/5/4/6/5/7/3/01a10c09-f97f-7aa2-8b19-5aa83f62fee6_720.jpeg",
       "sources": [
         {
           "url": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952",
@@ -3531,7 +4261,22 @@
       ],
       "evidence": "retailer",
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://static01.galaxus.com/productimages/8/4/8/6/0/4/2/1/6/7/0/0/5/5/4/6/5/7/3/01a10c09-f97f-7aa2-8b19-5aa83f62fee6_720.jpeg",
+          "caption": "Noreve 2154TB for iPhone Duo - product photo; retailer photo via Galaxus.",
+          "sourceUrl": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952"
+        },
+        {
+          "url": "https://static01.galaxus.com/productimages/8/2/3/4/5/8/8/5/0/4/2/8/6/2/4/3/9/8/4/01a10c9a-c44d-761f-9598-696fc084a523_720.jpeg",
+          "caption": "Noreve 2154TB for iPhone Duo - alternate view; retailer photo via Galaxus.",
+          "sourceUrl": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952"
+        }
+      ],
+      "imageSource": "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952",
+      "imageCaption": "Noreve 2154TB for iPhone Duo - product photo; retailer photo via Galaxus.",
+      "imageVerification": "2026-10-15: both image links successfully opened directly from the exact Galaxus product page recorded in catalogue.json for 2154TB. Page gallery labels identify Apple iPhone Duo. Catalogue supplies manufacturer-number provenance (2154TB53/f); current parsed page did not expose that number, so it was not independently reverified. No generic Noreve brand imagery used. Publisher association verified; no independent pixel inspection available."
     },
     {
       "brand": "MOFT",
@@ -3585,7 +4330,17 @@
       "materialNotes": [],
       "evidence": "official",
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.moft.com/products/dynamic-folio-for-iphone-duo",
+      "imageCaption": "Source product image: MOFT Dynamic Folio.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.moft.com/cdn/shop/files/MS030_Dynamic_Folio_Duo_Misty_Cove_63325766.png?v=1791637041&width=1090",
+          "caption": "Source product image: MOFT Dynamic Folio.",
+          "sourceUrl": "https://www.moft.com/products/dynamic-folio-for-iphone-duo"
+        }
+      ]
     },
     {
       "brand": "Ridge",
@@ -3641,7 +4396,17 @@
       "evidence": "official",
       "brandEvidence": "not-established",
       "checkedAt": "2026-10-15",
-      "imageNote": "Manufacturer gallery and caption match; not independently photographed."
+      "imageNote": "Manufacturer gallery and caption match; not independently photographed.",
+      "imageSource": "https://ridge.com/products/iphone-duo-case-carbon",
+      "imageCaption": "Source product image: Ridge Phone Case, Carbon.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://ridge.com/cdn/shop/files/iphone-ultra-case-carbon-02_581dff0d-084a-42fa-8989-bd4a45115770.jpg?v=1788420483&width=800",
+          "caption": "Source product image: Ridge Phone Case, Carbon.",
+          "sourceUrl": "https://ridge.com/products/iphone-duo-case-carbon"
+        }
+      ]
     },
     {
       "id": "spigen-tough-armor-pro-mag-fit",
@@ -3702,7 +4467,17 @@
         "TPU"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.spigen.com/products/iphone-duo-case-tough-armor-pro-mag-fit",
+      "imageCaption": "Source product image: Spigen Tough Armor Pro MagFit.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.spigen.com/cdn/shop/files/title_web_iphone_ultra_tough_armor_pro_magfit_black_01.jpg?v=1789146288&width=1946",
+          "caption": "Source product image: Spigen Tough Armor Pro MagFit.",
+          "sourceUrl": "https://www.spigen.com/products/iphone-duo-case-tough-armor-pro-mag-fit"
+        }
+      ]
     },
     {
       "id": "spigen-slim-armor-pro-mag-fit",
@@ -3762,7 +4537,17 @@
         "TPU"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-mag-fit",
+      "imageCaption": "Source product image: Spigen Slim Armor Pro MagFit.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.spigen.com/cdn/shop/files/title_web_iphone_fold_slim_armor_pro_magfit_01.jpg?v=1788298443&width=1946",
+          "caption": "Source product image: Spigen Slim Armor Pro MagFit.",
+          "sourceUrl": "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-mag-fit"
+        }
+      ]
     },
     {
       "id": "spigen-slim-armor-pro-s-mag-fit",
@@ -3824,7 +4609,17 @@
         "TPU"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-s-mag-fit",
+      "imageCaption": "Source product image: Spigen Slim Armor Pro S MagFit.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.spigen.com/cdn/shop/files/title_web_iphone_fold_slim_armor_pro_s_magfit_01.jpg?v=1788298331&width=1946",
+          "caption": "Source product image: Spigen Slim Armor Pro S MagFit.",
+          "sourceUrl": "https://www.spigen.com/products/iphone-duo-case-slim-armor-pro-s-mag-fit"
+        }
+      ]
     },
     {
       "id": "spigen-ultra-hybrid-pro-mag-fit",
@@ -3883,7 +4678,17 @@
         "Polycarbonate"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-mag-fit",
+      "imageCaption": "Source product image: Spigen Ultra Hybrid Pro MagFit.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.spigen.com/cdn/shop/files/detail_web_iPhone_Fold_Ultra_Hybrid_Pro_Mag_Fit_cc_04.jpg?v=1789078538&width=1946",
+          "caption": "Source product image: Spigen Ultra Hybrid Pro MagFit.",
+          "sourceUrl": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-mag-fit"
+        }
+      ]
     },
     {
       "id": "spigen-ultra-hybrid-pro-s-mag-fit",
@@ -3943,7 +4748,17 @@
         "TPU"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-s-mag-fit",
+      "imageCaption": "Source product image: Spigen Ultra Hybrid Pro S MagFit.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.spigen.com/cdn/shop/files/detail_iphone_fold_ultra_hybrid_pro_s_magfit_012.jpg?v=1788215619&width=1946",
+          "caption": "Source product image: Spigen Ultra Hybrid Pro S MagFit.",
+          "sourceUrl": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro-s-mag-fit"
+        }
+      ]
     },
     {
       "id": "spigen-ultra-hybrid-pro",
@@ -4003,7 +4818,17 @@
         "TPU"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro",
+      "imageCaption": "Source product image: Spigen Ultra Hybrid Pro.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.spigen.com/cdn/shop/files/detail_web_iPhone_Fold_Ultra_Hybrid_Pro_cc_01_84b71cca-3f5a-4453-9059-ce60dbef58b2.jpg?v=1789078661&width=1946",
+          "caption": "Source product image: Spigen Ultra Hybrid Pro.",
+          "sourceUrl": "https://www.spigen.com/products/iphone-duo-case-ultra-hybrid-pro"
+        }
+      ]
     },
     {
       "id": "spigen-air-fit-pro-mag-fit",
@@ -4064,7 +4889,17 @@
         "TPU"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.spigen.com/products/iphone-duo-case-air-fit-pro-mag-fit",
+      "imageCaption": "Source product image: Spigen Air Fit Pro MagFit.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.spigen.com/cdn/shop/files/title_iphone_fold_air_fit_pro_magfit_02.jpg?v=1788199890&width=1946",
+          "caption": "Source product image: Spigen Air Fit Pro MagFit.",
+          "sourceUrl": "https://www.spigen.com/products/iphone-duo-case-air-fit-pro-mag-fit"
+        }
+      ]
     },
     {
       "id": "spigen-nano-pop-mag-fit",
@@ -4124,7 +4959,17 @@
         "TPU"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.spigen.com/products/iphone-duo-case-nano-pop-mag-fit",
+      "imageCaption": "Source product image: Spigen Nano Pop MagFit.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.spigen.com/cdn/shop/files/detail_web_iphone_duo_nano_pop_magfit_blueberry_navy_01.jpg?v=1789079043&width=1946",
+          "caption": "Source product image: Spigen Nano Pop MagFit.",
+          "sourceUrl": "https://www.spigen.com/products/iphone-duo-case-nano-pop-mag-fit"
+        }
+      ]
     },
     {
       "id": "spigen-ibook-concept",
@@ -4154,7 +4999,7 @@
       "limitations": [
         "Concept only. Manufacture, orders, final specifications and release are unconfirmed."
       ],
-      "image": null,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/09/3232659-0-63766400-1789124432-spigen-ibook-duo.jpg?quality=50&strip=all&w=1024",
       "shippingNote": null,
       "variants": [],
       "sources": [
@@ -4172,7 +5017,17 @@
       "closedDepthMm": null,
       "materialNotes": [],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2026/09/3232659-0-63766400-1789124432-spigen-ibook-duo.jpg?quality=50&strip=all&w=1024",
+          "caption": "Spigen iBook-inspired iPhone Duo concept render - concept only; credit Spigen via Macworld.",
+          "sourceUrl": "https://www.macworld.com/article/3232659/the-perfect-iphone-duo-case-doesnt-exis.html"
+        }
+      ],
+      "imageSource": "https://www.macworld.com/article/3232659/the-perfect-iphone-duo-case-doesnt-exis.html",
+      "imageCaption": "Spigen iBook-inspired iPhone Duo concept render - concept only; credit Spigen via Macworld.",
+      "imageVerification": "2026-10-15: actual article hero image link successfully opened. Macworld labels the image Spigen iBook Duo and credits Spigen; article explicitly identifies the design as a concept. This is a source-published render, not a product photograph or a purchasable case claim."
     },
     {
       "id": "otterbox-lumen-series",
@@ -4248,7 +5103,17 @@
         "Thermoplastic elastomer"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.otterbox.com/products/iphone-duo-lumen-series-case?variant=48323323494587",
+      "imageCaption": "Source product image: OtterBox Lumen Series.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.otterbox.com/cdn/shop/files/lumen-iphf26-black-mist-3.png?v=1787761478&width=3840",
+          "caption": "Source product image: OtterBox Lumen Series.",
+          "sourceUrl": "https://www.otterbox.com/products/iphone-duo-lumen-series-case?variant=48323323494587"
+        }
+      ]
     },
     {
       "id": "otterbox-defender-series-pro-xt",
@@ -4324,7 +5189,17 @@
         "Thermoplastic elastomer"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.otterbox.com/products/iphone-duo-defender-series-pro-xt-case",
+      "imageCaption": "Source product image: OtterBox Defender Series Pro XT.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.otterbox.com/cdn/shop/files/defender-pro-xt-iphf26-black-3.png?v=1787761478&width=3840",
+          "caption": "Source product image: OtterBox Defender Series Pro XT.",
+          "sourceUrl": "https://www.otterbox.com/products/iphone-duo-defender-series-pro-xt-case"
+        }
+      ]
     },
     {
       "id": "torras-ostand-q3-vegskin",
@@ -4420,7 +5295,17 @@
         "Aluminium alloy stand"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://glass.torraslife.com/products/ostand-q3-vegskin-for-iphone-duo",
+      "imageCaption": "Source product image: TORRAS Ostand Q3 VegSkin.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://glass.torraslife.com/cdn/shop/files/8_af4d9b93-e89b-4a7c-94f7-bdad299c873f.png?v=1791541947&width=1200",
+          "caption": "Source product image: TORRAS Ostand Q3 VegSkin.",
+          "sourceUrl": "https://glass.torraslife.com/products/ostand-q3-vegskin-for-iphone-duo"
+        }
+      ]
     },
     {
       "id": "torras-ostand-q3-spin",
@@ -4488,56 +5373,96 @@
         "Aluminium alloy stand"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://de.torraslife.com/products/ostand-q3-spin-for-iphone-duo-cases",
+      "imageCaption": "Source product image: TORRAS Ostand Q3 Spin.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://de.torraslife.com/cdn/shop/files/4_d41ca1f1-e314-440e-a7f9-7f0b20bd5412.png?v=1791258061&width=3840",
+          "caption": "Source product image: TORRAS Ostand Q3 Spin.",
+          "sourceUrl": "https://de.torraslife.com/products/ostand-q3-spin-for-iphone-duo-cases"
+        }
+      ]
     },
     {
       "id": "qdos-duo-coming-soon",
       "brand": "QDOS",
-      "name": "cases (family unannounced)",
-      "url": "https://www.qdossound.com/collections/iphone-duo-cases",
-      "price": null,
-      "currency": null,
-      "ukListing": null,
-      "status": "coming-soon",
+      "name": "Hybrid SNAP",
+      "url": "https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear",
+      "price": 34.99,
+      "currency": "GBP",
+      "ukListing": true,
+      "status": "sold-out",
       "evidence": "official",
-      "materials": [],
-      "coverage": "unknown",
-      "hinge": null,
-      "magsafe": null,
+      "materials": [
+        "TPU",
+        "Polycarbonate"
+      ],
+      "coverage": "front-and-back",
+      "hinge": true,
+      "magsafe": true,
       "stand": null,
       "wallet": null,
       "strap": null,
-      "weightG": null,
+      "weightG": 37,
       "thicknessMm": null,
       "thicknessNote": null,
-      "dimensions": null,
+      "dimensions": "83.25 × 16.5 × 11.80 mm; axis order and folded state are not identified by the source.",
       "releaseDate": null,
-      "releaseNote": null,
-      "colours": [],
-      "summary": "Official Duo collection is coming soon; no purchasable named family verified.",
-      "limitations": [
-        "Collection-level placeholder, not an individual product.",
-        "No confirmed price, dispatch date, precise coverage or exact-family image."
+      "releaseNote": "Official listing was sold out when checked.",
+      "colours": [
+        "Clear"
       ],
-      "image": null,
+      "summary": "A clear two-piece recycled-plastic case with a flexible TPU hinge and built-in MagSafe ring.",
+      "limitations": [
+        "The published dimensions do not identify axis order or folded state, so they are excluded from numeric size filters.",
+        "Two-metre drop protection and anti-yellowing are manufacturer claims, not independent Duo testing."
+      ],
+      "image": "https://www.qdossound.com/cdn/shop/files/QDOS_iPhone_Duo_HYBRIDSNAP_Clear_ProductImage_HR_4.png?v=1789386210&width=3840",
       "shippingNote": null,
       "variants": [],
       "sources": [
         {
-          "url": "https://www.qdossound.com/collections/iphone-duo-cases",
-          "title": "QDOS iPhone Duo cases (family unannounced)",
+          "url": "https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear",
+          "title": "QDOS Hybrid SNAP for iPhone Duo",
           "type": "manufacturer",
           "facts": [
-            "Duo collection states Coming Soon.",
-            "Collection describes slim MagSafe-compatible cases using recycled materials; no named SKU verified."
+            "£34.99 including tax; sold out when checked.",
+            "Product code QDG-MS18U33-CL; 37 g; clear recycled TPU and polycarbonate.",
+            "Two-piece front/back design with flexible TPU hinge and N52 MagSafe ring."
           ]
         }
       ],
       "closedWidthMm": null,
       "closedDepthMm": null,
-      "materialNotes": [],
+      "materialNotes": [
+        "100% recycled TPU",
+        "100% recycled polycarbonate"
+      ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "coverageNote": "Two-piece front and back sections joined by a flexible TPU hinge.",
+      "images": [
+        {
+          "url": "https://www.qdossound.com/cdn/shop/files/QDOS_iPhone_Duo_HYBRIDSNAP_Clear_ProductImage_HR_4.png?v=1789386210&width=3840",
+          "caption": "QDOS Hybrid SNAP Case for iPhone Duo, Clear",
+          "sourceUrl": "https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear"
+        },
+        {
+          "url": "https://www.qdossound.com/cdn/shop/files/QDOS_iPhone_Duo_HYBRIDSNAP_Clear_ProductImage_HR_7.png?v=1789386209&width=3840",
+          "caption": "QDOS Hybrid SNAP Case for iPhone Duo, Clear View 2.",
+          "sourceUrl": "https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear"
+        },
+        {
+          "url": "https://www.qdossound.com/cdn/shop/files/QDOS_iPhone_Duo_HYBRIDSNAP_Clear_ProductImage_HR_8.png?v=1789386209&width=3840",
+          "caption": "QDOS Hybrid SNAP Case for iPhone Duo, Clear View 3.",
+          "sourceUrl": "https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear"
+        }
+      ],
+      "imageSource": "https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear",
+      "imageCaption": "QDOS Hybrid SNAP Case for iPhone Duo, Clear",
+      "imageVerification": "Exact current product gallery, product code QDG-MS18U33-CL; visually inspected."
     },
     {
       "id": "panzerglass-care-discovery",
@@ -4596,7 +5521,17 @@
         "Steel"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-discovery-case-black-grey-w-magsafe-iphone-2026-fold",
+      "imageCaption": "Source product image: PanzerGlass CARE Discovery MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://panzerglass.com/cdn/shop/files/CR83510_0.jpg?v=1789022474",
+          "caption": "Source product image: PanzerGlass CARE Discovery MagSafe.",
+          "sourceUrl": "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-discovery-case-black-grey-w-magsafe-iphone-2026-fold"
+        }
+      ]
     },
     {
       "id": "panzerglass-care-sl1m",
@@ -4704,7 +5639,17 @@
         "100% recycled plastic"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-sl1m-case-transparent-w-white-magsafe-iphone-2026-fold",
+      "imageCaption": "Source product image: PanzerGlass CARE SL1M MagSafe.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://panzerglass.com/cdn/shop/files/CR12569_0.jpg?v=1789022493",
+          "caption": "Source product image: PanzerGlass CARE SL1M MagSafe.",
+          "sourceUrl": "https://panzerglass.com/nl/products/care%E2%84%A2-by-panzerglass%C2%AE-sl1m-case-transparent-w-white-magsafe-iphone-2026-fold"
+        }
+      ]
     },
     {
       "id": "laut-kev-protect",
@@ -4774,7 +5719,17 @@
         "Magnets (10%)"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.itslaut.eu/products/kev-protect-dupont-aramid-fiber-case-for-iphone-18-duo",
+      "imageCaption": "Source product image: LAUT KEV PROTECT.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_KE_BK01.jpg?v=1791264260&width=2000",
+          "caption": "Source product image: LAUT KEV PROTECT.",
+          "sourceUrl": "https://www.itslaut.eu/products/kev-protect-dupont-aramid-fiber-case-for-iphone-18-duo"
+        }
+      ]
     },
     {
       "id": "laut-flexi-protect",
@@ -4846,7 +5801,17 @@
         "Magnets (10%)"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.itslaut.eu/products/flexi-protect-case-for-iphone-18-duo",
+      "imageCaption": "Source product image: LAUT FLEXI PROTECT.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_FPT_BK01.jpg?v=1789458729&width=2000",
+          "caption": "Source product image: LAUT FLEXI PROTECT.",
+          "sourceUrl": "https://www.itslaut.eu/products/flexi-protect-case-for-iphone-18-duo"
+        }
+      ]
     },
     {
       "id": "laut-crystal-fluro",
@@ -4917,7 +5882,17 @@
         "Magnets (10%)"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.itslaut.eu/products/crystal-fluro-case-for-iphone-18-duo",
+      "imageCaption": "Source product image: LAUT CRYSTAL FLURO.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_CF_C01.jpg?v=1789458183&width=2000",
+          "caption": "Source product image: LAUT CRYSTAL FLURO.",
+          "sourceUrl": "https://www.itslaut.eu/products/crystal-fluro-case-for-iphone-18-duo"
+        }
+      ]
     },
     {
       "id": "laut-fizz-crystal",
@@ -4987,7 +5962,17 @@
         "Magnets (10%)"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.itslaut.eu/products/fizz-crystal-case-for-iphone-18-duo",
+      "imageCaption": "Source product image: LAUT FIZZ CRYSTAL.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.itslaut.eu/cdn/shop/files/L_IP26F_FC_C01.jpg?v=1789457822&width=2000",
+          "caption": "Source product image: LAUT FIZZ CRYSTAL.",
+          "sourceUrl": "https://www.itslaut.eu/products/fizz-crystal-case-for-iphone-18-duo"
+        }
+      ]
     },
     {
       "id": "torro-wallet",
@@ -5020,10 +6005,9 @@
       ],
       "summary": "Leather folio with an integrated viewing stand.",
       "limitations": [
-        "Official image captions identify iPhone Ultra; exact Duo-family image match is insufficiently established, so image is null.",
         "Phone-hinge guard and numerical weight unconfirmed."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultr-stand-leather-black-red-white-background-1.jpg?v=1788434745",
       "shippingNote": "Selected colour marked in stock. Orders before 1:30pm UK time Monday to Friday dispatched same day, excluding bank holidays. Standard UK delivery quoted as 3 to 5 working days.",
       "variants": [],
       "sources": [
@@ -5046,7 +6030,27 @@
         "Microfibre lining"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultr-stand-leather-black-red-white-background-1.jpg?v=1788434745",
+          "caption": "TORRO Leather Wallet Case for iPhone Duo",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-leather-wallet-case"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-stand-leather-dark-brown-white-background-1.jpg?v=1788434745",
+          "caption": "TORRO Leather Wallet Case for iPhone Duo View 2.",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-leather-wallet-case"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-ultra-stand-compatibility-graphic-shopify.jpg?v=1789029439",
+          "caption": "TORRO Leather Wallet Case for iPhone Duo View 3.",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-leather-wallet-case"
+        }
+      ],
+      "imageSource": "https://torro.co.uk/products/iphone-duo-leather-wallet-case",
+      "imageCaption": "TORRO Leather Wallet Case for iPhone Duo",
+      "imageVerification": "Exact current Duo product page and product JSON; visual form/configuration inspected. Publisher asset filenames retain its earlier Ultra codename."
     },
     {
       "id": "torro-detachable-wallet",
@@ -5079,11 +6083,10 @@
       ],
       "summary": "Leather folio wallet with a detachable inner bumper.",
       "limitations": [
-        "Official image captions identify iPhone Ultra; exact Duo-family image match is insufficiently established, so image is null.",
         "Phone-hinge guard and numerical weight unconfirmed.",
         "MagSafe charging requires removal of folio cover; internal bumper only."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-detachable-leather-black-white-background-1.jpg?v=1788345131",
       "shippingNote": "Selected colour marked in stock. Orders before 1:30pm UK time Monday to Friday dispatched same day, excluding bank holidays. Standard UK delivery quoted as 3 to 5 working days.",
       "variants": [],
       "sources": [
@@ -5106,7 +6109,27 @@
         "Microfibre lining"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-detachable-leather-black-white-background-1.jpg?v=1788345131",
+          "caption": "TORRO 2-in-1 Detachable Leather Wallet Case for iPhone Duo",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-detachable-leather-dark-brown-white-background-1.jpg?v=1788345130",
+          "caption": "TORRO 2-in-1 Detachable Leather Wallet Case for iPhone Duo View 2.",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-ultra-detachable-compatibility-graphic-shopify.jpg?v=1789029476",
+          "caption": "TORRO 2-in-1 Detachable Leather Wallet Case for iPhone Duo View 3.",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case"
+        }
+      ],
+      "imageSource": "https://torro.co.uk/products/iphone-duo-detachable-leather-wallet-case",
+      "imageCaption": "TORRO 2-in-1 Detachable Leather Wallet Case for iPhone Duo",
+      "imageVerification": "Exact current Duo product page and product JSON; visual form/configuration inspected. Publisher asset filenames retain its earlier Ultra codename."
     },
     {
       "id": "torro-slim-folio-stand",
@@ -5139,11 +6162,10 @@
       ],
       "summary": "Leather folio with an integrated viewing stand.",
       "limitations": [
-        "Official image captions identify iPhone Ultra; exact Duo-family image match is insufficiently established, so image is null.",
         "Phone-hinge guard and numerical weight unconfirmed.",
         "MagSafe charger shown in image caption, but retained as unknown without an explicit specification."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-folio-with-stand-leather-black-red-white-background-1.jpg?v=1788873266",
       "shippingNote": "Selected colour marked in stock. Orders before 1:30pm UK time Monday to Friday dispatched same day, excluding bank holidays. Standard UK delivery quoted as 3 to 5 working days.",
       "variants": [],
       "sources": [
@@ -5166,7 +6188,27 @@
         "Microfibre lining"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-folio-with-stand-leather-black-red-white-background-1.jpg?v=1788873266",
+          "caption": "TORRO Slim Leather Folio with Rotating Stand for iPhone Duo",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-folio-with-stand-leather-dark-brown-white-background-1.jpg?v=1788873265",
+          "caption": "TORRO Slim Leather Folio with Rotating Stand for iPhone Duo View 2.",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-folio-with-stand-compatibility-graphic-shopify.jpg?v=1789029450",
+          "caption": "TORRO Slim Leather Folio with Rotating Stand for iPhone Duo View 3.",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand"
+        }
+      ],
+      "imageSource": "https://torro.co.uk/products/iphone-duo-slim-leather-folio-stand",
+      "imageCaption": "TORRO Slim Leather Folio with Rotating Stand for iPhone Duo",
+      "imageVerification": "Exact current Duo product page and product JSON; visual form/configuration inspected. Publisher asset filenames retain its earlier Ultra codename."
     },
     {
       "id": "torro-slim-folio",
@@ -5199,11 +6241,10 @@
       ],
       "summary": "Slim full-wrap leather folio.",
       "limitations": [
-        "Official image captions identify iPhone Ultra; exact Duo-family image match is insufficiently established, so image is null.",
         "Phone-hinge guard and numerical weight unconfirmed.",
         "Body copy inconsistently says designed for iPhone Ultra although title and compatibility identify Duo."
       ],
-      "image": null,
+      "image": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-ultra-slim-leather-folio-leather-black-red-white-background-1.jpg?v=1788786483",
       "shippingNote": "Selected colour marked in stock. Orders before 1:30pm UK time Monday to Friday dispatched same day, excluding bank holidays. Standard UK delivery quoted as 3 to 5 working days.",
       "variants": [],
       "sources": [
@@ -5226,7 +6267,27 @@
         "Microfibre lining"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-ultra-slim-leather-folio-leather-black-red-white-background-1.jpg?v=1788786483",
+          "caption": "TORRO Slim Leather Folio for iPhone Duo",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-slim-leather-folio"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-ultra-slim-leather-folio-leather-dark-brown-white-background-1.jpg?v=1788786483",
+          "caption": "TORRO Slim Leather Folio for iPhone Duo View 2.",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-slim-leather-folio"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0298/2357/files/torro-iphone-18-ultra-slim-folio-compatibility-graphic-shopify.jpg?v=1789029464",
+          "caption": "TORRO Slim Leather Folio for iPhone Duo View 3.",
+          "sourceUrl": "https://torro.co.uk/products/iphone-duo-slim-leather-folio"
+        }
+      ],
+      "imageSource": "https://torro.co.uk/products/iphone-duo-slim-leather-folio",
+      "imageCaption": "TORRO Slim Leather Folio for iPhone Duo",
+      "imageVerification": "Exact current Duo product page and product JSON; visual form/configuration inspected. Publisher asset filenames retain its earlier Ultra codename."
     },
     {
       "id": "burga-elite",
@@ -5264,7 +6325,7 @@
         "Manufacturer explicitly leaves the hinge unobstructed.",
         "Drop-tested wording is a manufacturer claim; no Duo-specific test result independently verified."
       ],
-      "image": null,
+      "image": "https://cdn.burga.photos/_variants/767/Storefront/Phone%20Case/HG_01EL_IP18PROFOLD_EL-dark-gold-magsafe/1__device-color=star%20white.webp",
       "shippingNote": null,
       "variants": [],
       "sources": [
@@ -5285,57 +6346,22 @@
       "closedDepthMm": null,
       "materialNotes": [],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
-    },
-    {
-      "id": "casetify-duo-waitlist",
-      "brand": "CASETiFY",
-      "name": "case lineup (waitlist)",
-      "url": "https://www.casetify.com/en_GB/iphone-cases/iphone-duo-cases",
-      "price": null,
-      "currency": null,
-      "ukListing": true,
-      "status": "coming-soon",
-      "evidence": "official",
-      "materials": [],
-      "coverage": "unknown",
-      "hinge": null,
-      "magsafe": null,
-      "stand": null,
-      "wallet": null,
-      "strap": null,
-      "weightG": null,
-      "thicknessMm": null,
-      "thicknessNote": null,
-      "dimensions": null,
-      "releaseDate": null,
-      "releaseNote": null,
-      "colours": [],
-      "summary": "Official UK Duo landing page invites waitlist registrations.",
-      "limitations": [
-        "Collection-level waitlist, not a verified purchasable SKU.",
-        "No verified price, dispatch, dimensions, material composition or exact-family product image.",
-        "Landing page mentions Impact Case and generic protection technologies; no separate Impact or Bounce product is established."
-      ],
-      "image": null,
-      "shippingNote": null,
-      "variants": [],
-      "sources": [
+      "checkedAt": "2026-10-15",
+      "images": [
         {
-          "url": "https://www.casetify.com/en_GB/iphone-cases/iphone-duo-cases",
-          "title": "CASETiFY iPhone Duo case lineup (waitlist)",
-          "type": "manufacturer",
-          "facts": [
-            "Official UK Duo page invites users to join the waitlist.",
-            "MagSafe and hinge-protection language appears at lineup level; no exact selected case verified."
-          ]
+          "url": "https://cdn.burga.photos/_variants/767/Storefront/Phone%20Case/HG_01EL_IP18PROFOLD_EL-dark-gold-magsafe/1__device-color=star%20white.webp",
+          "caption": "BURGA Elite Dark for iPhone Duo, Gold MagSafe",
+          "sourceUrl": "https://uk.burga.com/collections/iphone-duo-cases"
+        },
+        {
+          "url": "https://cdn.burga.photos/_variants/767/Storefront/Phone%20Case/HG_02EL_IP18PROFOLD_EL-dark-gold-magsafe/1__device-color=star%20white.webp",
+          "caption": "BURGA Elite Dark for iPhone Duo, Gold MagSafe View 2.",
+          "sourceUrl": "https://uk.burga.com/collections/iphone-duo-cases"
         }
       ],
-      "closedWidthMm": null,
-      "closedDepthMm": null,
-      "materialNotes": [],
-      "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "imageSource": "https://uk.burga.com/collections/iphone-duo-cases",
+      "imageCaption": "BURGA Elite Dark for iPhone Duo, Gold MagSafe",
+      "imageVerification": "Exact current iPhone Duo collection assets and foldable form visually inspected."
     },
     {
       "id": "nomad-traditional-leather-folio",
@@ -5421,7 +6447,17 @@
         "Anodised aluminium camera ring"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://nomadgoods.com/products/traditional-leather-folio-iphone-duo-saddle-horween",
+      "imageCaption": "Source product image: Nomad Traditional Leather Folio.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0384/6721/files/856504017682_A_LOGO_PHONE.jpg?crop=center&height=100&v=1788727205&width=100",
+          "caption": "Source product image: Nomad Traditional Leather Folio.",
+          "sourceUrl": "https://nomadgoods.com/products/traditional-leather-folio-iphone-duo-saddle-horween"
+        }
+      ]
     },
     {
       "id": "nomad-mag-leather-back",
@@ -5491,7 +6527,17 @@
         "Microsuction patches"
       ],
       "brandEvidence": "historical-hands-on",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://nomadgoods.com/eu/products/magnetic-leather-back-iphone-duo-saddle-horween-magsafe",
+      "imageCaption": "Source product image: Nomad Mag Leather Back.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0384/6721/files/856504017651_A_LOGO_PHONE.jpg?crop=center&height=100&v=1788721978&width=100",
+          "caption": "Source product image: Nomad Mag Leather Back.",
+          "sourceUrl": "https://nomadgoods.com/eu/products/magnetic-leather-back-iphone-duo-saddle-horween-magsafe"
+        }
+      ]
     },
     {
       "id": "burton-goods-heritage",
@@ -5554,7 +6600,17 @@
         "Microfibre interior"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://burtongoods.com/products/heritage-leather-case-for-iphone-18-duo",
+      "imageCaption": "Source product image: Burton Goods Heritage Leather Case.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://burtongoods.com/cdn/shop/files/iphone-case-heritage-leather-case-for-iphone-18-duo-burton-goods-1257682891.jpg?v=1788997239&width=1946",
+          "caption": "Source product image: Burton Goods Heritage Leather Case.",
+          "sourceUrl": "https://burtongoods.com/products/heritage-leather-case-for-iphone-18-duo"
+        }
+      ]
     },
     {
       "id": "burton-goods-pocket-book",
@@ -5619,7 +6675,17 @@
         "Marine-grade UV-resistant nylon stitching"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://burtongoods.com/products/pocket-book-case-for-iphone-18-duo",
+      "imageCaption": "Source product image: Burton Goods The Pocket Book Leather Case.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://burtongoods.com/cdn/shop/files/iphone-case-the-pocket-book-leather-case-for-iphone-18-duo-burton-goods-1257682898.png?v=1788997118&width=1946",
+          "caption": "Source product image: Burton Goods The Pocket Book Leather Case.",
+          "sourceUrl": "https://burtongoods.com/products/pocket-book-case-for-iphone-18-duo"
+        }
+      ]
     },
     {
       "id": "rokform-rugged",
@@ -5700,7 +6766,17 @@
         "Tempered glass"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.rokform.com/products/iphone-duo-rugged-case-black",
+      "imageCaption": "Source product image: ROKFORM Rugged Case.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.rokform.com/cdn/shop/files/1-Rugged-iPhoneDuo.jpg?v=1789056670&width=1200",
+          "caption": "Source product image: ROKFORM Rugged Case.",
+          "sourceUrl": "https://www.rokform.com/products/iphone-duo-rugged-case-black"
+        }
+      ]
     },
     {
       "id": "nudient-slice",
@@ -5766,7 +6842,17 @@
         "Polycarbonate"
       ],
       "brandEvidence": "not-established",
-      "checkedAt": "2026-10-15"
+      "checkedAt": "2026-10-15",
+      "imageSource": "https://www.nudient.com/products/slice-case-iphone-duo-ink-black-magsafe",
+      "imageCaption": "Source product image: NUDIENT Slice Case.",
+      "imageVerification": "Source-linked visual retained with its product provenance; CASEBOOK does not claim independent photography.",
+      "images": [
+        {
+          "url": "https://www.nudient.com/cdn/shop/files/00-049-0145-0000_1_379adff0-acec-419b-9ce1-bce24c947423.jpg?v=1790769371&width=1500",
+          "caption": "Source product image: NUDIENT Slice Case.",
+          "sourceUrl": "https://www.nudient.com/products/slice-case-iphone-duo-ink-black-magsafe"
+        }
+      ]
     }
   ],
   "brands": [
@@ -6836,10 +7922,10 @@
     },
     {
       "brand": "QDOS",
-      "status": "coming-soon",
-      "note": "Official Duo collection says coming soon. Placeholder entry retained for visibility; no named purchasable family, exact price or product image verified.",
+      "status": "verified-with-gaps",
+      "note": "Hybrid SNAP is verified as a named Duo case. Availability, price and specifications are recorded in its product file.",
       "sourceUrls": [
-        "https://www.qdossound.com/collections/iphone-duo-cases"
+        "https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear"
       ]
     },
     {
