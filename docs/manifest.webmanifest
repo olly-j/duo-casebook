@@ -1,13 +1,13 @@
 {
   "id": "./",
-  "name": "CASEBOOK \u00b7 iPhone Duo case finder",
+  "name": "CASEBOOK · iPhone Duo case finder",
   "short_name": "CASEBOOK",
   "description": "Compare iPhone Duo cases by price, coverage and published features.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#fbfbfd",
+  "theme_color": "#fbfbfd",
   "icons": [
     {
       "src": "assets/icon-192.png",
