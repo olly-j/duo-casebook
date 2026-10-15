@@ -10,6 +10,14 @@ The 15 October 2026 research snapshot includes 92 case designs and configuration
 
 The [buying guide](https://olly-j.github.io/duo-casebook/guides/choose-a-case/) explains coverage, measurements and buying terms. Each case also has a readable, shareable page that works without JavaScript. Filtering, saving and comparison use the enhanced catalogue.
 
+## Design and performance
+
+CASEBOOK uses a quieter, Apple-inspired interface: white and graphite surfaces, system typography, neutral controls and restrained system blue for focus. Liquid Glass sits on touchable UI, including the compact navigation, floating comparison bar, selected image controls and sheet actions. Case photographs and product specifications stay sharp, with no glass overlay.
+
+The default is native browser CSS material. [liquidGL v3.0.0](https://github.com/naughtyduk/liquidGL) is vendored from the official MIT release and **loaded lazily only** for a small compare control on capable desktop browsers with a short filtered list. iPhone and Safari use the lightweight CSS treatment. Reduced transparency, motion, contrast, low memory and data-saving settings disable GPU refraction. There is no third-party CDN or additional tracking service.
+
+See the [design system](docs/design-system.md) for colour tokens, performance gates, touch/accessibility requirements and the [liquidGL licence](web/vendor/LICENSE.txt). Re-run the native design checks with `node --test tests/liquid-ui.test.cjs`.
+
 ## Sources and trust
 
 Manufacturer descriptions remain manufacturer claims. Historical reviews identify the exact older model tested. CASEBOOK has not physically tested these Duo cases and does not invent review ratings, global rankings or unpublished specifications. Confirm live stock, the selected variant and delivered total with the seller.
