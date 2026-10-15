@@ -335,3 +335,7 @@ input[type=checkbox]{accent-color:var(--focus)}
 @media(prefers-reduced-motion:reduce){
   button,.button-link,.privacy-center-trigger{transition:none!important}
 }
+
+/* One clear title in the mobile filter sheet; the first h2 remains accessible. */
+#filters-dialog .filter-title h2{display:none}
+#filters-dialog .filter-title{justify-content:flex-end;margin:.15rem 0 .55rem}
