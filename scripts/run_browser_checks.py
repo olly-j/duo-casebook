@@ -16,8 +16,10 @@ def main()->int:
         print('Playwright module or cached Chromium not found. Set PLAYWRIGHT_MODULE and CHROME_PATH.',file=sys.stderr);return 2
     env=os.environ.copy();env.update(PLAYWRIGHT_MODULE=module,CHROME_PATH=chrome)
     if args.url:env['CASEBOOK_TEST_URL']=args.url
+    axe=first([os.getenv('AXE_PATH'),*glob.glob(str(home/'.npm/_npx/*/node_modules/axe-core/axe.min.js'))])
+    if axe:env['AXE_PATH']=axe
     scripts=['tests/browser-functional.cjs']
-    if args.all:scripts+=['tests/browser-smoke.cjs','tests/photo-audit.cjs']
+    if args.all:scripts+=['tests/browser-smoke.cjs','tests/photo-audit.cjs','tests/launch-browser.cjs']
     for script in scripts:
         print('+ node',script,flush=True);result=subprocess.run(['node',script],cwd=ROOT,env=env)
         if result.returncode:return result.returncode

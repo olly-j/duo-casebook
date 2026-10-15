@@ -125,9 +125,37 @@ for brand in sorted({p['brand'] for p in all_products}):
   registry[brand]=dict(brand=brand,status='verified-with-gaps',note=str(len(ps))+' public case designs or configurations located. Unpublished measurements and availability gaps are retained in each product file.',sourceUrls=list(dict.fromkeys(p['url'] for p in ps)))
 registry['QDOS']=dict(brand='QDOS',status='verified-with-gaps',note='Hybrid SNAP is verified as a named Duo case. Availability, price and specifications are recorded in its product file.',sourceUrls=['https://www.qdossound.com/products/iphone-duo-hybrid-snap-magsafe-case-clear'])
 meta=dict(checkedAt='2026-10-15',device='iPhone Duo',deviceUrl='https://www.apple.com/uk/iphone-duo/',preorderDate='2026-10-16',releaseDate='2026-10-23',coverageNote='A dated index of publicly discoverable case designs, configurations and source-published concepts. Every product entry has a provenance-linked visual. Unnamed waitlists remain in the coverage registry rather than appearing as products. Decorative finishes are grouped where they share a design. Unannounced products, unindexed sellers and later changes cannot be guaranteed. No automatic monitoring is running.')
+# Editorial changes preserve their exact original factual summary for review.
+copy_path=ROOT/'research'/'editorial-copy.json'
+if copy_path.is_file():
+ copy=json.loads(copy_path.read_text())
+ by_id={p['id']:p for p in all_products}
+ if copy['reviewedCount']!=len(all_products):raise ValueError('Editorial review count is stale')
+ for patch in copy['patches']:
+  product=by_id[patch['id']]
+  if product['summary']!=patch['originalSummary']:raise ValueError('Editorial source changed: '+patch['id'])
+  product['summary']=patch['summary']
+
+# Optional verified image renditions are delivery assets, never new product evidence.
+image_map_path=ROOT/'research'/'image-delivery.json'
+if image_map_path.is_file():
+ import hashlib
+ image_map=json.loads(image_map_path.read_text())['images']
+ for p in all_products:
+  record=image_map.get(p['id'])
+  if not record or record['sourceUrl']!=p['image']:continue
+  for variant in record['renditions']:
+   asset=(ROOT/'web'/variant['path']).resolve()
+   if not asset.is_relative_to((ROOT/'web/assets/cases').resolve()) or not asset.is_file() or hashlib.sha256(asset.read_bytes()).hexdigest()!=variant['sha256']:
+    raise ValueError('Image delivery copy missing or changed: '+p['id'])
+  p['thumbnail']=record['renditions'][0]['path']
+  p['preview']=record['renditions'][1]['path']
+  p['thumbnailWidth']=record['renditions'][0]['width']
+  p['thumbnailHeight']=record['renditions'][0]['height']
+
 data=dict(meta=meta,products=all_products,brands=brand_data,coverage=sorted(registry.values(),key=lambda x:x['brand'].lower()))
 text=json.dumps(data,ensure_ascii=False,indent=2).replace('\u2014',', ')
-(ROOT/'web'/'data.js').write_text('window.CASEBOOK = '+text+';\n')
+(ROOT/'web'/'data.js').write_text('window.CASEBOOK = '+json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('\u2014',', ')+';\n')
 (ROOT/'web'/'catalogue.json').write_text(text+'\n')
 (ROOT/'research'/'catalogue-summary.json').write_text(json.dumps(dict(records=len(all_products),brands=len({p['brand'] for p in all_products}),registry=len(registry),images=sum(bool(p['image']) for p in all_products),galleryImages=sum(len(p.get('images') or []) for p in all_products),imageComplete=all(bool(p.get('image')) for p in all_products),weightPublished=sum(p['weightG'] is not None for p in all_products),pricePublished=sum(p['price'] is not None for p in all_products)),indent=2))
 print((ROOT/'research'/'catalogue-summary.json').read_text())

@@ -14,9 +14,9 @@ A commit or successful Pages build does not prove the public catalogue matches t
 
 ## Current release
 
-- Work item: CB-001
+- Work item: CB-002
 - Target: `main`, GitHub Pages from `/docs`
-- Scope: complete product visuals, gallery provenance, mobile UI/UX polish and core/web development-spine adoption.
+- Scope: crawlable case pages, discovery metadata, sharing previews, Apple-inspired design, revised copy, image delivery and disabled consent-gated AdSense integration.
 - Approval: owner explicitly authorised implementation and public deployment on 15 October 2026.
 - Evidence: `QA.md`, `research/catalogue-summary.json`, Lane C output and strict deployment verification.
 - GitHub Release: deferred because this is a continuously published static catalogue without a packaged consumer artifact.
@@ -24,3 +24,9 @@ A commit or successful Pages build does not prove the public catalogue matches t
 ## Rollback
 
 Revert the release commit on `main`, push the revert, wait for Pages to build, then run strict deployment verification against the restored catalogue. Preserve the failed revision and evidence for diagnosis.
+
+## CB-002 release acceptance
+
+The owner requested production publication of this public site and tasteful advertising. That authority covers this bounded release; it does not activate publisher accounts, accept terms, provide payment details or waive consent/site approval. Advertising remains off. Physical iPhone and VoiceOver acceptance are not implied by emulated browser checks. Search Console submission and indexing are not claimed.
+
+Public verification must match the exact build-manifest.json and its complete file inventory. Docs-only evidence reconciliation after publication must leave that inventory byte-identical.

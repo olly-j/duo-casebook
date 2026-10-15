@@ -17,3 +17,5 @@ Status: Active authority map
 | Product facts | `research/*.json` and `build_data.py` |
 
 Update an existing authority before creating a competing document. Generated catalogue files are outputs, not product-fact authorities. Temporary agent logs and private runtime history do not belong in the public repository unless retained as named, reusable evidence for a CB work item.
+
+CB-002 specialist authorities: docs/design-system.md, docs/copy-review.md, docs/discovery.md and docs/advertising.md. Exact release artifacts are recorded in docs/build-manifest.json; test evidence is stored in evidence/ and QA.md.

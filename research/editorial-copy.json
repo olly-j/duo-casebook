@@ -1,0 +1,281 @@
+{
+  "reviewedCount": 92,
+  "patches": [
+    {
+      "id": "apple-case",
+      "originalSummary": "A matte, two-part shell with built-in magnets and a restrained finish.",
+      "summary": "A matte, two-part shell with built-in magnets.",
+      "reason": "Remove the subjective description of the finish."
+    },
+    {
+      "id": "dbrand-grip",
+      "originalSummary": "A textured shell with an elastic-polymer hinge cover and decorative skin options.",
+      "summary": "A textured shell with a flexible polymer hinge cover and decorative skin options.",
+      "reason": "Replace material jargon with plain wording while retaining the cover and skin options."
+    },
+    {
+      "id": "benks-armorgrid-air-grand-combo-for-iphone-duo",
+      "originalSummary": "Duo-specific three-part set; the product page expressly excludes hinge protection.",
+      "summary": "A three-part set with no hinge protection.",
+      "reason": "Remove redundant model wording and state the coverage limitation directly."
+    },
+    {
+      "id": "benks-crystal-grand-combo-for-iphone-duo",
+      "originalSummary": "Clear exterior protection set. Current US product copy includes a MagSafe hinge-protection claim.",
+      "summary": "A clear exterior protection set. The US listing claims MagSafe hinge protection.",
+      "reason": "Replace internal copy commentary with a concise, attributed claim."
+    },
+    {
+      "id": "ringke-fusion-for-iphone-duo",
+      "originalSummary": "Duo-specific clear hybrid case with dual strap holes.",
+      "summary": "A clear hybrid case with two strap holes.",
+      "reason": "Remove redundant model wording and simplify dual."
+    },
+    {
+      "id": "ringke-fusion-hinge-film-2p-for-iphone-duo",
+      "originalSummary": "Bundle adds two flexible EPU hinge films to the Fusion case; this is film coverage rather than a rigid hinge guard.",
+      "summary": "The Fusion case comes with two flexible EPU hinge films, rather than a rigid hinge guard.",
+      "reason": "Simplify bundle wording while preserving the material and the distinction between film and a rigid guard."
+    },
+    {
+      "id": "ringke-fusion-magnetic-for-iphone-duo",
+      "originalSummary": "Duo-specific clear hybrid case with dual strap holes.",
+      "summary": "A clear hybrid case with two strap holes.",
+      "reason": "Remove redundant model wording and simplify dual."
+    },
+    {
+      "id": "ringke-fusion-magnetic-hinge-film-2p-for-iphone-duo",
+      "originalSummary": "Bundle adds two flexible EPU hinge films to the Fusion case; this is film coverage rather than a rigid hinge guard.",
+      "summary": "The Fusion case comes with two flexible EPU hinge films, rather than a rigid hinge guard.",
+      "reason": "Simplify bundle wording while preserving the material and the distinction between film and a rigid guard."
+    },
+    {
+      "id": "poetic-spartan-magsafe-for-iphone-duo",
+      "originalSummary": "Duo-specific Spartan listing advertises built-in MagSafe magnets, textured edges and a tempered-glass screen protector.",
+      "summary": "Advertised with built-in MagSafe magnets, textured edges and a tempered-glass screen protector.",
+      "reason": "Remove repeated product identity while retaining attribution and every listed feature."
+    },
+    {
+      "id": "nillkin-super-frosted-shield-fold-magsafe-for-iphone-duo",
+      "originalSummary": "Frosted grip case with raised camera protection, a flexible front frame and an advertised hinge-defence feature.",
+      "summary": "A frosted grip case with raised camera protection and a flexible front frame. Nillkin also advertises hinge protection.",
+      "reason": "Replace hinge-defence jargon and separate the advertised claim from the other features."
+    },
+    {
+      "id": "jetech-vegan-leather-case-with-hinge-protection-for-iphone-duo",
+      "originalSummary": "PU-covered PC back shell with hinge protection and built-in MagSafe magnets.",
+      "summary": "A polycarbonate back shell with a synthetic leather covering, hinge protection and built-in MagSafe magnets.",
+      "reason": "Expand material abbreviations into familiar wording."
+    },
+    {
+      "id": "fntcase-full-hinge-protection-clear-for-iphone-duo",
+      "originalSummary": "Smooth-gliding hinge cover and integrated front screen protector.",
+      "summary": "A sliding hinge cover and built-in front screen protector.",
+      "reason": "Remove promotional smooth-gliding wording and simplify integrated."
+    },
+    {
+      "id": "fntcase-frosted-oil-spray-touch-magnetic-for-iphone-duo",
+      "originalSummary": "Translucent matte magnetic case; title explicitly identifies iPhone Duo.",
+      "summary": "A translucent matte magnetic case.",
+      "reason": "Remove internal title-verification wording."
+    },
+    {
+      "id": "fntcase-translucent-magnetic-rugged-ring-kickstand-with-hinge-protection-for-iphone-duo",
+      "originalSummary": "Dedicated hinge guard and rotating ring grip/stand with MagSafe support.",
+      "summary": "A hinge guard and rotating ring that works as a grip or stand, with MagSafe support.",
+      "reason": "Replace slash shorthand with a natural sentence."
+    },
+    {
+      "id": "speck-presidio-perfect-clear-fold-magsafe-for-iphone-duo",
+      "originalSummary": "Duo-specific foldable case with automatic hinge closure and built-in MagSafe magnets.",
+      "summary": "A folding case with automatic hinge closure and built-in MagSafe magnets.",
+      "reason": "Remove redundant model wording and simplify foldable."
+    },
+    {
+      "id": "speck-presidio-lux-fold-magsafe-for-iphone-duo",
+      "originalSummary": "Duo-specific foldable case with automatic hinge closure and built-in MagSafe magnets.",
+      "summary": "A folding case with automatic hinge closure and built-in MagSafe magnets.",
+      "reason": "Remove redundant model wording and simplify foldable."
+    },
+    {
+      "id": "zagg-sedona-for-magsafe-with-stand-for-iphone-duo",
+      "originalSummary": "Multi-layer case with reinforced bumpers, hinge coverage and an integrated portrait/landscape kickstand.",
+      "summary": "A multi-layer case with reinforced bumpers, hinge coverage and a built-in stand for portrait or landscape viewing.",
+      "reason": "Replace compressed technical phrasing with natural wording."
+    },
+    {
+      "id": "case-mate-floral-gems-magsafe-for-iphone-duo",
+      "originalSummary": "One folding case format with Floral Gems or Sheer Twinkle Silver decorative finishes.",
+      "summary": "A folding case available in Floral Gems or Sheer Twinkle Silver finishes.",
+      "reason": "Simplify internal format wording while preserving both finishes."
+    },
+    {
+      "id": "case-mate-tough-plus-clear-magsafe-with-stand-for-iphone-duo",
+      "originalSummary": "Duo-specific one-piece case with adhesive lining and built-in MagSafe magnets.",
+      "summary": "A one-piece case with adhesive lining and built-in MagSafe magnets.",
+      "reason": "Remove redundant model wording."
+    },
+    {
+      "id": "pelican-protector-magsafe-with-stand-for-iphone-duo",
+      "originalSummary": "Duo-specific rugged Protector listing with full hinge coverage, MagSafe magnets and a built-in stand.",
+      "summary": "A rugged case with full hinge coverage, MagSafe magnets and a built-in stand.",
+      "reason": "Remove redundant product identity and listing commentary."
+    },
+    {
+      "id": "pelican-ranger-clear-magsafe-for-iphone-duo",
+      "originalSummary": "Separate Ranger Clear MagSafe family listed on the Duo product page.",
+      "summary": "A separate Ranger Clear MagSafe option.",
+      "reason": "Remove internal product-page and family wording while retaining the distinct option."
+    },
+    {
+      "id": "incipio-survivor-clear-for-magsafe-for-iphone-duo",
+      "originalSummary": "Official Duo collection lists Survivor Clear for MagSafe in two finishes.",
+      "summary": "Available in two finishes.",
+      "reason": "Remove repeated product identity and collection-verification wording."
+    },
+    {
+      "id": "elago-magsafe-silicone-case-for-iphone-duo",
+      "originalSummary": "Duo-specific two-piece case with silicone-finished PC rear, PC front frame and pre-applied adhesive.",
+      "summary": "A two-piece case with a silicone-covered polycarbonate back, a polycarbonate front frame and pre-applied adhesive.",
+      "reason": "Remove redundant model wording and expand material abbreviations."
+    },
+    {
+      "id": "elago-magsafe-hybrid-clear-case-for-iphone-duo",
+      "originalSummary": "Clear PC case with magnetic compatibility, adhesive fitting and a fine interior dot pattern.",
+      "summary": "A clear polycarbonate case with magnetic compatibility, adhesive fitting and a fine interior dot pattern.",
+      "reason": "Expand the material abbreviation without changing the magnetic claim."
+    },
+    {
+      "id": "cygnett-aeroshield-clear-for-iphone-duo",
+      "originalSummary": "Clear hard-shell case with raised camera bezel and anti-yellowing treatment.",
+      "summary": "A clear hard-shell case with a raised edge around the camera and an anti-yellowing treatment.",
+      "reason": "Replace bezel jargon with its location and shape."
+    },
+    {
+      "id": "cygnett-aeromag-clear-for-iphone-duo",
+      "originalSummary": "Clear hard-shell case with raised camera bezel and anti-yellowing treatment.",
+      "summary": "A clear hard-shell case with a raised edge around the camera and an anti-yellowing treatment.",
+      "reason": "Replace bezel jargon with its location and shape."
+    },
+    {
+      "id": "mujjo-troubadour-iphone-duo-case",
+      "originalSummary": "Leather two-piece case from the former Mujjo brand, with raised front bezel and MagSafe magnets.",
+      "summary": "A two-piece leather case from the former Mujjo brand, with a raised front edge and MagSafe magnets.",
+      "reason": "Improve word order and replace bezel jargon while retaining the brand history."
+    },
+    {
+      "id": "snakehive-metro-leather-wallet-for-iphone-duo",
+      "originalSummary": "Duo-specific wallet with four card slots, cash storage, magnetic closure and a viewing stand.",
+      "summary": "A wallet with four card slots, cash storage, magnetic closure and a viewing stand.",
+      "reason": "Remove redundant model wording."
+    },
+    {
+      "id": "blackbrook-classic-leather-folio-for-iphone-duo",
+      "originalSummary": "Fixed leather folio with integrated MagSafe compatibility and raised leather camera surround.",
+      "summary": "A fixed leather folio with MagSafe compatibility and a raised leather surround for the camera.",
+      "reason": "Remove filler and improve the flow of the camera detail."
+    },
+    {
+      "id": "vaja-folio-leather-case-with-magsafe-for-iphone-duo",
+      "originalSummary": "Handcrafted leather folio with magnetic closure and MagSafe; folio has no card slots.",
+      "summary": "A handcrafted leather folio with magnetic closure and MagSafe. It has no card slots.",
+      "reason": "Replace repetitive semicolon phrasing with a clear limitation."
+    },
+    {
+      "id": "vaja-wallet-leather-case-with-magsafe-for-iphone-duo",
+      "originalSummary": "Handcrafted leather folio with magnetic closure and MagSafe; wallet adds three RFID-protected card slots and a bill pocket.",
+      "summary": "A handcrafted leather folio with magnetic closure, MagSafe, three RFID-protected card slots and a pocket for notes.",
+      "reason": "Remove internal comparison phrasing and use UK wording for cash storage."
+    },
+    {
+      "id": "vaja-leather-folio-wrap-with-aramid-shell-for-iphone-duo",
+      "originalSummary": "Two-layer system weighs 69 g together; the 18 g aramid shell stays fitted when the leather wrap is removed.",
+      "summary": "The leather wrap and aramid shell weigh 69 g together. The 18 g shell stays fitted when the wrap is removed.",
+      "reason": "Replace system jargon while preserving both weights and the removable configuration."
+    },
+    {
+      "id": "vaja-leather-wallet-wrap-with-aramid-shell-for-iphone-duo",
+      "originalSummary": "Separate wallet-wrap configuration referenced by Vaja, adding two RFID-protected card slots and folded-bill storage.",
+      "summary": "A separate wallet wrap with two RFID-protected card slots and storage for folded notes.",
+      "reason": "Remove research attribution and configuration jargon while retaining the separate option and storage."
+    },
+    {
+      "id": "noreve-2154tc-leather-case-for-iphone-duo",
+      "originalSummary": "Retailer lists Noreve model 2154TCF56/f for Apple iPhone Duo with MagSafe.",
+      "summary": "The retailer lists model 2154TCF56/f with MagSafe.",
+      "reason": "Remove repeated brand and phone identity while retaining the exact model and retailer attribution."
+    },
+    {
+      "id": "noreve-2154tb-leather-wallet-case-for-iphone-duo",
+      "originalSummary": "Retailer lists a separate Duo wallet model, 2154TB53/f, with snap closure and business-card pocket.",
+      "summary": "The retailer lists a separate wallet model, 2154TB53/f, with a snap closure and business-card pocket.",
+      "reason": "Remove redundant phone identity and improve sentence flow while preserving retailer attribution."
+    },
+    {
+      "id": "ridge-phone-case-for-iphone-duo-carbon",
+      "originalSummary": "Duo product listing advertises Kevlar construction, raised screen/camera edges and MagSafe/Qi compatibility.",
+      "summary": "Advertised with Kevlar construction, raised screen and camera edges, and MagSafe and Qi compatibility.",
+      "reason": "Remove listing commentary and slash shorthand while preserving claim attribution."
+    },
+    {
+      "id": "otterbox-defender-series-pro-xt",
+      "originalSummary": "Rugged case with an articulating hinge guard and magnetic wireless charging.",
+      "summary": "A rugged case with a jointed hinge guard and magnetic wireless charging.",
+      "reason": "Replace articulating jargon with plain wording."
+    },
+    {
+      "id": "torras-ostand-q3-spin",
+      "originalSummary": "Magnetic ring-stand case listed specifically for Duo on the German storefront.",
+      "summary": "A magnetic case with a ring stand, listed on the German shop.",
+      "reason": "Remove redundant model verification and simplify storefront while retaining the regional context."
+    },
+    {
+      "id": "qdos-duo-coming-soon",
+      "originalSummary": "A clear two-piece recycled-plastic case with a flexible TPU hinge and built-in MagSafe ring.",
+      "summary": "A clear two-piece recycled-plastic case with a flexible TPU plastic hinge and built-in MagSafe ring.",
+      "reason": "Clarify the material abbreviation without losing its specificity or implying a rigid hinge guard."
+    },
+    {
+      "id": "panzerglass-care-discovery",
+      "originalSummary": "Aramid-fibre foldable case with steel reinforcement, listed specifically for Duo.",
+      "summary": "An aramid-fibre folding case with steel reinforcement.",
+      "reason": "Remove redundant model wording and simplify foldable."
+    },
+    {
+      "id": "laut-crystal-fluro",
+      "originalSummary": "Clear magnetic case listed for Duo.",
+      "summary": "A clear magnetic case.",
+      "reason": "Remove redundant model-verification wording."
+    },
+    {
+      "id": "laut-fizz-crystal",
+      "originalSummary": "Clear magnetic case listed for Duo.",
+      "summary": "A clear magnetic case.",
+      "reason": "Remove redundant model-verification wording."
+    },
+    {
+      "id": "burga-elite",
+      "originalSummary": "Two-piece decorative case family with matte finish and textured sides. Designs are grouped as one Elite family.",
+      "summary": "A two-piece decorative case available in several designs, with a matte finish and textured sides.",
+      "reason": "Replace internal grouping commentary while preserving the range of designs and construction."
+    },
+    {
+      "id": "nomad-mag-leather-back",
+      "originalSummary": "Magnetic leather back panel attached with MagSafe magnets and reusable microsuction patches.",
+      "summary": "A leather back panel held in place by MagSafe magnets and reusable microsuction patches.",
+      "reason": "Remove repetition and make the attachment method easier to read."
+    },
+    {
+      "id": "burton-goods-heritage",
+      "originalSummary": "Leather exterior-back case with a leather hinge section and magnetic closure.",
+      "summary": "A leather case covering the exterior back, with a leather hinge section and magnetic closure.",
+      "reason": "Replace awkward compound wording while retaining the coverage distinction."
+    },
+    {
+      "id": "nudient-slice",
+      "originalSummary": "A magnetic backplate with a ribbed surface. Official Duo product photographs show the front and side controls left exposed.",
+      "summary": "A magnetic back panel with a ribbed surface. Product photographs show the front and side controls left exposed.",
+      "reason": "Replace backplate jargon and remove redundant model and official-source wording while retaining photographic attribution."
+    }
+  ]
+}

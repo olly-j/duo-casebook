@@ -1,0 +1,17 @@
+/* CB-002: no reserved space at all until gated consent; never sticky or overlaid. */
+.casebook-ad[hidden] { display: none !important; }
+.casebook-ad {
+  box-sizing: border-box;
+  height: 340px;
+  margin: 3rem 0;
+  padding: 1rem 0;
+  contain: layout;
+}
+.casebook-ad-label {
+  display: block;
+  margin-bottom: 1rem;
+  text-align: center;
+  font: 0.75rem/1.5 system-ui, sans-serif;
+  color: inherit;
+}
+.casebook-ad .adsbygoogle { height: 280px; width: 100%; }

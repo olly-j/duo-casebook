@@ -51,7 +51,9 @@
           "node",
           "--test",
           "tests/polish.test.cjs",
-          "tests/ux-polish.test.cjs"
+          "tests/ux-polish.test.cjs",
+          "tests/ui-launch.test.cjs",
+          "tests/ads.test.cjs"
         ]
       ],
       "B": [
@@ -64,7 +66,9 @@
           "node",
           "--test",
           "tests/polish.test.cjs",
-          "tests/ux-polish.test.cjs"
+          "tests/ux-polish.test.cjs",
+          "tests/ui-launch.test.cjs",
+          "tests/ads.test.cjs"
         ],
         [
           "python3",
@@ -78,7 +82,8 @@
           "-m",
           "unittest",
           "tests.test_spine_runtime",
-          "tests.test_spine_liveness"
+          "tests.test_spine_liveness",
+          "tests.test_discovery"
         ],
         [
           "node",
@@ -89,7 +94,9 @@
           "node",
           "--test",
           "tests/polish.test.cjs",
-          "tests/ux-polish.test.cjs"
+          "tests/ux-polish.test.cjs",
+          "tests/ui-launch.test.cjs",
+          "tests/ads.test.cjs"
         ],
         [
           "python3",

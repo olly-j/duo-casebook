@@ -1,0 +1,5 @@
+# Project-path artifact only. Crawlers consult origin /robots.txt.
+# This file does not control olly-j.github.io.
+User-agent: *
+Allow: /duo-casebook/
+Sitemap: https://olly-j.github.io/duo-casebook/sitemap.xml
