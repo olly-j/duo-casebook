@@ -1,0 +1,10 @@
+{
+  "checks": 6,
+  "controlsPresent": true,
+  "savedCaseDeletion": true,
+  "standalonePages": true,
+  "adRequests": 0,
+  "errors": [],
+  "accessibilityScan": true,
+  "target": "exact local public build"
+}

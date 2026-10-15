@@ -31,3 +31,21 @@ Owner request, 15 October 2026: make CASEBOOK discoverable and useful through se
 Acceptance: crawlable case pages with useful content without JavaScript; accurate metadata and sharing previews; source-derived copy and visible research date; preserved filtering, saved items and comparison; responsive light/dark design and accessibility preferences; complete image provenance; repeatable quality and exact hosted revision tests. Advertising remains off until an active publisher account, real ad unit, site approval and certified consent setup are verified. No ad calls before required consent. No pop-ups or ads inside ranking/comparison controls.
 
 Non-goals: paid ad campaigns, payment details, account creation or binding terms, analytics, background watchers, domain changes, native conversion or another project's modification. Indexing, audience growth, physical device acceptance and AdSense approval are external outcomes, separately evidenced. Rollback: revert the integration commit and redeploy the last verified Pages tree.
+
+## CB-003: Publisher root, privacy preferences and certified consent readiness
+
+- Owner instruction: 15 October 2026. Release after CB-002. Improve privacy/cookie controls, start AdSense review, support UK/EEA/Switzerland consent while keeping the experience restrained. Owner permits publishing and account setup.
+- Outcome: an accessible Privacy & cookies control across CASEBOOK; real origin ads.txt and account verification meta; certifiable, consent-before-ad gated Google CMP integration; a visibly clear separation between approved live ads and readiness scaffolding.
+- Acceptance: local-only favourites and voluntary deletion; no fabricated opt-in banner when ads are disabled; a certified Google CMP, when approved and configured, owns equal Consent/Do not consent/Manage options; ads blocked on denial, missing API, wrong site, missing approval or withdrawal; privacy/method/source copy updated; verified public deployment with no ad requests before approval. Never invent Google approval.
+- Non-goals: manufactured CMP certification, marketing revenue guarantee, cookie consent stored as a plain localStorage flag, personal-data collection, Google Ads purchase, forced monetisation or payment details.
+- Lane C: account/CMP/external hosting plus shared UX; review exact official source and tests, separate deployment and published-state evidence.
+- Dependencies: Google external site and account approval, certified CMP configuration, approved real ad-unit IDs; root ads.txt and meta can be made ready immediately. Owner to complete any interactive contractual or identity verification.
+- Rollback: revert CASEBOOK CB-003 release and, if the publisher root changes, revert that root commit independently; keep public source evidence.
+
+## CB-004: AdSense activation after external approval
+
+- Owner-review state: external approval pending. [Tracked as GitHub issue #3](https://github.com/olly-j/duo-casebook/issues/3).
+- Technical work: CB-003 publishes the dormant consent bridge, responsive privacy controls and verified publisher-origin metadata/ads.txt.
+- Google state at last check: publisher onboarding still requires site connection; the payment-information card is complete but site approval is unverified. A certified, published Google Privacy & messaging European regulations message, exact CMP identifiers and real manual ad-unit configuration are pending.
+- Activation invariant: never set `enabled:true` until account/site/CMP/consent network tests and privacy disclosures pass. Use a separate reviewed release. No fabricated consent, purchased traffic or intrusive advertising.
+- Rollback: revert the activation PR or set ads back to disabled and verify network silence. Preserve evidence.

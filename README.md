@@ -20,9 +20,9 @@ Original photography stays attributed. Source-derived WebP delivery copies impro
 
 ## Advertising and privacy
 
-AdSense is prepared and **disabled**. Activation requires verified publisher and site approvals, real ad-unit IDs, a reviewed certified consent provider and host-level ads.txt. The shipped build makes no advertising or analytics requests. Any future placement is labelled and separated from case order and comparisons. No account, payment setup, tracking service or paid advertising campaign was created.
+Google AdSense is configured but **disabled** until the publisher account and site approval are confirmed. The accompanying [publisher-root repository](https://github.com/olly-j/olly-j.github.io) now serves the origin-level `ads.txt`, ownership verification meta and an accessible CASEBOOK entry page. The [Privacy & cookies](https://olly-j.github.io/duo-casebook/privacy/) control explains the current browser-local shortlist and can clear it without affecting unrelated storage.  Activation requires verified publisher and site approvals, real ad-unit IDs, a reviewed certified consent provider and host-level ads.txt. The shipped build makes no advertising or analytics requests. Any future placement is labelled and separated from case order and comparisons. No ad-serving account activation, payment change, tracking service or paid advertising campaign was performed. The previously existing account displayed payment information received, while Google still requires site connection and review.
 
-Saved cases use browser-local storage. See the [privacy notice](https://olly-j.github.io/duo-casebook/privacy/).
+Saved cases use browser-local storage. The Privacy & cookies control is available throughout the site and links to the [privacy notice](https://olly-j.github.io/duo-casebook/privacy/). When a Google-certified consent message is approved and configured, that message will handle equal Consent, Do not consent and Manage options and withdrawal. No nonessential advertising request may be made before valid consent. A local checkbox is never treated as IAB consent.
 
 ## Develop and verify
 
@@ -38,7 +38,7 @@ python3 prepare_site.py
 
 Python 3 and Node run the offline contracts. Browser checks reuse an existing Playwright, Chromium and axe-core installation, located by the runner or supplied through PLAYWRIGHT_MODULE, CHROME_PATH and AXE_PATH. No package installation occurs implicitly. The lightweight GitHub workflow runs offline checks and a deterministic rebuild.
 
-`research/` holds source facts, editorial patches and image-delivery provenance. `web/` holds authored interface assets. `scripts/build_discovery.py` generates crawlable case and editorial pages. `docs/` is the Pages deployment tree and also retains Markdown project authorities. The build copies only explicit public assets. It never publishes agent logs, Apple guidance exports or private account evidence.
+`research/` holds source facts, editorial patches and image-delivery provenance. `scripts/adsense_readiness.py` is a read-only publisher readiness audit. `web/google-cmp-provider.js` and `web/privacy-center.js` implement distinct certification and user-experience boundaries. `web/` holds authored interface assets. `scripts/build_discovery.py` generates crawlable case and editorial pages. `docs/` is the Pages deployment tree and also retains Markdown project authorities. The build copies only explicit public assets. It never publishes agent logs, Apple guidance exports or private account evidence.
 
 ## Release
 

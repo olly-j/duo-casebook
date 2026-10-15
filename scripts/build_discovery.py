@@ -62,6 +62,7 @@ def ld(data):
 def metadata(title, description, path, schema, image=None, noindex=False):
     url = BASE + path
     tags = f'<title>{esc(title)}</title><meta name="description" content="{esc(description)}"><link rel="canonical" href="{url}">'
+    if path: tags += '<meta name="google-adsense-account" content="ca-pub-3784314933458462">'
     for attr, key, val in [('property', 'og:type', 'website'), ('property', 'og:site_name', 'CASEBOOK'), ('property', 'og:title', title), ('property', 'og:description', description), ('property', 'og:url', url), ('name', 'twitter:card', 'summary_large_image' if image else 'summary'), ('name', 'twitter:title', title), ('name', 'twitter:description', description)]:
         tags += f'<meta {attr}="{key}" content="{esc(val)}">'
     if image and safe_url(image):
@@ -79,14 +80,18 @@ def breadcrumbs(path, title):
 
 
 def ads_assets(output, prefix):
-    if all((output / name).is_file() for name in ('ads-config.js', 'ads.js', 'ads.css', 'ads-boot.js')):
-        return f'<link rel="stylesheet" href="{prefix}ads.css"><script defer src="{prefix}ads-config.js"></script><script defer src="{prefix}ads.js"></script><script defer src="{prefix}ads-boot.js"></script>'
+    if all((output / name).is_file() for name in ('ads-config.js', 'ads.js', 'ads.css', 'ads-boot.js', 'google-cmp-provider.js', 'google-cmp-boot.js')):
+        return f'<link rel="stylesheet" href="{prefix}ads.css"><script defer src="{prefix}ads-config.js"></script><script defer src="{prefix}google-cmp-provider.js"></script><script defer src="{prefix}google-cmp-boot.js"></script><script defer src="{prefix}ads.js"></script><script defer src="{prefix}ads-boot.js"></script>'
     return ''
+
+
+def privacy_assets(prefix):
+    return f'<link rel="stylesheet" href="{prefix}privacy-center.css"><script defer src="{prefix}ads-config.js"></script><script defer src="{prefix}google-cmp-provider.js"></script><script defer src="{prefix}google-cmp-boot.js"></script><script defer src="{prefix}privacy-center.js"></script>'
 
 
 def page(title, description, path, body, schema, output, image=None, noindex=False, ads=False):
     prefix = '../' * path.count('/') if path.endswith('/') else './'
-    return '<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">' + metadata(title, description, path, schema, image, noindex) + f'<link rel="stylesheet" href="{prefix}styles.css"><link rel="stylesheet" href="{prefix}reading.css"><link rel="icon" href="{prefix}icon.svg"><script defer src="{prefix}reading.js"></script>' + (ads_assets(output, prefix) if ads else '') + f'</head><body class="reading"><a class="reading-skip" href="#content">Skip to content</a><header class="reading-header"><a href="{BASE}" class="wordmark">CASEBOOK</a><nav aria-label="Main"><a href="{BASE}">Browse cases</a><a href="{BASE}guides/choose-a-case/">Choosing a case</a><a href="{BASE}about/">About</a></nav></header><main id="content" class="reading-main">' + body + f'</main><footer class="reading-footer"><a href="{BASE}privacy/">Privacy</a> · <a href="{REPO}/issues/new">Suggest a correction</a> · <a href="{BASE}">Browse cases</a></footer></body></html>'
+    return '<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">' + metadata(title, description, path, schema, image, noindex) + f'<link rel="stylesheet" href="{prefix}styles.css"><link rel="stylesheet" href="{prefix}reading.css"><link rel="icon" href="{prefix}icon.svg"><script defer src="{prefix}reading.js"></script>' + privacy_assets(prefix) + (f'<link rel="stylesheet" href="{prefix}ads.css"><script defer src="{prefix}ads.js"></script><script defer src="{prefix}ads-boot.js"></script>' if ads else '') + f'</head><body class="reading"><a class="reading-skip" href="#content">Skip to content</a><header class="reading-header"><a href="{BASE}" class="wordmark">CASEBOOK</a><nav aria-label="Main"><a href="{BASE}">Browse cases</a><a href="{BASE}guides/choose-a-case/">Choosing a case</a><a href="{BASE}about/">About</a></nav></header><main id="content" class="reading-main">' + body + f'</main><footer class="reading-footer"><a href="{BASE}privacy/">Privacy</a> · <a href="{REPO}/issues/new">Suggest a correction</a> · <a href="{BASE}">Browse cases</a></footer></body></html>'
 
 
 SPECS = [('materials', 'Materials'), ('materialNotes', 'Material notes'), ('coverage', 'Coverage'), ('coverageNote', 'Coverage notes'), ('hinge', 'Structural hinge cover'), ('magsafe', 'Magnetic attachment'), ('stand', 'Stand'), ('wallet', 'Wallet'), ('strap', 'Strap'), ('weightG', 'Case weight (g)'), ('thicknessMm', 'Wall thickness (mm)'), ('thicknessNote', 'Thickness and weight context'), ('dimensions', 'Published dimensions'), ('closedWidthMm', 'Closed width (mm)'), ('closedDepthMm', 'Closed depth (mm)'), ('ukListing', 'UK listing'), ('releaseDate', 'Published release date'), ('releaseNote', 'Release / dispatch notes'), ('shippingNote', 'Delivery notes'), ('evidence', 'Product source evidence')]

@@ -31,3 +31,7 @@ CASEBOOK is a source-led, mobile-first iPhone Duo case catalogue for a UK buyer.
 The prepared tree now contains crawlable case pages, an original buying guide, editorial method and privacy information. scripts/build_discovery.py generates 92 case pages from the same reviewed catalogue and an exact SHA-256 build inventory. No-JavaScript reading is supported. Native SwiftUI APIs are out of scope; Apple design guidance informs web typography, controls, materials and accessibility.
 
 Optional publisher ads are disabled in the shipped configuration. scripts and hosts cannot activate until publisher, site and certified-consent gates are complete; the current site makes no ad-network or analytics requests. No third-party CMP or paid service was installed.
+
+## CB-003 privacy/advertising design
+
+The footer Privacy & cookies control is static-page and JavaScript compatible. Saved-case deletion explicitly removes only the catalogue's browser-local key. A Google-certified CMP is required for optional advertising; the adapter never fabricates or persists TCF consent. `google-cmp-boot.js` is inert until verified publisher, site, CMP, consent message, matching origin and valid script are all approved. The publisher root (`olly-j/olly-j.github.io`) owns Google verification meta and ads.txt, outside the catalogue project path. Publishing consent code does not mean Google approved the site or that ads are active.

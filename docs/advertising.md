@@ -38,7 +38,7 @@ No-fill and errors remove the ad DOM and make the shell invisible. Once reserved
 
 ## ads.txt and hosting
 
-Google's guidance requires ads.txt at the host root. For `https://olly-j.github.io/duo-casebook/`, that is **https://olly-j.github.io/ads.txt**, not `/duo-casebook/ads.txt`. This project cannot establish control of that root. Owner must resolve host-level control and use the real account-provided declaration before activation; no fake ads.txt is generated. A custom domain is optional and needs an owner decision, DNS/hosting control and renewed site approval assessment. Neither an ads.txt file nor embedding code alone establishes site approval.
+Google's guidance requires ads.txt at the host root. For `https://olly-j.github.io/duo-casebook/`, that is **https://olly-j.github.io/ads.txt**, not `/duo-casebook/ads.txt`. The separately created user-site repository [olly-j.github.io](https://github.com/olly-j/olly-j.github.io) now serves the actual publisher record at the origin root. Its homepage includes account-verification metadata and links to CASEBOOK. Both root paths were independently checked as HTTP 200 on 15 October 2026. This confirms correct public placement, not Google account activation, site approval or automatic ads.txt crawler acceptance. A custom domain is optional and needs an owner decision, DNS/hosting control and renewed site approval assessment. Neither an ads.txt file nor embedding code alone establishes site approval.
 
 ## Official sources reviewed 15 October 2026
 
@@ -55,3 +55,9 @@ Policies and the certified list change. Recheck the applicable current requireme
 ## Parent integration, CB-002
 
 web/ads-boot.js now connects the guarded controller to explicit catalogue/article placements. It exits before work when advertising is disabled or a reviewed consent provider is absent. Public configuration retains null publisher/ad-unit IDs and false approvals. No live advertising was requested during tests. An existing AdSense account was located through owner-authorised account discovery; its current eligibility was not verified. Reactivation, site verification, real unit creation, certified CMP setup and root ads.txt placement remain external activation gates. Private account correspondence and publisher identifiers are not included in this public repository.
+
+## CB-003 deployment boundary
+
+A native Privacy & cookies control now appears throughout CASEBOOK. In the shipped disabled state it explains that there are no optional advertising cookies to accept, allows selective deletion of browser-local saved cases and links to this notice. It does not use localStorage consent flags. The future certified Google Privacy & messaging CMP must offer equally accessible Consent, Do not consent and Manage options before ad activation. The consent bridge and defensive ad loader remain off until publisher, site, CMP identity/version, site-specific message and real manual ad-unit approvals have been independently verified. Google onboarding currently still shows site connection required; publishing the verification tag and ads.txt does not establish activation.
+
+The owned bootstrap script `web/google-cmp-boot.js` requires the exact Google-provided message script URL from a reviewed account configuration. It cannot bootstrap a CMP or request ads in the current disabled configuration. The loader is conservatively restricted to the configured origin and Google-only TCF consent purposes. Retest the actual message and network lifecycle on real browsers before activation.
