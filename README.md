@@ -4,7 +4,7 @@ A source-led, mobile-first iPhone Duo case catalogue.
 
 **Open the app:** https://olly-j.github.io/duo-casebook/
 
-The 15 October 2026 research snapshot contains 92 case designs, configurations and preview entries across 44 brands, with a 54-brand discovery registry. Counts are derived from `web/catalogue.json` and will change with subsequent research.
+The 15 October 2026 research snapshot contains 93 case designs, configurations and preview entries across 45 brands, with a 67-brand discovery registry. Counts are derived from `web/catalogue.json` and will change with subsequent research.
 
 ## Use
 

@@ -2,7 +2,7 @@
 import json,re,pathlib,copy
 ROOT=pathlib.Path(__file__).resolve().parent
 load=lambda n:json.loads((ROOT/'research'/n).read_text())
-inputs=[load(n) for n in ['main-a.json','main-b.json','main-c.json','additional-cases.json','core-cases.json']]
+inputs=[load(n) for n in ['main-a.json','main-b.json','main-c.json','additional-cases.json','core-cases.json','final-sweep.json']]
 brand_data=load('brand-evidence.json')['brands']
 brand_map={b['brand']:b for b in brand_data}
 patches=load('image-patches.json')['patches']

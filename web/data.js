@@ -5701,6 +5701,72 @@ window.CASEBOOK = {
       ],
       "brandEvidence": "not-established",
       "checkedAt": "2026-10-15"
+    },
+    {
+      "id": "nudient-slice",
+      "brand": "NUDIENT",
+      "name": "Slice Case",
+      "url": "https://www.nudient.com/products/slice-case-iphone-duo-ink-black-magsafe",
+      "price": 35,
+      "currency": "EUR",
+      "status": "announced",
+      "evidence": "official",
+      "materials": [
+        "Polycarbonate"
+      ],
+      "coverage": "back-only",
+      "magsafe": true,
+      "weightG": null,
+      "thicknessMm": null,
+      "colours": [
+        "Ink Black"
+      ],
+      "summary": "A magnetic backplate with a ribbed surface. Official Duo product photographs show the front and side controls left exposed.",
+      "image": "https://www.nudient.com/cdn/shop/files/00-049-0145-0000_1_379adff0-acec-419b-9ce1-bce24c947423.jpg?v=1790769371&width=1500",
+      "releaseNote": "Official listing found. Exact dispatch date and orderability are unconfirmed.",
+      "shippingNote": "EUR listing served with Italy selected. UK price and delivered total have not been verified.",
+      "limitations": [
+        "The page displays both Add to cart and Notify when available. Confirm orderability before purchase.",
+        "The description still names iPhone 17 Pro despite the Duo-specific title, collection and photographs. The generic 1 mm specification is excluded from Duo measurement sorting.",
+        "Backplate only. It does not provide a front frame or full edge coverage.",
+        "No independent Duo-specific performance test was established."
+      ],
+      "sources": [
+        {
+          "url": "https://www.nudient.com/products/slice-case-iphone-duo-ink-black-magsafe",
+          "title": "NUDIENT Slice Case MagSafe: iPhone Duo",
+          "type": "manufacturer",
+          "facts": [
+            "EUR 35; Ink Black; MagSafe-compatible listing.",
+            "Duo-specific manufacturer gallery depicts a rear plate and exposed side controls.",
+            "Product specifications state polycarbonate; legacy model wording and unclear availability are flagged."
+          ]
+        },
+        {
+          "url": "https://www.nudient.com/collections/iphone-duo-slice-case",
+          "title": "NUDIENT iPhone Duo Slice Case collection",
+          "type": "manufacturer",
+          "facts": [
+            "Duo collection lists Slice Case in Ink Black for EUR 35."
+          ]
+        }
+      ],
+      "ukListing": null,
+      "hinge": null,
+      "stand": null,
+      "wallet": null,
+      "strap": null,
+      "thicknessNote": null,
+      "dimensions": null,
+      "closedWidthMm": null,
+      "closedDepthMm": null,
+      "releaseDate": null,
+      "variants": [],
+      "materialNotes": [
+        "Polycarbonate"
+      ],
+      "brandEvidence": "not-established",
+      "checkedAt": "2026-10-15"
     }
   ],
   "brands": [
@@ -6367,6 +6433,13 @@ window.CASEBOOK = {
   ],
   "coverage": [
     {
+      "brand": "Andar",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
+    },
+    {
       "brand": "Apple",
       "status": "verified-with-gaps",
       "note": "2 public case designs or configurations located. Unpublished measurements and availability gaps are retained in each product file.",
@@ -6374,6 +6447,20 @@ window.CASEBOOK = {
         "https://www.apple.com/uk/shop/product/mkr94zm/a/iphone-duo-case-sand",
         "https://www.apple.com/uk/shop/product/mkr64zm/a/iphone-duo-folio-with-kickstand-taupe"
       ]
+    },
+    {
+      "brand": "Arc Pulse",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
+    },
+    {
+      "brand": "Aulumu",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
     },
     {
       "brand": "Bellroy",
@@ -6438,12 +6525,26 @@ window.CASEBOOK = {
       ]
     },
     {
+      "brand": "Caseology",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
+    },
+    {
       "brand": "CASETiFY",
       "status": "coming-soon",
       "note": "Official UK waitlist only. Impact mentioned in landing-page prose, without a verified purchasable family; no inferred Impact/Bounce entries.",
       "sourceUrls": [
         "https://www.casetify.com/en_GB/iphone-cases/iphone-duo-cases"
       ]
+    },
+    {
+      "brand": "Caudabe",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
     },
     {
       "brand": "Cygnett",
@@ -6468,6 +6569,13 @@ window.CASEBOOK = {
       "searchDescription": "Exact-name and site:decodedbags.com searches for \"iPhone Duo\" case.",
       "sourceUrls": [],
       "note": "No Duo-specific product verified. Empty search results do not establish absence."
+    },
+    {
+      "brand": "Dux Ducis",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
     },
     {
       "brand": "Elago",
@@ -6506,6 +6614,13 @@ window.CASEBOOK = {
         "https://fntcase.com/products/iphone-ultra-2026-clear-case-magnetic-charging-shockproof-magsafe-support",
         "https://fntcase.com/products/iphone-18-ultra-2026-with-hinge-protection-magnetic-rugged-case-featuring-ring-kickstand-military-grade-protection"
       ]
+    },
+    {
+      "brand": "Ghostek",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
     },
     {
       "brand": "i-Blason",
@@ -6605,6 +6720,13 @@ window.CASEBOOK = {
       ]
     },
     {
+      "brand": "Native Union",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
+    },
+    {
       "brand": "Nillkin",
       "status": "verified-with-gaps",
       "note": "2 public case designs or configurations located. Unpublished measurements and availability gaps are retained in each product file.",
@@ -6630,6 +6752,14 @@ window.CASEBOOK = {
       "sourceUrls": [
         "https://www.galaxus.ch/de/s1/product/noreve-lederschutzhlle-apple-iphone-duo-smartphone-huelle-76687963",
         "https://www.galaxus.it/it/s1/product/noreve-custodia-a-portafoglio-in-pelle-per-apple-iphone-18-duo-apple-iphone-duo-cover-smartphone-76687952"
+      ]
+    },
+    {
+      "brand": "NUDIENT",
+      "status": "verified-with-gaps",
+      "note": "1 public case designs or configurations located. Unpublished measurements and availability gaps are retained in each product file.",
+      "sourceUrls": [
+        "https://www.nudient.com/products/slice-case-iphone-duo-ink-black-magsafe"
       ]
     },
     {
@@ -6663,6 +6793,13 @@ window.CASEBOOK = {
         "https://www.reddit.com/r/iPhoneDuo/comments/1wu9fos/emailed_peak_design_if_they_were_gonna_make_duo/"
       ],
       "note": "A user reproduces a purported wait-and-see manufacturer statement. Original official support page was not verified; no official product or concept recorded."
+    },
+    {
+      "brand": "Peel",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
     },
     {
       "brand": "Pelican",
@@ -6820,6 +6957,20 @@ window.CASEBOOK = {
       ]
     },
     {
+      "brand": "Totallee",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
+    },
+    {
+      "brand": "TUDIA",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
+    },
+    {
       "brand": "UAG",
       "status": "verified-with-gaps",
       "note": "1 public case designs or configurations located. Unpublished measurements and availability gaps are retained in each product file.",
@@ -6837,6 +6988,13 @@ window.CASEBOOK = {
         "https://www.vajacases.com/products/leather-folio-wrap-aramid-shell-iphone-duo-case?variant=54289840668856",
         "https://www.vajacases.com/products/leather-wallet-wrap-aramid-shell-iphone-duo-case?variant=54289830707384"
       ]
+    },
+    {
+      "brand": "VRS Design",
+      "status": "not-verified",
+      "searchDescription": "Grouped exact-model web searches for iPhone Duo and this brand on 15 October 2026.",
+      "sourceUrls": [],
+      "note": "No Duo-specific product source was established in this final search pass. This is not proof of absence; the brand may announce or list a case later."
     },
     {
       "brand": "Waterfield",
