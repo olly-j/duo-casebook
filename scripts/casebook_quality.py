@@ -2,6 +2,7 @@
 """Read-only CASEBOOK contract, catalogue and publication audit."""
 from __future__ import annotations
 import argparse,json,re,subprocess,sys
+from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parents[1]
@@ -41,6 +42,12 @@ def main()->int:
         if 'waitlist' in str(p.get('name','')).lower() or 'family unannounced' in str(p.get('name','')).lower():fail(errors,f'{label}: unnamed preview belongs in registry')
     if (ROOT/'web/catalogue.json').read_bytes()!=(ROOT/'docs/catalogue.json').read_bytes():fail(errors,'published catalogue is not prepared from web source')
     if (ROOT/'web/data.js').read_bytes()!=(ROOT/'docs/data.js').read_bytes():fail(errors,'published data.js is not prepared from web source')
+    inventory=ROOT/'docs/build-manifest.json'
+    if inventory.is_file():
+        import hashlib
+        for rel,digest in json.loads(inventory.read_text()).get('files',{}).items():
+            path=(ROOT/'docs'/rel).resolve()
+            if not path.is_relative_to((ROOT/'docs').resolve()) or not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=digest: fail(errors,f'deployment inventory mismatch: {rel}')
     summary=json.loads((ROOT/'research/catalogue-summary.json').read_text())
     if summary.get('records')!=len(products):fail(errors,'catalogue summary record count mismatch')
     if summary.get('images')!=len(products) or not summary.get('imageComplete'):fail(errors,'catalogue summary does not prove complete images')
@@ -53,7 +60,8 @@ def main()->int:
         if SECRET.search(text):fail(errors,f'possible secret in {rel}')
         if ('/Users'+'/' in text) or ('/home'+'/' in text):fail(errors,f'private absolute path in {rel}')
     if args.mode=='release':
-        if data.get('meta',{}).get('checkedAt')!='2026-10-15':fail(errors,'unexpected research snapshot date')
+        try: date.fromisoformat(data['meta']['checkedAt'])
+        except (KeyError, TypeError, ValueError): fail(errors,'research snapshot must use a valid ISO date')
         if not (ROOT/'QA.md').is_file():fail(errors,'QA.md required for release')
     if errors:
         print('\n'.join('ERROR '+x for x in errors));return 1

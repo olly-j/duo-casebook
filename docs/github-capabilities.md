@@ -18,3 +18,7 @@ GitHub supplements the repository authorities. It does not replace product scope
 | Commit signatures | Optional | Current evidence is commit SHA plus repository and public-deployment verification |
 
 Public deployment and merge are human gates unless the owner explicitly delegates them for the current task. Automatic publication of AI-generated notes or releases remains disabled. Any future Action must use minimal permissions and a full commit SHA pin.
+
+## CB-002 lightweight CI
+
+The quality workflow now runs catalogue and deployment audits, 76 frontend/advertising checks, Python runtime/discovery tests and a deterministic rebuild on pull requests and main pushes. It uses a full-SHA-pinned checkout action, read-only repository permissions, cancellation of superseded runs and a five-minute timeout. Browser and visual release checks run locally against the exact deployment tree and are repeated against the public site. No paid service, account or new package was installed.

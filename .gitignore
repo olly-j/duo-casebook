@@ -9,3 +9,5 @@ pages-config.json
 research/image-candidates.json
 research/image-candidate-ranking.json
 tests/photos-before.json
+
+evidence/lighthouse-*.json

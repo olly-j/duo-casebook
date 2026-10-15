@@ -4,6 +4,7 @@ import copy
 import importlib.util
 import tempfile
 import unittest
+from unittest import mock
 from pathlib import Path
 
 
@@ -30,7 +31,9 @@ class GeneratedSpineRuntimeTests(unittest.TestCase):
         )
         self.assertFalse(manifest["githubPolicy"]["automaticPublish"])
         self.assertEqual(SPINE.validate_github_action_pins(ROOT), [])
-        self.assertEqual(SPINE.command_release_plan(ROOT, manifest), 0)
+        with mock.patch.object(SPINE, "run_commands", return_value=0) as commands:
+            self.assertEqual(SPINE.command_release_plan(ROOT, manifest), 0)
+            commands.assert_called_once()
 
     def test_ecosystem_is_pinned_and_manual(self) -> None:
         _, manifest = SPINE.load_manifest(ROOT)
