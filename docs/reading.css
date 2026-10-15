@@ -1,7 +1,7 @@
 /* CB-002: standalone, source-led reading pages. */
-.reading{background:var(--paper,#f6f4ee);color:var(--ink,#21221f);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.65;margin:0}
-.reading a{color:var(--moss,#3b5748);text-underline-offset:.2em;overflow-wrap:anywhere}
-.reading a:focus-visible{outline:3px solid var(--moss,#3b5748);outline-offset:4px}
+.reading{background:var(--paper,#fff);color:var(--ink,#1d1d1f);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.65;margin:0}
+.reading a{color:var(--link,#0066cc);text-underline-offset:.2em;overflow-wrap:anywhere}
+.reading a:focus-visible{outline:3px solid var(--link,#0066cc);outline-offset:4px}
 .reading-header,.reading-footer{padding:1.25rem max(1rem,calc((100vw - 72rem)/2));border-block-end:1px solid var(--line,#ccc);display:flex;gap:1.5rem;flex-wrap:wrap;align-items:center}
 .reading-header nav{display:flex;gap:1rem;flex-wrap:wrap}.reading-header a,.reading-footer a,.reading-actions a{display:inline-flex;align-items:center;min-height:44px}
 .reading-main{width:min(100% - 2rem,50rem);margin:3rem auto 5rem}.reading-main h1{font-size:clamp(2rem,5vw,3.5rem);line-height:1.12;letter-spacing:-.035em;margin-block:1rem 1.5rem}.reading-main h2{font-size:1.5rem;line-height:1.25;margin-top:2.75rem}.reading-lead{font-size:1.2rem}.reading-main p,.reading-main li,.reading-main dd{overflow-wrap:anywhere}.reading-main li{margin-block:.5rem}.reading-main figure{margin:2rem 0}.reading-main img{display:block;width:100%;max-height:34rem;object-fit:contain;background:#fff;border-radius:1rem}.reading-main figcaption{font-size:.875rem;color:var(--muted,#62665f);margin-top:.75rem}.reading-specs{margin:1.5rem 0}.reading-specs>div{display:grid;grid-template-columns:minmax(9rem,1fr) 2fr;gap:1.25rem;border-top:1px solid var(--line,#ccc);padding:1rem 0}.reading-specs dt{font-weight:600}.reading-specs dd{margin:0}.reading-actions{display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0}.reading-actions a{border:1px solid var(--line,#ccc);border-radius:.5rem;padding:.5rem 1rem}.reading-sources{padding-left:1.25rem}.reading-sources>li{margin-block:1.5rem}.reading-skip{position:absolute;top:-8rem;left:1rem;padding:1rem;background:var(--paper,#fff);z-index:100}.reading-skip:focus{top:1rem}.reading [hidden]{display:none!important}
@@ -12,3 +12,28 @@
 .reading-main>figure{aspect-ratio:4/3;max-height:36rem}.reading-main>figure>img{height:calc(100% - 3rem);max-height:32rem}.reading-specs{font-size:1rem}.reading-meta{color:var(--muted)}
 
 .reading-header{padding-block:.75rem;gap:.5rem 1.5rem}.reading-header nav{font-size:.95rem}.reading-main{margin-top:2rem}.reading-main>p>a[href^="https://"]{min-height:44px;display:inline-flex;align-items:center}.reading-main>figure{margin-block:1.5rem}
+
+
+/* CB-005. Reading stays solid, with a separate glass navigation layer. */
+body.reading{color:var(--ink);background:var(--paper)}
+body.reading .reading-header{position:sticky;top:0;z-index:6;background:var(--nav);border-bottom:1px solid var(--glass-stroke)}
+body.reading .reading-header .wordmark{font-weight:740;letter-spacing:.12em;text-decoration:none;color:var(--ink)}
+body.reading .glass-dock{flex-wrap:wrap;gap:.2rem;position:sticky;top:0;background:var(--glass-fill);border:1px solid var(--glass-stroke);border-radius:999px;padding:.22rem .45rem;box-shadow:inset 0 1px 0 var(--glass-edge),var(--glass-shadow)}
+body.reading .glass-dock a{border-radius:999px;min-height:44px;text-decoration:none;color:var(--ink);padding:.5rem .85rem;font-size:.9rem;line-height:1.3}
+body.reading .glass-dock a:hover{background:var(--glass-selected)}
+body.reading .reading-main{max-width:52rem}
+body.reading .reading-main h1{font-weight:710;letter-spacing:-.047em}
+body.reading .reading-actions a{border:1px solid var(--glass-stroke);border-radius:999px;background:var(--glass-fill);box-shadow:inset 0 1px 0 var(--glass-edge),var(--glass-shadow);padding-inline:1.15rem;text-decoration:none;color:var(--ink)}
+body.reading .reading-footer{border-top:1px solid var(--line)}
+body.reading .reading-main a:not(.button-link){text-underline-offset:.25em}
+@supports ((-webkit-backdrop-filter:blur(1px)) or (backdrop-filter:blur(1px))){
+  body.reading .reading-header,body.reading .glass-dock{ -webkit-backdrop-filter:blur(14px) saturate(145%);backdrop-filter:blur(14px) saturate(145%) }
+}
+@media(max-width:700px){
+  body.reading .reading-header{position:relative;background:var(--paper);-webkit-backdrop-filter:none;backdrop-filter:none}
+  body.reading .glass-dock{width:100%;justify-content:space-between}
+  body.reading .glass-dock a{padding-inline:.5rem}
+}
+@media(prefers-reduced-transparency:reduce),(prefers-contrast:more){
+  body.reading .reading-header,body.reading .glass-dock,body.reading .reading-actions a{background:var(--paper);-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+}
