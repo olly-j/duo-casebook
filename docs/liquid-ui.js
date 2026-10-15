@@ -7,7 +7,10 @@
   const products = document.getElementById('products');
   if (!tray || !products || !window.matchMedia) return;
 
-  const prefers = window.matchMedia('(min-width: 1100px) and (pointer: fine) and (prefers-reduced-motion: no-preference) and (prefers-reduced-transparency: no-preference) and (prefers-contrast: no-preference)');
+  const prefers = window.matchMedia('(min-width: 1100px) and (pointer: fine)');
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const reduceTransparency = window.matchMedia('(prefers-reduced-transparency: reduce)');
+  const moreContrast = window.matchMedia('(prefers-contrast: more)');
   let lens = null, loading = false, tried = false, scheduled = false, disposed = false;
   const safari = /Safari\//.test(navigator.userAgent) && !/(Chrome|Chromium|Edg|OPR)\//.test(navigator.userAgent);
   const touchDevice = /iPad|iPhone|iPod|Android/.test(navigator.userAgent);
@@ -17,7 +20,7 @@
 
   function eligible() {
     return !disposed && document.visibilityState === 'visible' && !tray.hidden &&
-      prefers.matches && !safari && !touchDevice && !limitedMemory &&
+      prefers.matches && !reduceMotion.matches && !reduceTransparency.matches && !moreContrast.matches && !safari && !touchDevice && !limitedMemory &&
       !limitedCPU && !dataSaver && !window.matchMedia('(forced-colors: active)').matches &&
       document.documentElement.scrollHeight <= 6400 &&
       products.querySelectorAll('.card').length > 0 &&
@@ -75,12 +78,12 @@
   const observer = new MutationObserver(schedule);
   observer.observe(tray, {attributes:true,attributeFilter:['hidden']});
   observer.observe(products, {childList:true});
-  prefers.addEventListener?.('change',schedule);
+  [prefers,reduceMotion,reduceTransparency,moreContrast].forEach(m => m.addEventListener?.('change',schedule));
   document.addEventListener('visibilitychange',schedule);
   window.addEventListener('pagehide',() => {
     disposed = true;
     observer.disconnect();
-    prefers.removeEventListener?.('change',schedule);
+    [prefers,reduceMotion,reduceTransparency,moreContrast].forEach(m => m.removeEventListener?.('change',schedule));
     document.removeEventListener('visibilitychange',schedule);
     removeLens();
   }, {once:true});
