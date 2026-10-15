@@ -33,3 +33,9 @@ Status: Append-only evidence register
 - Linked work: CB-003.
 - Decision: owner explicitly authorised a distinct second public deployment after the previously released CB-002.
 - Evidence status: implementation and external publisher review tracked separately. Do not mark Google site or CMP approved based on source code alone.
+
+## CB-F005, 15 October 2026
+
+Owner feedback: the previous green accents looked generic and AI-generated; CASEBOOK should use classic Apple neutrals and a restrained iOS-like Liquid Glass treatment on touch controls, navigation and sheets. The supplied implementation reference is [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL). Responsiveness, legibility and avoiding mobile lag take priority over optical effects.
+
+Resolution: linked to CB-005 design system and GitHub release tests. Content and case photos remain solid. A pinned vendor runtime is lazy and eligible only on short desktop views; every touch device retains native CSS materials.
