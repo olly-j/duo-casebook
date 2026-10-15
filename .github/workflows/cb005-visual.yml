@@ -27,6 +27,7 @@ jobs:
       - name: Phone, tablet, desktop, light and dark journeys
         env:
           AXE_PATH: ./node_modules/axe-core/axe.min.js
+          CASEBOOK_CI_NO_SANDBOX: '1'
         run: |
           node tests/launch-browser.cjs
           node tests/consent-browser.cjs
